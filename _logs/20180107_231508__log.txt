@@ -1,0 +1,67 @@
+[KCRNN][2018-01-07 23:15:08] Library [KCRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[KCRNN][2018-01-07 23:15:08] Logger ver: 3.9.2_tf14-html
+[KCRNN][2018-01-07 23:15:08] Found TF 1.4.0 running on GPU
+[KCRNN][2018-01-07 23:15:08] Found TF.Keras 2.0.8-tf
+[KCRNN][2018-01-07 23:15:08] Found Keras 2.0.9
+[KCRNN][2018-01-07 23:15:08] Load data...
+[KCRNN][2018-01-07 23:15:08] Done load data. [0.02s]
+[KCRNN][2018-01-07 23:15:08] Creating model...
+[KCRNN][2018-01-07 23:15:08] Model created.
+[KCRNN][2018-01-07 23:15:09] Training iteration 0
+[KCRNN][2018-01-07 23:15:37] Testing model at iteration 0 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a
+[KCRNN][2018-01-07 23:15:37] Training iteration 1
+[KCRNN][2018-01-07 23:16:02] Testing model at iteration 1 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca a ca 
+[KCRNN][2018-01-07 23:16:02] Training iteration 2
+[KCRNN][2018-01-07 23:16:24] Testing model at iteration 2 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa se pa
+[KCRNN][2018-01-07 23:16:24] Training iteration 3
+[KCRNN][2018-01-07 23:16:49] Testing model at iteration 3 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca si pe printate ca si pe printate ca si pe printate ca si pe printate ca si pe printate ca si pe printate ca si pe printate ca si pe printate ca si pe printate ca si pe printate ca si pe printate ca
+[KCRNN][2018-01-07 23:16:49] Training iteration 4
+[KCRNN][2018-01-07 23:17:14] Testing model at iteration 4 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca ca ca sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa
+[KCRNN][2018-01-07 23:17:14] Training iteration 5
+[KCRNN][2018-01-07 23:17:37] Testing model at iteration 5 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca sa sa si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si
+[KCRNN][2018-01-07 23:17:37] Training iteration 6
+[KCRNN][2018-01-07 23:18:00] Testing model at iteration 6 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu cu si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si
+[KCRNN][2018-01-07 23:18:00] Training iteration 7
+[KCRNN][2018-01-07 23:18:22] Testing model at iteration 7 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întare ca întar
+[KCRNN][2018-01-07 23:18:22] Training iteration 8
+[KCRNN][2018-01-07 23:18:45] Testing model at iteration 8 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a fintila ca întrea de ar fi printrea de ar fi printrea de ar fi printrea de ar fi printrea de ar fi printrea de ar fi printrea de ar fi printrea de ar fi printrea de ar fi printrea de ar fi printrea 
+[KCRNN][2018-01-07 23:18:45] Training iteration 9
+[KCRNN][2018-01-07 23:19:07] Testing model at iteration 9 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu prest le cu prest cu prest le cu prest cu prest le cu prest cu prest le cu prest cu prest le cu prest cu prest le cu prest cu prest le cu prest cu prest le cu prest cu prest le cu prest cu prest le
+[KCRNN][2018-01-07 23:19:07] Training iteration 10
+[KCRNN][2018-01-07 23:19:28] Testing model at iteration 10 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a fi pe ca în presti pe prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu prea cu 
+[KCRNN][2018-01-07 23:19:28] Training iteration 11
+[KCRNN][2018-01-07 23:19:50] Testing model at iteration 11 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de ar fi sa sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai sa mai
+[KCRNN][2018-01-07 23:19:50] Training iteration 12
+[KCRNN][2018-01-07 23:20:13] Testing model at iteration 12 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de area de area de area de area de area de area de area de area de area de area de area de area de area de area de area de area de area de area de area de area de area de area de area de area de area 
+[KCRNN][2018-01-07 23:20:13] Training iteration 13
+[KCRNN][2018-01-07 23:20:36] Testing model at iteration 13 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a fi întreut în regatie. Ace cu întreut lu întreut întreut lu întreut întreut lu întreut întreut lu întreut întreut lu întreut întreut lu întreut întreut lu întreut întreut lu întreut întreut lu între
+[KCRNN][2018-01-07 23:20:36] Training iteration 14
+[KCRNN][2018-01-07 23:20:59] Testing model at iteration 14 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca între de ar fi prinit la mea mai si prinit la mea mai si prinit la mea mai si prinit la mea mai si prinit la mea mai si prinit la mea mai si prinit la mea mai si prinit la mea mai si prinit la mea 
+[KCRNN][2018-01-07 23:20:59] Training iteration 15
+[KCRNN][2018-01-07 23:21:20] Testing model at iteration 15 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a fi pe pe te ma asta ca a fi pe pe a contrula de ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi pe ar fi 
+[KCRNN][2018-01-07 23:21:20] Training iteration 16
+[KCRNN][2018-01-07 23:21:42] Testing model at iteration 16 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a fica de am si prin mele si primi si prin mele si primi si prin mele si primi si prin mele si primi si prin mele si primi si prin mele si primi si prin mele si primi si prin mele si primi si prin mel
+[KCRNN][2018-01-07 23:21:42] Training iteration 17
+[KCRNN][2018-01-07 23:22:04] Testing model at iteration 17 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a fi putera ca întelegeri ce întelegeri ce întelegeri ce întelegeri ce întelegeri ce întelegeri ce întelegeri ce întelegeri ce întelegeri ce întelegeri ce întelegeri ce întelegeri ce întelegeri ce înt
+[KCRNN][2018-01-07 23:22:04] Training iteration 18
+[KCRNN][2018-01-07 23:22:27] Testing model at iteration 18 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a fistul ca îndesti pe decarea de perea nea ca întreut la mea aste ca îndata ca îndesti pe decarea ca întelegerie ca întelegerie ca întelegerie ca întelegerie ca întelegerie ca întelegerie ca întelege
+[KCRNN][2018-01-07 23:22:27] Training iteration 19

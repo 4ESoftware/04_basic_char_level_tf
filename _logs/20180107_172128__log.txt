@@ -1,0 +1,164 @@
+[CRNN][2018-01-07 17:21:28] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-07 17:21:28] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-07 17:21:28] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-07 17:21:28] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-07 17:21:28] Found Keras 2.0.9
+[CRNN][2018-01-07 17:21:28] Load data...
+[CRNN][2018-01-07 17:21:28] Done load data. [0.00s]
+[CRNN][2018-01-07 17:21:28] Creating graph ...
+[CRNN][2018-01-07 17:21:29] Done creating graph. [1.81s]
+[CRNN][2018-01-07 17:21:30] Running epoch 0 with 13255 steps
+[CRNN][2018-01-07 17:21:34]  Iter 500 Predicted text:
+   A fost o data ca niciodat pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe pa pe p
+[CRNN][2018-01-07 17:21:34] Epoch 0 Loss:2.330
+[CRNN][2018-01-07 17:21:35]  Epoch 0 Predicted text:
+A fost o data ca niciodati ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai ari ai
+[CRNN][2018-01-07 17:21:35] Running epoch 1 with 13255 steps
+[CRNN][2018-01-07 17:21:39]  Iter 1000 Predicted text:
+   A fost o data ca niciodate ca are ce area ca de pe sa ca de întere ca are ce area ce de are ce area ca de pe sa ca de întere ca are ce area ce de are ce area ca de pe sa ca de întere ca are ce area ce de are ce area ca de pe 
+[CRNN][2018-01-07 17:21:39] Epoch 1 Loss:2.183
+[CRNN][2018-01-07 17:21:40]  Epoch 1 Predicted text:
+A fost o data ca niciodata si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si 
+[CRNN][2018-01-07 17:21:40] Running epoch 2 with 13255 steps
+[CRNN][2018-01-07 17:21:43]  Iter 1500 Predicted text:
+   A fost o data ca niciodat an fi de priti de de ar fi denta de priti de ara a ar fi de de priti de ara a ar fi de de priti de ara a ar fi de de priti de ara a ar fi de de priti de ara a ar fi de de priti de ara a ar fi de de p
+[CRNN][2018-01-07 17:21:44] Epoch 2 Loss:2.125
+[CRNN][2018-01-07 17:21:45]  Epoch 2 Predicted text:
+A fost o data ca niciodati are ci si pri putiti ar ari areati a sa sa sa si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si
+[CRNN][2018-01-07 17:21:45] Running epoch 3 with 13255 steps
+[CRNN][2018-01-07 17:21:48]  Iter 2000 Predicted text:
+   A fost o data ca niciodat ar prita de prita ca de prita de prita ca de prita de prita ca de prita de prita ca de prita de prita ca de prita de prita ca de prita de prita ca de prita de prita ca de prita de prita ca de prita d
+[CRNN][2018-01-07 17:21:49] Epoch 3 Loss:2.055
+[CRNN][2018-01-07 17:21:49]  Epoch 3 Predicted text:
+A fost o data ca niciodati are ci si pritititi ar fi si pritititi ar fi si pritititi ar fi si pritititi ar fi si pritititi ar fi si pritititi ar fi si pritititi ar fi si pritititi ar fi si pritititi ar fi si pritititi ar fi s
+[CRNN][2018-01-07 17:21:49] Running epoch 4 with 13255 steps
+[CRNN][2018-01-07 17:21:53]  Iter 2500 Predicted text:
+   A fost o data ca niciodata mintine ne mentinea de pentre am si primintine ne mentinea de pentre am si primintine ne mentinea de pentre am si primintine ne mentinea de pentre am si primintine ne mentinea de pentre am si primin
+[CRNN][2018-01-07 17:21:54] Epoch 4 Loss:2.003
+[CRNN][2018-01-07 17:21:54]  Epoch 4 Predicted text:
+A fost o data ca niciodati între a fica sa ca si pritititi ar fi si pria ti deti de pritititi ar fi si pria ti deti de pritititi ar fi si pria ti deti de pritititi ar fi si pria ti deti de pritititi ar fi si pria ti deti de p
+[CRNN][2018-01-07 17:21:54] Running epoch 5 with 13255 steps
+[CRNN][2018-01-07 17:21:57]  Iter 3000 Predicted text:
+   A fost o data ca niciodata a are ar ar fi a faca a a cari a de perea de perea de a ca dera de a de perat la de le fe a faca a am antare ar a se pera de a de perea de a ca derati a ar ara cu de perea de pere de ar fi ara ca a 
+[CRNN][2018-01-07 17:21:59] Epoch 5 Loss:1.947
+[CRNN][2018-01-07 17:21:59]  Epoch 5 Predicted text:
+A fost o data ca niciodata de pritile ti put am ai det oriti de pri putiti ar fi si pritile si pritile si pati între a fica sa si si si al între a te priti de prital de printi de printi de printi de printi de printi de printi
+[CRNN][2018-01-07 17:21:59] Running epoch 6 with 13255 steps
+[CRNN][2018-01-07 17:22:02]  Iter 3500 Predicted text:
+   A fost o data ca niciodata de pe fa tul catere de pe face a fici de perea de perea de perea de perea de perea de perea de perea de perea de perea de perea de perea de perea de perea de perea de perea de perea de perea de pere
+[CRNN][2018-01-07 17:22:03] Epoch 6 Loss:1.857
+[CRNN][2018-01-07 17:22:04]  Epoch 6 Predicted text:
+A fost o data ca niciodata de pritat de primal de primal de prital de printi de printa de pritile si potita di primili de printile ca si printa de printa de pritile si potita di primili de printile ca si printa de printa de p
+[CRNN][2018-01-07 17:22:04] Running epoch 7 with 13255 steps
+[CRNN][2018-01-07 17:22:06]  Iter 4000 Predicted text:
+   A fost o data ca niciodata a fica de perea ca minti în printul am am fintelu oresi pu prifica meate pu printal are fica de pe face are ca faca de pereat ar fi putere de printile ne fica man puntre pe printal are fi perea de p
+[CRNN][2018-01-07 17:22:08] Epoch 7 Loss:1.773
+[CRNN][2018-01-07 17:22:09]  Epoch 7 Predicted text:
+A fost o data ca niciodata de printale ca si printa si prinia si prinia de primil da întrelai de prita de pritra de sa pritile de pri putia da primil da întrela ce si printa si prinia si prinia de primil da întrelai de prita 
+[CRNN][2018-01-07 17:22:09] Running epoch 8 with 13255 steps
+[CRNN][2018-01-07 17:22:11]  Iter 4500 Predicted text:
+   A fost o data ca niciodat onitilegenine ontaru de pereat de prini de pental am ar fica de prinea se prinul încere ce peitinea si pritile ne fica de prinea se prinul încere ce peitinea si pritile ne fica de prinea se prinul în
+[CRNN][2018-01-07 17:22:13] Epoch 8 Loss:1.713
+[CRNN][2018-01-07 17:22:13]  Epoch 8 Predicted text:
+A fost o data ca niciodata de printile ca si printa si prini de pritat de primal da între ti întresti întresti întresti întresti întresti întresti întresti întresti întresti întresti întresti întresti întresti întresti întres
+[CRNN][2018-01-07 17:22:13] Running epoch 9 with 13255 steps
+[CRNN][2018-01-07 17:22:16]  Iter 5000 Predicted text:
+   A fost o data ca niciodat cu ti put a ca prini de pe fi punta de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de 
+[CRNN][2018-01-07 17:22:18] Epoch 9 Loss:1.677
+[CRNN][2018-01-07 17:22:18]  Epoch 9 Predicted text:
+A fost o data ca niciodata de printi de primal de primal da între ti între diti ar fa sta de pri pu si între dica den al da mat si între dica den alesti întra de prita de pritat al dat oa si si pritile de printila ca si protr
+[CRNN][2018-01-07 17:22:18] Running epoch 10 with 13255 steps
+[CRNN][2018-01-07 17:22:20]  Iter 5500 Predicted text:
+   A fost o data ca niciodat pu pri put ra te fi puntra te pe ca de pri ca de printre de pera pestru ce dentru ce dentru de printre de perea ca teat oral ca man fara cu a faca de print la neat ontinta cu print de priti da a fica
+[CRNN][2018-01-07 17:22:22] Epoch 10 Loss:1.654
+[CRNN][2018-01-07 17:22:23]  Epoch 10 Predicted text:
+A fost o data ca niciodata la a fost înceata si pltia de printi de a fostiinti la mate dat al pat au di si pritili de printi de printa de a fica sa si sa sa sa ta tat al pri at de si pa si di pri puntra dinia si potiti ar ar 
+[CRNN][2018-01-07 17:22:23] Running epoch 11 with 13255 steps
+[CRNN][2018-01-07 17:22:25]  Iter 6000 Predicted text:
+   A fost o data ca niciodat ca tar ar de mari don si pat au pu mar cu de mintare sa pe mari don si pat au pa mari do perat a facu de printat a ca care si put a ca care si put a ca care si put a ca care si put a ca care si put a
+[CRNN][2018-01-07 17:22:27] Epoch 11 Loss:1.632
+[CRNN][2018-01-07 17:22:28]  Epoch 11 Predicted text:
+A fost o data ca niciodata la a fost încea si priti dat lai are ca sa ma ta mati de printie dei si si na meat din ar din ca scati ini, si pritile ditra ti întra ti între ti între ti sca în presti întra ta si protre ti sa mati
+[CRNN][2018-01-07 17:22:28] Running epoch 12 with 13255 steps
+[CRNN][2018-01-07 17:22:29]  Iter 6500 Predicted text:
+   A fost o data ca niciodat sa mar or întelegat sa mat putea sa mai su încelegatita ma înfoltie ma forolitatele on sa mat su erem si docare de pe mare de meat den su pe mare de foralatite enesi de mai su întelegat sa depui su p
+[CRNN][2018-01-07 17:22:32] Epoch 12 Loss:1.585
+[CRNN][2018-01-07 17:22:32]  Epoch 12 Predicted text:
+A fost o data ca niciodat al pat oa schil inde nui sa si natala si prinia ta între tie citeri di între ti întru ti de prita de primal de a fost înce nu puteri de sa sa ta tintatie. Si desti îndelerara ca a fost întea si pîtar
+[CRNN][2018-01-07 17:22:32] Running epoch 13 with 13255 steps
+[CRNN][2018-01-07 17:22:34]  Iter 7000 Predicted text:
+   A fost o data ca niciodat cu era ca cere se pe mare mea ma întelegat pu ca ca întelegati de copresti în putea de care sa care ca care si sa mare ca care si sa mare ca care si sa mare ca care si sa mare ca care si sa mare ca c
+[CRNN][2018-01-07 17:22:37] Epoch 13 Loss:1.546
+[CRNN][2018-01-07 17:22:37]  Epoch 13 Predicted text:
+A fost o data ca niciodat al pat oa da si pritile de sa nsi printula ci lacati îndel si pîntru ti de printat enta. Ei di printa si pltia de printa de a fostiinti de pri puntrela ce lui Malnificotia cu pri di printa si prita d
+[CRNN][2018-01-07 17:22:37] Running epoch 14 with 13255 steps
+[CRNN][2018-01-07 17:22:38]  Iter 7500 Predicted text:
+   A fost o data ca niciodat cu ma ti întelegat pe întelerie care care care ca mai sa nu m-a fara cu cu era cartatiti în putea ta si si naca în putea ta si întelegati, cara ca mai sa nu m-a cara cu ca tate ca care care sa ca nuc
+[CRNN][2018-01-07 17:22:42] Epoch 14 Loss:1.537
+[CRNN][2018-01-07 17:22:42]  Epoch 14 Predicted text:
+A fost o data ca niciodat al pat re ditea tor si pltia te priitata ci între gale ar fi dut dinta de preva de print, din ficotiti di printa si printula ci lacati den si prinul si întrulti el întelegati, ci si plitariti întrul 
+[CRNN][2018-01-07 17:22:42] Running epoch 15 with 13255 steps
+[CRNN][2018-01-07 17:22:43]  Iter 8000 Predicted text:
+   A fost o data ca niciodate minta în previ me stora sa ma mau printal de prea ti pe patera si prina de premat sa mati da întreut ca dina fica mai putera ca si pronil ca în putere ca mai punera ci si plocat si paterui sa minica
+[CRNN][2018-01-07 17:22:46] Epoch 15 Loss:1.493
+[CRNN][2018-01-07 17:22:47]  Epoch 15 Predicted text:
+A fost o data ca niciodata de prita de si îndererie. As fi si pe sa ta si pltia de po tar cat si al pîndat ac prinul ca dat de sa sa ma si pestar ca dateata ce a focatitiala ca a fostiinta de preva de lui Mil. Dau ela de prin
+[CRNN][2018-01-07 17:22:47] Running epoch 16 with 13255 steps
+[CRNN][2018-01-07 17:22:48]  Iter 8500 Predicted text:
+   A fost o data ca niciodata de prita la si la gelticiti îndea ni si sa sa na schei ta decut sa si schil sa sa mat puteri di îndeleria. Si datre ta sa ca îndelerit. As fi dintatia ta lat ul dat ast pontrul dat al dat am si înde
+[CRNN][2018-01-07 17:22:52]  Iter 9000 Predicted text:
+   A fost o data ca niciodata de pe înfelati în prestul de prei peri ca în prestul de preput sa în preme i da ment, car ca în putea ta voi pri pu pre vinta cere sa ce mint, întreca for sa foritru pe sa înt înfeltie din ti înfile
+[CRNN][2018-01-07 17:22:52] Epoch 16 Loss:1.505
+[CRNN][2018-01-07 17:22:52]  Epoch 16 Predicted text:
+A fost o data ca niciodata dini desi Mastitiai da între gal pateat diniat dinea si potia at pu mat daterii. Asi patia as pu care a decari dini de preva de prita la si li geltilea torutata ca aste. Amat au prevari denia ca ar 
+[CRNN][2018-01-07 17:22:52] Running epoch 17 with 13255 steps
+[CRNN][2018-01-07 17:22:56]  Iter 9500 Predicted text:
+   A fost o data ca niciodata ni i-a Dout cu ocoritita ne fica a fi puntre a fica a faca cu si sa întreggeit or in finti în legatie. Sint lu cora ce si a fost pu preva de pe pe Hantrule are a fost al fi a focale me anea din pre 
+[CRNN][2018-01-07 17:22:57] Epoch 17 Loss:1.473
+[CRNN][2018-01-07 17:22:57]  Epoch 17 Predicted text:
+A fost o data ca niciodat de mai sa er fi de aruica de preata cu a frcobiti erea a meatilicaria de pri putereiti în ratule ca înfrînta de pri puntrulul da îndeleatre decati de prema de petia asi areaca a mai fitostini întilea
+[CRNN][2018-01-07 17:22:57] Running epoch 18 with 13255 steps
+[CRNN][2018-01-07 17:23:01]  Iter 10000 Predicted text:
+   A fost o data ca niciodat cu tinta, are cule si re grestale minta le minta le milti de m-am la de si ge si pliti denera teltiei. Cînd ne fera la geate a desi cu di a destult le si patini si di prebtie a fica sa si pertindat l
+[CRNN][2018-01-07 17:23:02] Epoch 18 Loss:1.426
+[CRNN][2018-01-07 17:23:02]  Epoch 18 Predicted text:
+A fost o data ca niciodat de pri pu ere di întrilea to vai putera di întreut de ficatiteri ce a fru dice dace ti-a fac sa îndererie. Ar fi ditaruiti lui Magnifico înd a fostie. Si denticati de preputita mi putera ta întrest l
+[CRNN][2018-01-07 17:23:02] Running epoch 19 with 13255 steps
+[CRNN][2018-01-07 17:23:05]  Iter 10500 Predicted text:
+   A fost o data ca niciodata m-am caperelei e pronule a ar fi plecate a fi putur de preman fara nui ca am întelegate a fost ol preati a ne puntru pa den prese de era ca tenera a forazul an fi astea în primelelea cora cuat oa le
+[CRNN][2018-01-07 17:23:06] Epoch 19 Loss:1.328
+[CRNN][2018-01-07 17:23:07]  Epoch 19 Predicted text:
+A fost o data ca niciodat ar fi de minta le sturea în si plitarita na mutie. Si dera ca desi coprinuce tai sa si nifica nui ca di puteri di întreut la gateace a si baceri de lucatie. Da a fost puteati înd te catie. Si dentine
+[CRNN][2018-01-07 17:23:07] Running epoch 20 with 13255 steps
+[CRNN][2018-01-07 17:23:10]  Iter 11000 Predicted text:
+   A fost o data ca niciodat pe mea pan puter. Cu dea mantice orescule n-am încele eremi Mas. Ca fori putere ereminei lu nti deniti deneri pentru puntanea întelegenera leaba mi penea numpinea. Ei dene cu întelegati, îndeni prepe
+[CRNN][2018-01-07 17:23:11] Epoch 20 Loss:1.359
+[CRNN][2018-01-07 17:23:12]  Epoch 20 Predicted text:
+A fost o data ca niciodat de mar fa scare dece de pe pri ta sa îndeseatie tinut ra în lu se si pîntru si la mi în luceat de prema de întareati a ficaltatul ine procate a orabitie. Da a fost putea în putit întelerii. Sindate c
+[CRNN][2018-01-07 17:23:12] Running epoch 21 with 13255 steps
+[CRNN][2018-01-07 17:23:15]  Iter 11500 Predicted text:
+   A fost o data ca niciodata ma în întrecea trebii. Eximputia dere care de menta în razu cu cat pu pre chera da întelegat pute mal. As fintinea. Catului forini Magnifico înderele. Si dentrulul dentina ce a ceat ontinul ara ca a
+[CRNN][2018-01-07 17:23:16] Epoch 21 Loss:1.389
+[CRNN][2018-01-07 17:23:16]  Epoch 21 Predicted text:
+A fost o data ca niciodat de mar fa sca îndeleli întitor se sa nsa în razu cea de lice a de plucar si lotre ce procut si a fontilugatie. Da a îns putur i desa sa putere treu, sa întreugata si înfrînt Magnifico decatia îni si 
+[CRNN][2018-01-07 17:23:16] Running epoch 22 with 13255 steps
+[CRNN][2018-01-07 17:23:19]  Iter 12000 Predicted text:
+   A fost o data ca niciodat ontinu Magnifico îndea nea se coperul a foctio. Exam li pe arui sa înficat întere ce paimat cu a focata mini de prima asea tea sea în prini de înde a ceat oa legeneru centinu ce cam ni potram na scun
+[CRNN][2018-01-07 17:23:21] Epoch 22 Loss:1.232
+[CRNN][2018-01-07 17:23:21]  Epoch 22 Predicted text:
+A fost o data ca niciodata ce am puterelerea, si si pîtderesi lociti de a fost puteri di ladara da întracu ce ari da pe care ai schii nui si rebtiule... Trint Magnifico înd a fosturia ta minti, întelegiti, însa ca ast pe tar 
+[CRNN][2018-01-07 17:23:21] Running epoch 23 with 13255 steps
+[CRNN][2018-01-07 17:23:24]  Iter 12500 Predicted text:
+   A fost o data ca niciodata minicatea ta fi putea de print Magnifico densa ceat sa sa fara întracure martul ca Han înteata coprenea ceati punerea a ma ficarea pe potila se ceate de prea se petea faca ea stune meat sa fica cuin
+[CRNN][2018-01-07 17:23:25] Epoch 23 Loss:1.322
+[CRNN][2018-01-07 17:23:26]  Epoch 23 Predicted text:
+A fost o data ca niciodat corititat înteregata le cale le copri carte ca cori dintatia cartiti ar întreut lag Masti îndere car ai data cun si dostru si sat întraca cu a frcul ca den si întreut fat sinderait al fi putari dini 
+[CRNN][2018-01-07 17:23:26] Running epoch 24 with 13255 steps
+[CRNN][2018-01-07 17:23:28]  Iter 13000 Predicted text:
+   A fost o data ca niciodat primeat am încelti-a focale. Si lu pe care se minest întelugrea, care decatiea cara cerontra tor si prine de certi puneriat oa licare de prii jum nia de locate si rezast lo mint le fica de le grele M
+[CRNN][2018-01-07 17:23:30] Epoch 24 Loss:1.252
+[CRNN][2018-01-07 17:23:31]  Epoch 24 Predicted text:
+A fost o data ca niciodat de mintrale crenti. E lebaita ne putuntitie. Dar, înde care le se pîtari pun amaste ce cotititia te pe înfrînt le se lei si îngrinta de minesili sarta le fila ce a fost re pe tor acela de lucar ul ca
+[CRNN][2018-01-07 17:23:31] Running epoch 25 with 13255 steps
+[CRNN][2018-01-07 17:23:33]  Iter 13500 Predicted text:
+   A fost o data ca niciodatat amea camea si placa de prea sa sa tarea si sa ta cun am ac pa Kal Kalgan sa ca ten scate de cor cu prontre-a Douti pa ca cer al sa sa far co denemil ca în putere sc punta de premat sa bator cu de p

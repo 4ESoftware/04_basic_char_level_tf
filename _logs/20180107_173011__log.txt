@@ -1,0 +1,418 @@
+[CRNN][2018-01-07 17:30:11] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-07 17:30:11] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-07 17:30:11] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-07 17:30:11] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-07 17:30:11] Found Keras 2.0.9
+[CRNN][2018-01-07 17:30:11] Load data...
+[CRNN][2018-01-07 17:30:11] Done load data. [0.00s]
+[CRNN][2018-01-07 17:30:11] Creating graph ...
+[CRNN][2018-01-07 17:30:13] Done creating graph. [1.85s]
+[CRNN][2018-01-07 17:30:14] Running epoch 0 with 491 steps
+[CRNN][2018-01-07 17:30:19] Epoch 0 Loss:2.951
+[CRNN][2018-01-07 17:30:20]  Epoch 0 Predicted text:
+A fost o data ca niciodata aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa
+[CRNN][2018-01-07 17:30:20] Running epoch 1 with 491 steps
+[CRNN][2018-01-07 17:30:25] Epoch 1 Loss:2.478
+[CRNN][2018-01-07 17:30:26]  Epoch 1 Predicted text:
+A fost o data ca niciodata si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si
+[CRNN][2018-01-07 17:30:26] Running epoch 2 with 491 steps
+[CRNN][2018-01-07 17:30:31] Epoch 2 Loss:2.237
+[CRNN][2018-01-07 17:30:31]  Epoch 2 Predicted text:
+A fost o data ca niciodata si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si
+[CRNN][2018-01-07 17:30:31] Running epoch 3 with 491 steps
+[CRNN][2018-01-07 17:30:36] Epoch 3 Loss:2.112
+[CRNN][2018-01-07 17:30:37]  Epoch 3 Predicted text:
+A fost o data ca niciodata si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si
+[CRNN][2018-01-07 17:30:37] Running epoch 4 with 491 steps
+[CRNN][2018-01-07 17:30:42] Epoch 4 Loss:2.053
+[CRNN][2018-01-07 17:30:43]  Epoch 4 Predicted text:
+A fost o data ca niciodata si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si
+[CRNN][2018-01-07 17:30:43] Running epoch 5 with 491 steps
+[CRNN][2018-01-07 17:30:48] Epoch 5 Loss:2.012
+[CRNN][2018-01-07 17:30:48]  Epoch 5 Predicted text:
+A fost o data ca niciodata si priti si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si
+[CRNN][2018-01-07 17:30:48] Running epoch 6 with 491 steps
+[CRNN][2018-01-07 17:30:53] Epoch 6 Loss:1.977
+[CRNN][2018-01-07 17:30:54]  Epoch 6 Predicted text:
+A fost o data ca niciodata si printi si si printi si si printi si si printi si si printi si si printi si si printi si si printi si si printi si si printi si si printi si si printi si si printi si si printi si si printi si si pr
+[CRNN][2018-01-07 17:30:54] Running epoch 7 with 491 steps
+[CRNN][2018-01-07 17:30:59] Epoch 7 Loss:1.955
+[CRNN][2018-01-07 17:30:59]  Epoch 7 Predicted text:
+A fost o data ca niciodata întrei si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si 
+[CRNN][2018-01-07 17:30:59] Running epoch 8 with 491 steps
+[CRNN][2018-01-07 17:31:04] Epoch 8 Loss:1.944
+[CRNN][2018-01-07 17:31:05]  Epoch 8 Predicted text:
+A fost o data ca niciodata întrei si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si putiti si 
+[CRNN][2018-01-07 17:31:05] Running epoch 9 with 491 steps
+[CRNN][2018-01-07 17:31:10] Epoch 9 Loss:1.936
+[CRNN][2018-01-07 17:31:10]  Epoch 9 Predicted text:
+A fost o data ca niciodata în ra întrei si putiti de printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si printi si prin
+[CRNN][2018-01-07 17:31:10] Running epoch 10 with 491 steps
+[CRNN][2018-01-07 17:31:15] Epoch 10 Loss:1.927
+[CRNN][2018-01-07 17:31:16]  Epoch 10 Predicted text:
+A fost o data ca niciodata în ratare ca întreinti întreinti întreinti întreinti întreinti întreinti întreinti întreinti întreinti întreinti întreinti întreinti întreinti întreinti întreinti întreinti întreinti întreinti întrein
+[CRNN][2018-01-07 17:31:16] Running epoch 11 with 491 steps
+[CRNN][2018-01-07 17:31:21] Epoch 11 Loss:1.912
+[CRNN][2018-01-07 17:31:21]  Epoch 11 Predicted text:
+A fost o data ca niciodata în raca ca întreintrea si putiti de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de prin
+[CRNN][2018-01-07 17:31:21] Running epoch 12 with 491 steps
+[CRNN][2018-01-07 17:31:26] Epoch 12 Loss:1.884
+[CRNN][2018-01-07 17:31:27]  Epoch 12 Predicted text:
+A fost o data ca niciodata în raca ca întreintrea si putiti de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de prin
+[CRNN][2018-01-07 17:31:27] Running epoch 13 with 491 steps
+[CRNN][2018-01-07 17:31:32] Epoch 13 Loss:1.851
+[CRNN][2018-01-07 17:31:32]  Epoch 13 Predicted text:
+A fost o data ca niciodata în raca ca astre ca întreintrele si putiti de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de prin
+[CRNN][2018-01-07 17:31:32] Running epoch 14 with 491 steps
+[CRNN][2018-01-07 17:31:38] Epoch 14 Loss:1.821
+[CRNN][2018-01-07 17:31:38]  Epoch 14 Predicted text:
+A fost o data ca niciodata în racati în racut ta de pricaria si printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de pri
+[CRNN][2018-01-07 17:31:38] Running epoch 15 with 491 steps
+[CRNN][2018-01-07 17:31:43] Epoch 15 Loss:1.794
+[CRNN][2018-01-07 17:31:44]  Epoch 15 Predicted text:
+A fost o data ca niciodata în racati în racati în racut ta de pricarea le ar fi sa sa fi puteri de pricaria si printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi de printi
+[CRNN][2018-01-07 17:31:44] Running epoch 16 with 491 steps
+[CRNN][2018-01-07 17:31:49] Epoch 16 Loss:1.769
+[CRNN][2018-01-07 17:31:49]  Epoch 16 Predicted text:
+A fost o data ca niciodata în racati în racati în racati în racati în racati în racati în racati în racati în racati în racati în racati în racati în racati în racati în racati în racati în racati în racati în racati în racati 
+[CRNN][2018-01-07 17:31:49] Running epoch 17 with 491 steps
+[CRNN][2018-01-07 17:31:54] Epoch 17 Loss:1.741
+[CRNN][2018-01-07 17:31:55]  Epoch 17 Predicted text:
+A fost o data ca niciodata în rintra întrebiti de pricaria si pe întrebiti de pricaria si pe întrebiti de pricaria si pe întrebiti de pricaria si pe întrebiti de pricaria si pe întrebiti de pricaria si pe întrebiti de pricaria 
+[CRNN][2018-01-07 17:31:55] Running epoch 18 with 491 steps
+[CRNN][2018-01-07 17:32:00] Epoch 18 Loss:1.708
+[CRNN][2018-01-07 17:32:00]  Epoch 18 Predicted text:
+A fost o data ca niciodata în rinta sa fici de si printi de pricarea le astre den si si sa ficati în rasta la asta nici întrebiti de pricarea le astre den si si sa ficati în rasta la asta nici întrebiti de pricarea le astre den
+[CRNN][2018-01-07 17:32:00] Running epoch 19 with 491 steps
+[CRNN][2018-01-07 17:32:05] Epoch 19 Loss:1.670
+[CRNN][2018-01-07 17:32:06]  Epoch 19 Predicted text:
+A fost o data ca niciodata ni boi si întrebiti de pricarea le astre den si si sa fica ca sa fost întrebiti de pricarea le astre den si si sa fica ca sa fost întrebiti de pricarea le astre den si si sa fica ca sa fost întrebiti 
+[CRNN][2018-01-07 17:32:06] Running epoch 20 with 491 steps
+[CRNN][2018-01-07 17:32:11] Epoch 20 Loss:1.634
+[CRNN][2018-01-07 17:32:11]  Epoch 20 Predicted text:
+A fost o data ca niciodata ni boi si întrebiti în restrul si întremeli de pricarea le astre deci întrebiti de pricar si porini sa nificita în pricarea le astre deci întrebiti de pricar si porini sa nificita în pricarea le astre
+[CRNN][2018-01-07 17:32:11] Running epoch 21 with 491 steps
+[CRNN][2018-01-07 17:32:16] Epoch 21 Loss:1.600
+[CRNN][2018-01-07 17:32:17]  Epoch 21 Predicted text:
+A fost o data ca niciodata ni boi si întrenta la întreuna de astre deci întrebitiea din si si putera întreuna de astre deci întrebitiea din si si putera întreuna de astre deci întrebitiea din si si putera întreuna de astre deci
+[CRNN][2018-01-07 17:32:17] Running epoch 22 with 491 steps
+[CRNN][2018-01-07 17:32:22] Epoch 22 Loss:1.564
+[CRNN][2018-01-07 17:32:22]  Epoch 22 Predicted text:
+A fost o data ca niciodata ni boi si întrenta sa fici întelegatita în posta lui sa si prinul ca întrenta la asta na micitiea din sa si plitata în rinta la asta na micitiea din sa si plitata în rinta la asta na micitiea din sa s
+[CRNN][2018-01-07 17:32:22] Running epoch 23 with 491 steps
+[CRNN][2018-01-07 17:32:27] Epoch 23 Loss:1.530
+[CRNN][2018-01-07 17:32:28]  Epoch 23 Predicted text:
+A fost o data ca niciodata ni bui Magnifico de prici sa si prinul ca întrebit sa si plicat, încrebiinea decati în patrau a fost rulata în rinta sa pe ta întremeli de prici sa si prinu, care a face a fost sta mea ta minita în po
+[CRNN][2018-01-07 17:32:28] Running epoch 24 with 491 steps
+[CRNN][2018-01-07 17:32:33] Epoch 24 Loss:1.500
+[CRNN][2018-01-07 17:32:34]  Epoch 24 Predicted text:
+A fost o data ca niciodata niminta sa si putera întelegerile arie ari putita fi puterinata în întrebui sa si prinul ca întrebit sa mau pu era ca astre decati în prici sa si prinul ca întrebit sa mau pu era ca astre decati în pr
+[CRNN][2018-01-07 17:32:34] Running epoch 25 with 491 steps
+[CRNN][2018-01-07 17:32:39] Epoch 25 Loss:1.481
+[CRNN][2018-01-07 17:32:39]  Epoch 25 Predicted text:
+A fost o data ca niciodata nucitatie. Astere griestar dea nucatialea le astre deciti de prici sa si prinul ca întrebit sa mau pu era ca astre deci întelegatiea dea mea Docatita în racate min fara foartea ni-am finesi în ficatea
+[CRNN][2018-01-07 17:32:39] Running epoch 26 with 491 steps
+[CRNN][2018-01-07 17:32:44] Epoch 26 Loss:1.460
+[CRNN][2018-01-07 17:32:45]  Epoch 26 Predicted text:
+A fost o data ca niciodata nucitatioa de si înfrînt Bayta lucatiea a fost întrebui sa si putiri chita în posta lui sa si pricita pe contrilitata ca încere chiar în întreuna dea focatica îndesta ta min Grîngaina ce capesi în rin
+[CRNN][2018-01-07 17:32:45] Running epoch 27 with 491 steps
+[CRNN][2018-01-07 17:32:50] Epoch 27 Loss:1.442
+[CRNN][2018-01-07 17:32:50]  Epoch 27 Predicted text:
+A fost o data ca niciodata nucitatine si-a Doua Fundatie. Si decare ar fi putea sa fici putera în întreunai si decaltii întrebui sa si pritilea sa si prinul Galaxiei dehera întelegatiea de-a Doua Fundatie. Si decare ar fi putea
+[CRNN][2018-01-07 17:32:50] Running epoch 28 with 491 steps
+[CRNN][2018-01-07 17:32:55] Epoch 28 Loss:1.431
+[CRNN][2018-01-07 17:32:56]  Epoch 28 Predicted text:
+A fost o data ca niciodata întelegatiea dea focrulti lui sa si prini, Toranili ar des le grei vai Mingralea le am întelegatiea dea focrulti lui sa si prini, Toranili ar des le grei vai Mingralea le am întelegatiea dea focrulti 
+[CRNN][2018-01-07 17:32:56] Running epoch 29 with 491 steps
+[CRNN][2018-01-07 17:33:01] Epoch 29 Loss:1.396
+[CRNN][2018-01-07 17:33:01]  Epoch 29 Predicted text:
+A fost o data ca niciodata întrebata în rindutie. Acasta o am am întrebui sa si putra de legareatie. Dar m-a treaga laca ca sa focrielara ce sa fost si astar întrebit sa fici putera întelegatiea de-a Doua Fundatie. Si decare ar
+[CRNN][2018-01-07 17:33:01] Running epoch 30 with 491 steps
+[CRNN][2018-01-07 17:33:06] Epoch 30 Loss:1.339
+[CRNN][2018-01-07 17:33:07]  Epoch 30 Predicted text:
+A fost o data ca niciodata întelegerie. Si-am fost restineatiea al prici ase mal vai putere întelegatiea de-a Doua Fundatie. Acostarinta la ai putera în posta lui proarielerea nava înfrîntortinata întelegerie. Dara fost ul gale
+[CRNN][2018-01-07 17:33:07] Running epoch 31 with 491 steps
+[CRNN][2018-01-07 17:33:12] Epoch 31 Loss:1.321
+[CRNN][2018-01-07 17:33:12]  Epoch 31 Predicted text:
+A fost o data ca niciodata întelegatie. Acost întrebuit ca mai putera întelegatie. Ti-a Doua Fundatie. Acesta ocaita. Pringandacio pestar fi pricul pe camica îndesibita!
+  Toatu lu eri put racara a fici puterea seativa întelege
+[CRNN][2018-01-07 17:33:12] Running epoch 32 with 491 steps
+[CRNN][2018-01-07 17:33:17] Epoch 32 Loss:1.347
+[CRNN][2018-01-07 17:33:18]  Epoch 32 Predicted text:
+A fost o data ca niciodata încelegeli în rintru era ma astremega întremegerariea în facrau a fost ronastara înterea si prinul si voi putera în ficrainti întrebata în rintatiai putea încaputita face se si tosta l-am fostrulganda
+[CRNN][2018-01-07 17:33:18] Running epoch 33 with 491 steps
+[CRNN][2018-01-07 17:33:23] Epoch 33 Loss:1.370
+[CRNN][2018-01-07 17:33:23]  Epoch 33 Predicted text:
+A fost o data ca niciodata întelegatiea de-a Doua Fundatiei pu care nui sa si botral sa înfhcisi iostrultini sar fa sa fi putea sea des buta cau put ra îndotialea le-am fasta lucatea pe sau sa fici putentieinea unorile eral far
+[CRNN][2018-01-07 17:33:23] Running epoch 34 with 491 steps
+[CRNN][2018-01-07 17:33:28] Epoch 34 Loss:1.462
+[CRNN][2018-01-07 17:33:29]  Epoch 34 Predicted text:
+A fost o data ca niciodata întrebata întrebuize capa corabila o printi si pui sa si boi s-a Doua Fundatiei pristial va înfrînge. Si decare a fost eramii tregul în ereme întrebuitoa dea Docate mui sa si botrau sa si putinul cart
+[CRNN][2018-01-07 17:33:29] Running epoch 35 with 491 steps
+[CRNN][2018-01-07 17:33:34] Epoch 35 Loss:1.379
+[CRNN][2018-01-07 17:33:34]  Epoch 35 Predicted text:
+A fost o data ca niciodata înceata în rindatatandatioi de îndementa positila sa si print, întelegerire caprou sa copitialea levastrei sa si putra ta întelege cortenui pînd umog de înfrînge. Acartea faca înfrînge. Sa întelege co
+[CRNN][2018-01-07 17:33:34] Running epoch 36 with 491 steps
+[CRNN][2018-01-07 17:33:40] Epoch 36 Loss:1.415
+[CRNN][2018-01-07 17:33:40]  Epoch 36 Predicted text:
+A fost o data ca niciodata întelege la înce de-a fost întreultinea dea de-a Doua Fundatie. Si de antre înte nacui si altrenta întremul înspotia de-a Doua Fundatie. Si puteri în lagaMile derinta nacuitat sa fici putea începtai s
+[CRNN][2018-01-07 17:33:40] Running epoch 37 with 491 steps
+[CRNN][2018-01-07 17:33:45] Epoch 37 Loss:1.450
+[CRNN][2018-01-07 17:33:46]  Epoch 37 Predicted text:
+A fost o data ca niciodata fici peterilal al precul în recare a fost un gon felatita ar fi putea sea dea mui sa si botralta. Încatutina acapa întreul pe cape Prita din o treunita întelege la înce dei tunditiei fi putut sa fici 
+[CRNN][2018-01-07 17:33:46] Running epoch 38 with 491 steps
+[CRNN][2018-01-07 17:33:51] Epoch 38 Loss:1.569
+[CRNN][2018-01-07 17:33:51]  Epoch 38 Predicted text:
+A fost o data ca niciodata facau cere cunesceri îndestin Galaxiei fa si brifico restintatioi de Bayta înceata întreun Galaxifi nserunti lucrurile erat de-a Doua Fundatie încere cundatia fara trebui Magnifico de un prea fic si b
+[CRNN][2018-01-07 17:33:51] Running epoch 39 with 491 steps
+[CRNN][2018-01-07 17:33:56] Epoch 39 Loss:1.375
+[CRNN][2018-01-07 17:33:57]  Epoch 39 Predicted text:
+A fost o data ca niciodata facatatielea lea dea mui sa sifi stri data mia printi di putea sa nimigata, car cu si robis gaterei alulara ul ga întelege care erai sa si boi Mi-Sintatul capriestal de gnteatita înfistau sa si bota l
+[CRNN][2018-01-07 17:33:57] Running epoch 40 with 491 steps
+[CRNN][2018-01-07 17:34:02] Epoch 40 Loss:1.297
+[CRNN][2018-01-07 17:34:02]  Epoch 40 Predicted text:
+A fost o data ca niciodata fucetaricuat si asta naca un lagaMegnifico de pe înfilutite aste vaceatifala si matiobii proprielea si prinul sa ma sa vorin l-am întemeli în fi pare cîte aste vai putera în întreun filtarul sa voi du
+[CRNN][2018-01-07 17:34:02] Running epoch 41 with 491 steps
+[CRNN][2018-01-07 17:34:07] Epoch 41 Loss:1.270
+[CRNN][2018-01-07 17:34:08]  Epoch 41 Predicted text:
+A fost o data ca niciodata încele ca ca nuciti întreun Galaxifi nu focra ul melar în întreun si voi fost sos fica si biilegererul la în razboine de copatie neci întreun Galaxifi nu focra ul melar în întreun si voi fost sos fica
+[CRNN][2018-01-07 17:34:08] Running epoch 42 with 491 steps
+[CRNN][2018-01-07 17:34:13] Epoch 42 Loss:1.312
+[CRNN][2018-01-07 17:34:13]  Epoch 42 Predicted text:
+A fost o data ca niciodata fucit casi lu-as fici întelegeti?? Acu pricula ce si prieg si as fistara era înfrînte. Aca care chias sa si bita ul rovostinitatiai su si Toiabicare a fost rucita mulai dea Fundatie. Si pu întelege la
+[CRNN][2018-01-07 17:34:13] Running epoch 43 with 491 steps
+[CRNN][2018-01-07 17:34:18] Epoch 43 Loss:1.278
+[CRNN][2018-01-07 17:34:19]  Epoch 43 Predicted text:
+A fost o data ca niciodata întelegeti în pestru este astre dic tot în acest astar nucitata ca ascapatitul ca întresulile în razboi falatat sara Vrebui Magnifico despun melei în racultilui alui sa cou dat a focasiti în rinistui 
+[CRNN][2018-01-07 17:34:19] Running epoch 44 with 491 steps
+[CRNN][2018-01-07 17:34:24] Epoch 44 Loss:1.382
+[CRNN][2018-01-07 17:34:24]  Epoch 44 Predicted text:
+A fost o data ca niciodata un ficioria lui Magnifico revintitina nucinta den re gre s-lu orilulga deci întrebuie sa cînd fica faca cu ertrebui sa si batîMagnterat fara erai sa întelegatita dea mea tu sicitreun sintinult cimai d
+[CRNN][2018-01-07 17:34:24] Running epoch 45 with 491 steps
+[CRNN][2018-01-07 17:34:29] Epoch 45 Loss:1.274
+[CRNN][2018-01-07 17:34:30]  Epoch 45 Predicted text:
+A fost o data ca niciodata unei tatîrul si voi focrteu de-a fost su ar fast astru decea, dor nucita întelegeti?? Acu prezulita nuceti de Bayta lucruria se si tre gatina a înteles si vocindati în razboinicarira ce sa ca aste ta 
+[CRNN][2018-01-07 17:34:30] Running epoch 46 with 491 steps
+[CRNN][2018-01-07 17:34:35] Epoch 46 Loss:1.281
+[CRNN][2018-01-07 17:34:35]  Epoch 46 Predicted text:
+A fost o data ca niciodata un faca fici ca dac înte sa pe sau su ar fi scupe si sevenea sea descutati-a fost un facutur pe contai pa Exgendama ceagadicaterie orie. S-oi fa aluigea faca era un mintrul si siti-Si împlata, sa fi p
+[CRNN][2018-01-07 17:34:35] Running epoch 47 with 491 steps
+[CRNN][2018-01-07 17:34:40] Epoch 47 Loss:1.278
+[CRNN][2018-01-07 17:34:41]  Epoch 47 Predicted text:
+A fost o data ca niciodata un ficrerul ce simplii sa ce satul sau pu e minea cariita-a ere.. Si bii si astatinat de proprie:? Într-un fel, întreuns-ar fi descut cînd astrebit necatea lucrusce sea fost cunarulul pentru estre gai
+[CRNN][2018-01-07 17:34:41] Running epoch 48 with 491 steps
+[CRNN][2018-01-07 17:34:46] Epoch 48 Loss:1.316
+[CRNN][2018-01-07 17:34:46]  Epoch 48 Predicted text:
+A fost o data ca niciodata un indremejilea sa cîmi grei, si sibirta dece gate astele chii alumiit viluita cu ertintea întrebutatea mea dea munta alupria sa ca scupta preculite voi tata Einea necustraltie începe cu cate de cotra
+[CRNN][2018-01-07 17:34:46] Running epoch 49 with 491 steps
+[CRNN][2018-01-07 17:34:51] Epoch 49 Loss:1.184
+[CRNN][2018-01-07 17:34:52]  Epoch 49 Predicted text:
+A fost o data ca niciodata de voi su storila lumerarial ar fi putut sa fi putut sa si bitîrulti si s-a Dora cu sa ce sabita în ri îngrement sa cerandiciea. Cînd asterea nu minte cîntreita. Pringenita în ragîndacie laca voi esa 
+[CRNN][2018-01-07 17:34:52] Running epoch 50 with 491 steps
+[CRNN][2018-01-07 17:34:57] Epoch 50 Loss:1.315
+[CRNN][2018-01-07 17:34:58]  Epoch 50 Predicted text:
+A fost o data ca niciodata în rinta sa caunam si ti ti întrebat. Voi de al înteleg care altimina nucineanul preculiti pîte ar fi patîrui si voi sevindatie. Si ficotra înfrînge. Sinita su mii aptimula ce si cocisati. Aca pai s-a
+[CRNN][2018-01-07 17:34:58] Running epoch 51 with 491 steps
+[CRNN][2018-01-07 17:35:03] Epoch 51 Loss:1.347
+[CRNN][2018-01-07 17:35:03]  Epoch 51 Predicted text:
+A fost o data ca niciodata de cîndai si imprii sa si ifilitarel am potriminitre gatia de liuna! Mastinica:? Cu ta nucita în primar pentru care cîndatiei acela în portinua se vicea, si tu din si mai fapularea lucatiea al discoti
+[CRNN][2018-01-07 17:35:03] Running epoch 52 with 491 steps
+[CRNN][2018-01-07 17:35:08] Epoch 52 Loss:1.322
+[CRNN][2018-01-07 17:35:09]  Epoch 52 Predicted text:
+A fost o data ca niciodata un indru este o fara dea o fici întelege lai putera întelegeti?? Ar era treagatiea.Fundatiunta decate a fost rostasat fictaralei în potrauns-au fi putut sa focrsebitatie a într-un fel? Da ai fi putra 
+[CRNN][2018-01-07 17:35:09] Running epoch 53 with 491 steps
+[CRNN][2018-01-07 17:35:15] Epoch 53 Loss:1.274
+[CRNN][2018-01-07 17:35:15]  Epoch 53 Predicted text:
+A fost o data ca niciodata un insam întreuns-lu toi umai sa si bii s-ai facut rostul ca ocasi altKalgacea cu plicitarele în racutea cai ficotrament lai treuste cîte era cupriit.?
+  a ficiatul cau si sa mi biclent
+ num spus prev
+[CRNN][2018-01-07 17:35:15] Running epoch 54 with 491 steps
+[CRNN][2018-01-07 17:35:21] Epoch 54 Loss:1.175
+[CRNN][2018-01-07 17:35:22]  Epoch 54 Predicted text:
+A fost o data ca niciodata focritaria sa ce si primul Galaxiei ficotraunti în astar dea tea mai putera în rinditie mei de-a Doua Fundatie. Într-un fel, întreun de are ficrtea în precat si ti pu întelegeti? Acum sa vreat si ai f
+[CRNN][2018-01-07 17:35:22] Running epoch 55 with 491 steps
+[CRNN][2018-01-07 17:35:27] Epoch 55 Loss:1.199
+[CRNN][2018-01-07 17:35:28]  Epoch 55 Predicted text:
+A fost o data ca niciodata în riciot cuna neristagatita nucitiamea în paca ce rabicie. Da ai ficutia încopra ficruice si ta acintiii ai priEbleani ficotra în ricior încemna! Ma grei si întolestula su nscuptat într-un fel, donce
+[CRNN][2018-01-07 17:35:28] Running epoch 56 with 491 steps
+[CRNN][2018-01-07 17:35:33] Epoch 56 Loss:1.290
+[CRNN][2018-01-07 17:35:33]  Epoch 56 Predicted text:
+A fost o data ca niciodata un gasitia de cepicata cu tate vai nu aste nucrulit ul gre gal si i-a fost cu pricie. Cînd caunai si ta întîmplat de pe caBayta lucrurii lalaxie. Si fost rega.PCatiea Areotii sa si bii si doi subita e
+[CRNN][2018-01-07 17:35:33] Running epoch 57 with 491 steps
+[CRNN][2018-01-07 17:35:38] Epoch 57 Loss:1.085
+[CRNN][2018-01-07 17:35:39]  Epoch 57 Predicted text:
+A fost o data ca niciodata facutie. Aceat Dar icagatie nici întrebuierii a contrul si Bayta mei, dar stimi ai dospute cu întrebaba îndora neam cînd ceut sa fi putut sa fiei se Bayta o conesi si astrebunti si de altinul ca întel
+[CRNN][2018-01-07 17:35:39] Running epoch 58 with 491 steps
+[CRNN][2018-01-07 17:35:44] Epoch 58 Loss:1.373
+[CRNN][2018-01-07 17:35:45]  Epoch 58 Predicted text:
+A fost o data ca niciodata un inda-li are a fost întreul m-au puteri putera în acele întreul Gresulile a contraliii întelegeti?? Acu priculia se nicegntea, ca am proprie: Dar nimi si sevandatie. Si fi putere ficata cu pracutea 
+[CRNN][2018-01-07 17:35:45] Running epoch 59 with 491 steps
+[CRNN][2018-01-07 17:35:50] Epoch 59 Loss:1.293
+[CRNN][2018-01-07 17:35:50]  Epoch 59 Predicted text:
+A fost o data ca niciodata de fici întreba de sea cau asteregatiea s-oi putinul ca întelegeti? Ca ai voi în fi as ficrera îndatea pe copratua si brimul si Bayta de ficoare eri putera în presti în rindat. Vri gandate nic oi sivi
+[CRNN][2018-01-07 17:35:50] Running epoch 60 with 491 steps
+[CRNN][2018-01-07 17:35:55] Epoch 60 Loss:1.358
+[CRNN][2018-01-07 17:35:56]  Epoch 60 Predicted text:
+A fost o data ca niciodata faceaman fictorile alai de întoltat si astrai sa coat cîndatiei pundatia de si blesti si pe încopra de regenile car fi putut sa foat mai sprita sa mpai Prita. Prin mijlocitatie alointa ela mea Fundati
+[CRNN][2018-01-07 17:35:56] Running epoch 61 with 491 steps
+[CRNN][2018-01-07 17:36:01] Epoch 61 Loss:1.254
+[CRNN][2018-01-07 17:36:01]  Epoch 61 Predicted text:
+A fost o data ca niciodata faceara în potrauna pe ti-a fost sostul ca întelegetiorit fictaral si îngeneiile alul da întelegeti? Nu-mi acestea ceasteat si as facu era voi uma. Si ti putiti a o primultiur aceasta la acestulut înc
+[CRNN][2018-01-07 17:36:01] Running epoch 62 with 491 steps
+[CRNN][2018-01-07 17:36:06] Epoch 62 Loss:1.052
+[CRNN][2018-01-07 17:36:07]  Epoch 62 Predicted text:
+A fost o data ca niciodata un este us facu un rindit a fost actiu în radace erimistata cum aceitii sa si putita vrimul sa ma înfrînt
+ miniza ca ea lucrulile dimica!
+ Tintru în reculul destre urile, telor cu o trebuia si pa îngh
+[CRNN][2018-01-07 17:36:07] Running epoch 63 with 491 steps
+[CRNN][2018-01-07 17:36:12] Epoch 63 Loss:1.427
+[CRNN][2018-01-07 17:36:12]  Epoch 63 Predicted text:
+A fost o data ca niciodata un gaceacade în riciorie si to devatiea Acunciul însemesticatatiea neva întele e dofast astre de sea acustia ta va întelegeria sa ce sagînta cuncimici îni. E-a într-u a ceresi se amia eatina de prica:
+[CRNN][2018-01-07 17:36:12] Running epoch 64 with 491 steps
+[CRNN][2018-01-07 17:36:17] Epoch 64 Loss:1.101
+[CRNN][2018-01-07 17:36:18]  Epoch 64 Predicted text:
+A fost o data ca niciodata un inte-a fost întreul Toran valaita este va fara cuneral ca întelegeti? Acul ca înfrîng Mist cusi sa si primpul rastra cu ea mai puteri a cu-as fici întrade Bayta. Toran vinul de fictatea sa ma mar m
+[CRNN][2018-01-07 17:36:18] Running epoch 65 with 491 steps
+[CRNN][2018-01-07 17:36:23] Epoch 65 Loss:1.238
+[CRNN][2018-01-07 17:36:23]  Epoch 65 Predicted text:
+A fost o data ca niciodata un imbine calta era tata dina întelegeti? Acum ca acai factea su treas sar a fost întreba de se preus de areveni sa ce sa Eb lugîtie. Ac feci sa si boita exista lai Al decaita tunuara cu ea m-am si ge
+[CRNN][2018-01-07 17:36:23] Running epoch 66 with 491 steps
+[CRNN][2018-01-07 17:36:28] Epoch 66 Loss:1.227
+[CRNN][2018-01-07 17:36:29]  Epoch 66 Predicted text:
+A fost o data ca niciodata nucetiad care corteturine nucrulii sa creibiisereata fiinta de-a Doua Fundatie.Bayta închii ar fi putra de încrezulilerea su trebui si întreba de se preEbica ocus pregatia de alu e t-oi sa si bitînul,
+[CRNN][2018-01-07 17:36:29] Running epoch 67 with 491 steps
+[CRNN][2018-01-07 17:36:34] Epoch 67 Loss:1.149
+[CRNN][2018-01-07 17:36:34]  Epoch 67 Predicted text:
+A fost o data ca niciodata în primar pentru este astreunt la nui s-a focreveint dest erui si mai putera îndacertiul însemnartea mea, coi reasi întresti. chiat si astema treun. Vei acude ce ameam presut cînd ce-am înfrînt
+  macu
+[CRNN][2018-01-07 17:36:34] Running epoch 68 with 491 steps
+[CRNN][2018-01-07 17:36:39] Epoch 68 Loss:1.310
+[CRNN][2018-01-07 17:36:40]  Epoch 68 Predicted text:
+A fost o data ca niciodata un gacîngeatiea nucitatie. Asta acui Magnifico de prica:? Bayta tecestea. Dar m-am gîndus s-o focritrea si intemesi de si predatie. Acest cunuitisi sa sputestimintalultiea acupritu coate dic aru un ge
+[CRNN][2018-01-07 17:36:40] Running epoch 69 with 491 steps
+[CRNN][2018-01-07 17:36:45] Epoch 69 Loss:1.306
+[CRNN][2018-01-07 17:36:45]  Epoch 69 Predicted text:
+A fost o data ca niciodata de copie.. Si întelegetioria ficatea pe care ieara înteles era te cepliie sa ca estiti nu ul den. Vei fi pricur întereltila eximi astfat, din caputar din descul proprina de imi trei fi plecat de priEb
+[CRNN][2018-01-07 17:36:45] Running epoch 70 with 491 steps
+[CRNN][2018-01-07 17:36:50] Epoch 70 Loss:1.395
+[CRNN][2018-01-07 17:36:51]  Epoch 70 Predicted text:
+A fost o data ca niciodata n-ai vezuntat pe voi fa simngentini si toa trebuia si ba întemeat o cina pe voi traitile erat siun-am fotramele. Lolubicielatielor elarea lui de întelegeti?Nu prici însputea de-am înfrînt, tus care la
+[CRNN][2018-01-07 17:36:51] Running epoch 71 with 491 steps
+[CRNN][2018-01-07 17:36:56] Epoch 71 Loss:1.021
+[CRNN][2018-01-07 17:36:56]  Epoch 71 Predicted text:
+A fost o data ca niciodata de fici întelegeti?Nu pe care a fost cu astra de sea cai cu o masta întelegeti?Înceterii sintra careativa oareminti dentre înceat uc si între grieg dica îndumie. Acist ploarte nucrulile de îndacaria v
+[CRNN][2018-01-07 17:36:56] Running epoch 72 with 491 steps
+[CRNN][2018-01-07 17:37:01] Epoch 72 Loss:1.324
+[CRNN][2018-01-07 17:37:02]  Epoch 72 Predicted text:
+A fost o data ca niciodata u-a mai de decate cu o stunii dentra întîmtiaverini lucrumit continua si ba bii pristi si asta nsi ulagntat cu o trecia ti-a fost cu prici de pe Kalgan si astificnata, si timegati, dar aceata dentimin
+[CRNN][2018-01-07 17:37:02] Running epoch 73 with 491 steps
+[CRNN][2018-01-07 17:37:07] Epoch 73 Loss:1.272
+[CRNN][2018-01-07 17:37:07]  Epoch 73 Predicted text:
+A fost o data ca niciodata u-a mai difiestului dacla înte descut cînd leci di spest în vacu-li repulultia fara ce se place la cum aproun. Voi fatulerea si vorbilut nucrunitini si tii sa si bii Migatioara eia tal Ei întreun melo
+[CRNN][2018-01-07 17:37:07] Running epoch 74 with 491 steps
+[CRNN][2018-01-07 17:37:12] Epoch 74 Loss:1.154
+[CRNN][2018-01-07 17:37:13]  Epoch 74 Predicted text:
+A fost o data ca niciodata un gasestra, si voi foare astra deveni se amia dea Fundatie. Într-un fel, voi imi apriminta consibilaria tia Astinegatiea coate dic am dis proveciul ca or sta o obiinia mea mala mul si voi fi în întîm
+[CRNN][2018-01-07 17:37:13] Running epoch 75 with 491 steps
+[CRNN][2018-01-07 17:37:18] Epoch 75 Loss:1.228
+[CRNN][2018-01-07 17:37:18]  Epoch 75 Predicted text:
+A fost o data ca niciodata desi toa spuse Magnifico creculilerea dosi curdice cult si ta ul la întîmprent, întrebuia se si jobiintar si Toran si încopra de rau, am des pregatita ca o ustra de sea sa fici coate vocti cînd astreb
+[CRNN][2018-01-07 17:37:18] Running epoch 76 with 491 steps
+[CRNN][2018-01-07 17:37:23] Epoch 76 Loss:1.064
+[CRNN][2018-01-07 17:37:24]  Epoch 76 Predicted text:
+A fost o data ca niciodata de fici cu sa ce julbi su ar fi putra ta pui astfel, mi-as fi astru din de acintie. A oi foate a fost stun caut ca întîmti. Asa cum acesta ntistinita. Acum spus barta o faca îndiniasit lucra nevita ti
+[CRNN][2018-01-07 17:37:24] Running epoch 77 with 491 steps
+[CRNN][2018-01-07 17:37:29] Epoch 77 Loss:1.089
+[CRNN][2018-01-07 17:37:29]  Epoch 77 Predicted text:
+A fost o data ca niciodata de ficiatul pentru este asta nsi ula! Sa tinti cîta de ficiatu-a astinui de-ai fi plecat de si coate a fost ustica întelegerea si ricegereate. Dac feta. Asa cum acestar de pricatia loi de al prea sa c
+[CRNN][2018-01-07 17:37:29] Running epoch 78 with 491 steps
+[CRNN][2018-01-07 17:37:34] Epoch 78 Loss:1.134
+[CRNN][2018-01-07 17:37:35]  Epoch 78 Predicted text:
+A fost o data ca niciodata face si ta ai vrie.
+. Toate su ar fi putut sa fi pututurul de prete din rai cur si moisegatur în recultie corineasi în racîti si presca lu pe care le-am cu prizinea umii defero cu era întremit pristi 
+[CRNN][2018-01-07 17:37:35] Running epoch 79 with 491 steps
+[CRNN][2018-01-07 17:37:40] Epoch 79 Loss:1.242
+[CRNN][2018-01-07 17:37:40]  Epoch 79 Predicted text:
+A fost o data ca niciodata facariii sa si boi sa timparia se nucitatia cu caperitanea star cupera cun si voi fearevara cu elo sa preu sa cîes precata dini si bui vosi Maganta, si ascipritatia mea, corteneala ta capitatau pe si 
+[CRNN][2018-01-07 17:37:40] Running epoch 80 with 491 steps
+[CRNN][2018-01-07 17:37:45] Epoch 80 Loss:1.189
+[CRNN][2018-01-07 17:37:46]  Epoch 80 Predicted text:
+A fost o data ca niciodata facera de juiga o pestauntreluita mea.? Dat de-a Doua Fundatie.Bayta îsi puter saun dini de a fost cu precati alai sa si progra cu ea na întelegatie. Dac de-a Doua Fundatie.Bayta îsi puter saun dini d
+[CRNN][2018-01-07 17:37:46] Running epoch 81 with 491 steps
+[CRNN][2018-01-07 17:37:51] Epoch 81 Loss:1.070
+[CRNN][2018-01-07 17:37:51]  Epoch 81 Predicted text:
+A fost o data ca niciodata destotie ficeada înceaja urere cu care lei putea lui Magnificotrau pu e a fost cu astrande. Si apresi de al prea mau sa ca as la gelesta lu m-ai ficutia devina cu gregutie. Întreun m-ai fi putiti a a 
+[CRNN][2018-01-07 17:37:51] Running epoch 82 with 491 steps
+[CRNN][2018-01-07 17:37:56] Epoch 82 Loss:1.057
+[CRNN][2018-01-07 17:37:57]  Epoch 82 Predicted text:
+A fost o data ca niciodata un gecia, sar cama a ficturelea si pîtîtula, sa si pligaja" fara lui Hariciata.) Vrei si triitia decioi sa si rabîntoare. Ei întîmplat dat o si loiaFundata cu o proveciel cînd ce-am înfrîngerea neci t
+[CRNN][2018-01-07 17:37:57] Running epoch 83 with 491 steps
+[CRNN][2018-01-07 17:38:02] Epoch 83 Loss:0.929
+[CRNN][2018-01-07 17:38:02]  Epoch 83 Predicted text:
+A fost o data ca niciodata face se vace cu-ti duc ara cea si ba nu asteanurele în a frînte, time tal, nu ti-a fost su tind si voitivare de si întrebata de reucau petereni l-ai Cînda si coi fatievante. Încrului sausi sa si print
+[CRNN][2018-01-07 17:38:02] Running epoch 84 with 491 steps
+[CRNN][2018-01-07 17:38:07] Epoch 84 Loss:0.937
+[CRNN][2018-01-07 17:38:08]  Epoch 84 Predicted text:
+A fost o data ca niciodata faca o desceri lui sa si pligat, nustur în aceat aceastia dea ochii acevare a o faca lu restu i
+ uprat, at fi stau aste us aceasta ca eram si voi în acest lucruse se nupasi re ante-a înduita. Pringeri
+[CRNN][2018-01-07 17:38:08] Running epoch 85 with 491 steps
+[CRNN][2018-01-07 17:38:13] Epoch 85 Loss:1.193
+[CRNN][2018-01-07 17:38:13]  Epoch 85 Predicted text:
+A fost o data ca niciodata fea miniza:? Cînd ce-am înfrînge. Prisceratie. Dac de-a Dora cum astar si întraiti pîti astul Galaxie. Sindula o la acest lucruati ai vinta acest întrebulalia pastri puterii mai mi-l? Doa si bartine c
+[CRNN][2018-01-07 17:38:13] Running epoch 86 with 491 steps
+[CRNN][2018-01-07 17:38:18] Epoch 86 Loss:1.067
+[CRNN][2018-01-07 17:38:19]  Epoch 86 Predicted text:
+A fost o data ca niciodata face.. Dac din pentre ninegatie. Aca vai si întremui erare al co tositia mea, contruciti în respunsa cîmbii preselelerent sa ca ta întelegatie. Decata de cau puteri precat si ti-as fi am încadesi si a
+[CRNN][2018-01-07 17:38:19] Running epoch 87 with 491 steps
+[CRNN][2018-01-07 17:38:23] Epoch 87 Loss:1.065
+[CRNN][2018-01-07 17:38:24]  Epoch 87 Predicted text:
+A fost o data ca niciodata face si ta întîmelti al ci puterii apela o lazboina sea, cara cu care focrepulilerei de nevacurie aneam întele cui asera de-mine! Daca întrimas precaria la înteles amea ea acele cundatie. Acust ce am 
+[CRNN][2018-01-07 17:38:24] Running epoch 88 with 491 steps
+[CRNN][2018-01-07 17:38:29] Epoch 88 Loss:1.186
+[CRNN][2018-01-07 17:38:30]  Epoch 88 Predicted text:
+A fost o data ca niciodata face... Iapat si astranta lucrumile s-lu întelegeti?Încrulti. Eulgentroa sa sîti tatieniti putere a înteles al dicatart e celengrolii lapricialea mea mai fostestul ca asi revazu cencrultiei în potrimi
+[CRNN][2018-01-07 17:38:30] Running epoch 89 with 491 steps
+[CRNN][2018-01-07 17:38:34] Epoch 89 Loss:1.101
+[CRNN][2018-01-07 17:38:35]  Epoch 89 Predicted text:
+A fost o data ca niciodata întrebita de întelegeti? Acul cau sim stul ca întrebuie la întemegatielel na fictoriel ca îndatia ce si prese, sa si mi-a fost er mii putea sa ficintrebata de ficiatoase necitatia, îngateriil ce asta 
+[CRNN][2018-01-07 17:38:35] Running epoch 90 with 491 steps
+[CRNN][2018-01-07 17:38:40] Epoch 90 Loss:0.934
+[CRNN][2018-01-07 17:38:40]  Epoch 90 Predicted text:
+A fost o data ca niciodata face...S nacu o primultat caplaca de car acestul de Han faputir nace orinta desi toa si boi Sinisi rovicate. Daca Doci daspunstulti. Ar lingheratie. Dac un gasi lui Magei. Eva far si geciria peitarea 
+[CRNN][2018-01-07 17:38:40] Running epoch 91 with 491 steps
+[CRNN][2018-01-07 17:38:45] Epoch 91 Loss:1.081
+[CRNN][2018-01-07 17:38:46]  Epoch 91 Predicted text:
+A fost o data ca niciodata desegrepula de însamentul interebii se veparia si aste tat sa si fost cu tresulitati din o prinudata fictorita de cîtdatie..A nemai sa liu devii sa se precatia u orint, am rizi-lura întelegerar în rac
+[CRNN][2018-01-07 17:38:46] Running epoch 92 with 491 steps
+[CRNN][2018-01-07 17:38:51] Epoch 92 Loss:1.175
+[CRNN][2018-01-07 17:38:51]  Epoch 92 Predicted text:
+A fost o data ca niciodata fac dice ca oara cu printe din ra gevista cea mpactoateni sa si plizati... mai nuplestula su este o amtiai va tacînti-ate galisitale na care greseaBayta.) Areverile an cint-ai foate altia ca laca vere
+[CRNN][2018-01-07 17:38:51] Running epoch 93 with 491 steps
+[CRNN][2018-01-07 17:38:56] Epoch 93 Loss:0.910
+[CRNN][2018-01-07 17:38:57]  Epoch 93 Predicted text:
+A fost o data ca niciodata fecetre. Si acorla eral ca naduc tostulti din gala.VNoi alai sa si prisebratirarea naci cu este vapat lar er ni focrtorilei sa caun imporilelealiiariel cintre chiar si moi de altam precat si aste o pr
+[CRNN][2018-01-07 17:38:57] Running epoch 94 with 491 steps
+[CRNN][2018-01-07 17:39:02] Epoch 94 Loss:1.144
+[CRNN][2018-01-07 17:39:02]  Epoch 94 Predicted text:
+A fost o data ca niciodata fest cundatie în acele în acelatie. Acasta sa ce sau ea echii so leparie. Dar n-a fosteatia tea pentru tindat daca nusegatie. Ac fi întreculie. Decati în racîti.Sina lucrulilerea da tau du e triegativ
+[CRNN][2018-01-07 17:39:02] Running epoch 95 with 491 steps
+[CRNN][2018-01-07 17:39:07] Epoch 95 Loss:1.204
+[CRNN][2018-01-07 17:39:08]  Epoch 95 Predicted text:
+A fost o data ca niciodata fac di în roi su o trobata o doscuri
+  Acustriut nuciunitol. Ca as fi garezi.Sint dicie. Aparmintinicarie prici si sa corinitilar a ficiai sa divintie.A nerazîti minita ar fi putut reibiine pentre asi
+[CRNN][2018-01-07 17:39:08] Running epoch 96 with 491 steps
+[CRNN][2018-01-07 17:39:13] Epoch 96 Loss:1.121
+[CRNN][2018-01-07 17:39:13]  Epoch 96 Predicted text:
+A fost o data ca niciodata facatora întelegere conoria le preca îtute a fost u controbuie ar fati liciasatea asi de plotrame nele de îndasi sa si print gesi Migata si perabseg nustar de precatie. Acast sa cuptat întelegatie. Da
+[CRNN][2018-01-07 17:39:13] Running epoch 97 with 491 steps
+[CRNN][2018-01-07 17:39:18] Epoch 97 Loss:0.981
+[CRNN][2018-01-07 17:39:19]  Epoch 97 Predicted text:
+A fost o data ca niciodata fe sarcata cu prizajlie preus de Cînda si asar vinta de deca tie. Loste lu esteamenire o la bifeana în riciadata fac de vatea decimasi întrebularea era întrebata de Han Pritaze-i înfiricaria su un lac
+[CRNN][2018-01-07 17:39:19] Running epoch 98 with 491 steps
+[CRNN][2018-01-07 17:39:24] Epoch 98 Loss:1.252
+[CRNN][2018-01-07 17:39:24]  Epoch 98 Predicted text:
+A fost o data ca niciodata fata de întrebuia leaza nevos sintimint în ricianatorat si timi sa so enumita fata de întrezulile în asta la acera întelegeti?Nu ? întriegat din o disiotiimesat cînd le se tevingat pu u o stata unatie
+[CRNN][2018-01-07 17:39:24] Running epoch 99 with 491 steps
+[CRNN][2018-01-07 17:39:29] Epoch 99 Loss:1.101
+[CRNN][2018-01-07 17:39:30]  Epoch 99 Predicted text:
+A fost o data ca niciodata facutia fata a fosta. Si acui si voi feluldit pesi locata cu printi întreduliler întelegeti?Încet-a? Nua Fundatiei pu tai putermicatora cum acesta la acest este us ar fitrei, sa mpît? Nui am altultita

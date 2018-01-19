@@ -1,0 +1,10 @@
+[KABOT][2018-01-09 15:04:32] Library [KABOT ] initialized on machine [LAPTOP-R3N5TFDE]
+[KABOT][2018-01-09 15:04:32] Logger ver: 3.9.2_tf14-html
+[KABOT][2018-01-09 15:04:32] Found TF 1.4.0 running on GPU
+[KABOT][2018-01-09 15:04:32] Found TF.Keras 2.0.8-tf
+[KABOT][2018-01-09 15:04:32] Found Keras 2.0.9
+[KABOT][2018-01-09 15:04:32] Generating data...
+[KABOT][2018-01-09 15:04:37] Total addition questions:
+[KABOT][2018-01-09 15:04:37] Vectorization...
+[KABOT][2018-01-09 15:04:37] Training Data: X:(45000, 7, 12) y:(45000, 4, 12)
+[KABOT][2018-01-09 15:04:37] Validation Data: X:(5000, 7, 12) y:(5000, 4, 12)

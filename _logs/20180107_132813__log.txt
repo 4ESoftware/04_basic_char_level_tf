@@ -1,0 +1,41 @@
+[CRNN][2018-01-07 13:28:13] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-07 13:28:13] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-07 13:28:13] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-07 13:28:13] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-07 13:28:13] Found Keras 2.0.9
+[CRNN][2018-01-07 13:28:13] Load data...
+[CRNN][2018-01-07 13:28:13] Done load data. [0.00s]
+[CRNN][2018-01-07 13:28:13] Creating graph ...
+[CRNN][2018-01-07 13:28:14] Done creating graph. [1.58s]
+[CRNN][2018-01-07 13:28:15] Running epoch 0 with 13255 steps
+[CRNN][2018-01-07 13:28:16]  Iter 0 Predicted text:
+   A fost o data ca niciodatz)nGG
+
+   xPlnnG
+   "
+   lF)BdyxmznFGKgDP
+   ln)B"mxmenG!)g;llnBB
+   )rnB"mxn)z)g
+   B )fdeh
+   "t rdedn)t
+   )F)B"mdnxg mxFen
+   !s)xd!h
+   d yMnFnB md!enR)mxyxmxnxn)n)g; Fd!x:xg
+
+   xm!n)xg""Mml:!n")xF!n)mx:zmxnxn)F)g
+   )x)!"" f)xF
+   g
+[CRNN][2018-01-07 13:28:20]  Iter 500 Predicted text:
+   A fost o data ca niciodati i si ti ti  ii li  ii ii si  ii ti ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti  ii si ti 
+[CRNN][2018-01-07 13:28:24]  Iter 1000 Predicted text:
+   A fost o data ca niciodata fa se saa a  a sa aa a  a aa a  a aa a  a siaa a  a pa aa a  a sa a -a aea mi ara si ara aa a  a aa a  a aa a  a siaa a  a pa aa a  a sa a -a aea mi ara si ara aa a  a aa a  a aa a  a siaa a  a pa a
+[CRNN][2018-01-07 13:28:28]  Iter 1500 Predicted text:
+   A fost o data ca niciodatesarease pererasea sa sa ease pe sa sa ea sa sa sa ea ea ea ea ea sa sa ea ea sa sa sa sa ea ea sa sa ea ea sa ea ea sa sa ea ea sa sa ea sa sa ea ea sa sa ea sa sa ea ea sa sa ea sa sa ea ea sa sa ea
+[CRNN][2018-01-07 13:28:32]  Iter 2000 Predicted text:
+   A fost o data ca niciodatescmint, em det încet întet cat datesce ce cat ca ca ea eateli cu da cat dam de ca ea întet cat ca em întet cetecam detescetitecem ca catece ca ea cat ca ca ea eatea cat ca ca eatede ca datesce di cat
+[CRNN][2018-01-07 13:28:36]  Iter 2500 Predicted text:
+   A fost o data ca niciodate fi fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di fii di
+[CRNN][2018-01-07 13:28:40]  Iter 3000 Predicted text:
+   A fost o data ca niciodata pa an puna pa a pa acupo pu s pa a pa acupo pu su s pa a pasa pa a pana. pora pa a pa acupo pu s pa a pa acupo pu su s pa a pasa pa a pana. pora pa a pa acupo pu s pa a pa acupo pu su s pa a pasa pa
+[CRNN][2018-01-07 13:28:44]  Iter 3500 Predicted text:
+   A fost o data ca niciodatati. Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat Fundat

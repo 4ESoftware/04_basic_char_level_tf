@@ -1,0 +1,47 @@
+[CRNN][2018-01-07 18:41:47] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-07 18:41:47] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-07 18:41:47] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-07 18:41:47] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-07 18:41:47] Found Keras 2.0.9
+[CRNN][2018-01-07 18:41:48] Load data...
+[CRNN][2018-01-07 18:41:48] Done load data. [0.00s]
+[CRNN][2018-01-07 18:41:48] Creating graph ...
+[CRNN][2018-01-07 18:41:49] Done creating graph. [1.76s]
+[CRNN][2018-01-07 18:41:50] Running epoch 0 with 491 steps
+[CRNN][2018-01-07 18:41:56] Epoch 0 Loss:2.983
+[CRNN][2018-01-07 18:41:57]  Epoch 0
+Predicted text:
+A fost o data ca niciodata aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa
+
+Sampled text:
+A fost o data ca niciodata  ati i
+aseuot n?s  -ceouc gaalta eait v osaisaiuonusnndmsafieD pad ul îegdseinie nlrttaecsnsAitransapn dolo,eir? uclotnda elicu iloa en loîcnSst s. ntemmi tpAsisnrt s r c.eateaia-asciaeaaiia nounamrau
+[CRNN][2018-01-07 18:41:57] Running epoch 1 with 491 steps
+[CRNN][2018-01-07 18:42:03] Epoch 1 Loss:2.527
+[CRNN][2018-01-07 18:42:04]  Epoch 1
+Predicted text:
+A fost o data ca niciodata sa da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da
+
+Sampled text:
+A fost o data ca niciodata tova to lstaracoîmcrena ani dîlfoi a  earsa:eruiisu ti. dTzrat, de co fil.tooa ca lpeeba
+ aceai î Mi cotei. Aacîl gnhtoîfca ta.,  rrtei ca dinisit tce?aB mîca 
+lu:i Ncii Mecru em,ti diti? laiincladi f
+[CRNN][2018-01-07 18:42:04] Running epoch 2 with 491 steps
+[CRNN][2018-01-07 18:42:10] Epoch 2 Loss:2.292
+[CRNN][2018-01-07 18:42:11]  Epoch 2
+Predicted text:
+A fost o data ca niciodata si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si
+
+Sampled text:
+A fost o data ca niciodata deetiî, gpoa tiifa matiti înrarereapa îpNu andola fîntacicauneÎa. rea-oeba.. DiiSt?i Ffelmasi loc Mata ldunlur lerite soverteca elana gul înmbevisa Da? cati
+ Sateia tu domrativiEdia se fo.l-ociau lati
+[CRNN][2018-01-07 18:42:11] Running epoch 3 with 491 steps
+[CRNN][2018-01-07 18:42:16] Epoch 3 Loss:2.133
+[CRNN][2018-01-07 18:42:18]  Epoch 3
+Predicted text:
+A fost o data ca niciodata si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si
+
+Sampled text:
+A fost o data ca niciodata rere? amitit î-rs omuca, de sii peci, cadiinta Eoc. lunticintii fa cotutri? ne c-ii fe nesispera.? Do-urarinda, îrenizrog cratiidalin su teîa var de pa ul 
+utan casi morat si renes uvas aacîndiam se I
+[CRNN][2018-01-07 18:42:18] Running epoch 4 with 491 steps

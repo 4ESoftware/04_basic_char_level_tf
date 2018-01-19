@@ -1,0 +1,110 @@
+[CRNN][2018-01-07 17:27:41] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-07 17:27:41] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-07 17:27:41] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-07 17:27:41] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-07 17:27:41] Found Keras 2.0.9
+[CRNN][2018-01-07 17:27:41] Load data...
+[CRNN][2018-01-07 17:27:41] Done load data. [0.00s]
+[CRNN][2018-01-07 17:27:41] Creating graph ...
+[CRNN][2018-01-07 17:27:43] Done creating graph. [1.88s]
+[CRNN][2018-01-07 17:27:43] Running epoch 0 with 491 steps
+[CRNN][2018-01-07 17:27:49] Epoch 0 Loss:3.122
+[CRNN][2018-01-07 17:27:49]  Epoch 0 Predicted text:
+A fost o data ca niciodata tetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetete
+[CRNN][2018-01-07 17:27:49] Running epoch 1 with 491 steps
+[CRNN][2018-01-07 17:27:54] Epoch 1 Loss:2.933
+[CRNN][2018-01-07 17:27:55]  Epoch 1 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:27:55] Running epoch 2 with 491 steps
+[CRNN][2018-01-07 17:28:00] Epoch 2 Loss:2.942
+[CRNN][2018-01-07 17:28:00]  Epoch 2 Predicted text:
+A fost o data ca niciodata datututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututu
+[CRNN][2018-01-07 17:28:00] Running epoch 3 with 491 steps
+[CRNN][2018-01-07 17:28:05] Epoch 3 Loss:2.877
+[CRNN][2018-01-07 17:28:06]  Epoch 3 Predicted text:
+A fost o data ca niciodata detututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututu
+[CRNN][2018-01-07 17:28:06] Running epoch 4 with 491 steps
+[CRNN][2018-01-07 17:28:11] Epoch 4 Loss:2.918
+[CRNN][2018-01-07 17:28:11]  Epoch 4 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:28:11] Running epoch 5 with 491 steps
+[CRNN][2018-01-07 17:28:16] Epoch 5 Loss:2.920
+[CRNN][2018-01-07 17:28:17]  Epoch 5 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:28:17] Running epoch 6 with 491 steps
+[CRNN][2018-01-07 17:28:22] Epoch 6 Loss:2.875
+[CRNN][2018-01-07 17:28:22]  Epoch 6 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:28:22] Running epoch 7 with 491 steps
+[CRNN][2018-01-07 17:28:27] Epoch 7 Loss:2.898
+[CRNN][2018-01-07 17:28:28]  Epoch 7 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:28:28] Running epoch 8 with 491 steps
+[CRNN][2018-01-07 17:28:33] Epoch 8 Loss:2.794
+[CRNN][2018-01-07 17:28:33]  Epoch 8 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:28:33] Running epoch 9 with 491 steps
+[CRNN][2018-01-07 17:28:38] Epoch 9 Loss:2.801
+[CRNN][2018-01-07 17:28:39]  Epoch 9 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:28:39] Running epoch 10 with 491 steps
+[CRNN][2018-01-07 17:28:44] Epoch 10 Loss:2.818
+[CRNN][2018-01-07 17:28:45]  Epoch 10 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:28:45] Running epoch 11 with 491 steps
+[CRNN][2018-01-07 17:28:50] Epoch 11 Loss:2.802
+[CRNN][2018-01-07 17:28:50]  Epoch 11 Predicted text:
+A fost o data ca niciodata tatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:28:50] Running epoch 12 with 491 steps
+[CRNN][2018-01-07 17:28:55] Epoch 12 Loss:2.824
+[CRNN][2018-01-07 17:28:56]  Epoch 12 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:28:56] Running epoch 13 with 491 steps
+[CRNN][2018-01-07 17:29:01] Epoch 13 Loss:2.828
+[CRNN][2018-01-07 17:29:01]  Epoch 13 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:29:01] Running epoch 14 with 491 steps
+[CRNN][2018-01-07 17:29:06] Epoch 14 Loss:2.882
+[CRNN][2018-01-07 17:29:07]  Epoch 14 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:29:07] Running epoch 15 with 491 steps
+[CRNN][2018-01-07 17:29:12] Epoch 15 Loss:2.888
+[CRNN][2018-01-07 17:29:12]  Epoch 15 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:29:12] Running epoch 16 with 491 steps
+[CRNN][2018-01-07 17:29:17] Epoch 16 Loss:2.906
+[CRNN][2018-01-07 17:29:18]  Epoch 16 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:29:18] Running epoch 17 with 491 steps
+[CRNN][2018-01-07 17:29:23] Epoch 17 Loss:2.840
+[CRNN][2018-01-07 17:29:24]  Epoch 17 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:29:24] Running epoch 18 with 491 steps
+[CRNN][2018-01-07 17:29:29] Epoch 18 Loss:2.899
+[CRNN][2018-01-07 17:29:29]  Epoch 18 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:29:29] Running epoch 19 with 491 steps
+[CRNN][2018-01-07 17:29:34] Epoch 19 Loss:2.874
+[CRNN][2018-01-07 17:29:35]  Epoch 19 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:29:35] Running epoch 20 with 491 steps
+[CRNN][2018-01-07 17:29:40] Epoch 20 Loss:2.854
+[CRNN][2018-01-07 17:29:40]  Epoch 20 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:29:40] Running epoch 21 with 491 steps
+[CRNN][2018-01-07 17:29:45] Epoch 21 Loss:2.884
+[CRNN][2018-01-07 17:29:46]  Epoch 21 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:29:46] Running epoch 22 with 491 steps
+[CRNN][2018-01-07 17:29:51] Epoch 22 Loss:2.899
+[CRNN][2018-01-07 17:29:51]  Epoch 22 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:29:51] Running epoch 23 with 491 steps
+[CRNN][2018-01-07 17:29:56] Epoch 23 Loss:2.853
+[CRNN][2018-01-07 17:29:57]  Epoch 23 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:29:57] Running epoch 24 with 491 steps
+[CRNN][2018-01-07 17:30:02] Epoch 24 Loss:2.863
+[CRNN][2018-01-07 17:30:02]  Epoch 24 Predicted text:
+A fost o data ca niciodata datatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatata
+[CRNN][2018-01-07 17:30:02] Running epoch 25 with 491 steps

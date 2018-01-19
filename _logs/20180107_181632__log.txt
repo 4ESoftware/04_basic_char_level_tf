@@ -1,0 +1,67 @@
+[CRNN][2018-01-07 18:16:32] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-07 18:16:32] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-07 18:16:32] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-07 18:16:32] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-07 18:16:32] Found Keras 2.0.9
+[CRNN][2018-01-07 18:16:32] Load data...
+[CRNN][2018-01-07 18:16:32] Done load data. [0.00s]
+[CRNN][2018-01-07 18:16:32] Creating graph ...
+[CRNN][2018-01-07 18:16:34] Done creating graph. [1.65s]
+[CRNN][2018-01-07 18:16:35] Running epoch 0 with 491 steps
+[CRNN][2018-01-07 18:16:41] Epoch 0 Loss:2.977
+[CRNN][2018-01-07 18:16:42]  Epoch 0
+ Predicted text:
+A fost o data ca niciodata a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  a  Sampled text:
+A fost o data ca niciodata n eai irl.  ilaioaito idiupaueetia ui f.dgîa.iotp amdoorilSutvre r,  dgt cmtinieulataiiiîe tr oP dMemiitî Ai?s .tou uaierrîaia eesaarroruîci dil gu peilaaa. loiau,i a ti ireapliÎimampîarrp  aa-diarrma
+[CRNN][2018-01-07 18:16:42] Running epoch 1 with 491 steps
+[CRNN][2018-01-07 18:16:47] Epoch 1 Loss:2.529
+[CRNN][2018-01-07 18:16:48]  Epoch 1
+ Predicted text:
+A fost o data ca niciodata sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa Sampled text:
+A fost o data ca niciodata sta pa fuAtrariKiatiîrma tireataviste? eniFiutiaite Selevetui. îndaylr. au erislirovi  sc-oeeo-eas paas liicutalvoi pi-îllatito,atee Sgit îc îalileagsSa sicpetuitlcoaa cidemîn.a lelaisiom mebhît du tu
+[CRNN][2018-01-07 18:16:48] Running epoch 2 with 491 steps
+[CRNN][2018-01-07 18:16:53] Epoch 2 Loss:2.260
+[CRNN][2018-01-07 18:16:54]  Epoch 2
+ Predicted text:
+A fost o data ca niciodata si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si Sampled text:
+A fost o data ca niciodata vîncuc ptthabi viar ud atamopem sm. înii ce tezor rentler te-esi încans nr anti psirtit  sriar. laitroni dat?-at n,um nteime:na mil procatato.n,le as, ciunda. du sii me lepene vas. Nul în?.nm! nusmisa
+[CRNN][2018-01-07 18:16:54] Running epoch 3 with 491 steps
+[CRNN][2018-01-07 18:16:59] Epoch 3 Loss:2.126
+[CRNN][2018-01-07 18:17:00]  Epoch 3
+ Predicted text:
+A fost o data ca niciodata si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si Sampled text:
+A fost o data ca niciodata s-e mfur, acere bemedae Da fastuaga sa daz, tiun Dua olîntoaba, sa malast. Etent l-o princ, deotide Csivapare nd le fi .oitrrolu ppros.siTipatasprei cost panîl tarul puuntusel fa zumtrrmiciici cintav 
+[CRNN][2018-01-07 18:17:00] Running epoch 4 with 491 steps
+[CRNN][2018-01-07 18:17:05] Epoch 4 Loss:2.065
+[CRNN][2018-01-07 18:17:06]  Epoch 4
+ Predicted text:
+A fost o data ca niciodata si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si Sampled text:
+A fost o data ca niciodata am sostici ssel înira, pa pri? .in mi gaaD înpota tusio
+ ariti pi detociciireîlstu!nta co ca si sjrcocrie stirexratileui înu. Il fa Mrou depgosetelu, Pipu ce de fa tatr matrui fitide masa n-an sa nm a
+[CRNN][2018-01-07 18:17:06] Running epoch 5 with 491 steps
+[CRNN][2018-01-07 18:17:11] Epoch 5 Loss:2.034
+[CRNN][2018-01-07 18:17:12]  Epoch 5
+ Predicted text:
+A fost o data ca niciodata ca si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si Sampled text:
+A fost o data ca niciodata sca vivovati na delerdeat tuta Koum?
+. îa noscase si tecartortiri dinorere, ee fidace de fii a ar, veisia îmi tenai ce sepri amu putatu arii nesmasra de întroimi s, agrucrela lena..nTait pri victaia  
+[CRNN][2018-01-07 18:17:12] Running epoch 6 with 491 steps
+[CRNN][2018-01-07 18:17:17] Epoch 6 Loss:2.006
+[CRNN][2018-01-07 18:17:18]  Epoch 6
+ Predicted text:
+A fost o data ca niciodata ca si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si Sampled text:
+A fost o data ca niciodata unut nutii li bastsat paitisi..?ge ficuntram scudeveat si bhifaim. Ma gfrerial, m-a macuperalica fointrca usi ra îsojuice. fi caprid ciciamaseauanijut re sKazdestie in bat dal desenul. te saletul lint
+[CRNN][2018-01-07 18:17:18] Running epoch 7 with 491 steps
+[CRNN][2018-01-07 18:17:23] Epoch 7 Loss:1.983
+[CRNN][2018-01-07 18:17:24]  Epoch 7
+ Predicted text:
+A fost o data ca niciodata ca si si si printrea si printrea si printrea si printrea si printrea si printrea si printrea si printrea si printrea si printrea si printrea si printrea si printrea si printrea si printrea si printrea Sampled text:
+A fost o data ca niciodata în re frul, ia decoat:?)dat. E-a,  lar gei sast pi prtu i mazi denosatalua: gnigonti. Încisca cini tanCadi ar ftin. la shicar foi tersusi. At pucaram s-aca: re desosti ? ppiti tasi lenutete ciio lînac
+[CRNN][2018-01-07 18:17:24] Running epoch 8 with 491 steps
+[CRNN][2018-01-07 18:17:29] Epoch 8 Loss:1.968
+[CRNN][2018-01-07 18:17:30]  Epoch 8
+ Predicted text:
+A fost o data ca niciodata ca si priti de printreat între si printreat între si printreat între si printreat între si printreat între si printreat între si printreat între si printreat între si printreat între si printreat într Sampled text:
+A fost o data ca niciodata Da necut tar luti cui caimala aput-r dem? Cîntriti umcigostla evereatiri îmchi.stgrîtiel nii va-ua fasttoi. Voi sbe. Cun bui dacribac leg lea nd fi vimiin întalore? Îm prigi, olii. Î
+ .Funtrsdu du fro
+[CRNN][2018-01-07 18:17:30] Running epoch 9 with 491 steps

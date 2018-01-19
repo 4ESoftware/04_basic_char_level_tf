@@ -1,0 +1,10 @@
+[KCRNN][2018-01-07 22:55:58] Library [KCRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[KCRNN][2018-01-07 22:55:58] Logger ver: 3.9.2_tf14-html
+[KCRNN][2018-01-07 22:55:58] Found TF 1.4.0 running on GPU
+[KCRNN][2018-01-07 22:55:58] Found TF.Keras 2.0.8-tf
+[KCRNN][2018-01-07 22:55:58] Found Keras 2.0.9
+[KCRNN][2018-01-07 22:55:58] Load data...
+[KCRNN][2018-01-07 22:55:58] Done load data. [0.12s]
+[KCRNN][2018-01-07 22:55:58] Creating model...
+[KCRNN][2018-01-07 22:55:59] Model created.
+[KCRNN][2018-01-07 22:55:59] Training iteration 0

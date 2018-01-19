@@ -1,0 +1,7 @@
+[CRNN][2018-01-06 13:15:24] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-06 13:15:24] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-06 13:15:24] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-06 13:15:24] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-06 13:15:24] Found Keras 2.0.9
+[CRNN][2018-01-06 13:15:24] Load data...
+[CRNN][2018-01-06 13:15:24] Done load data. [0.00s]

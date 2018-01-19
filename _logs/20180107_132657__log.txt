@@ -1,0 +1,18 @@
+[CRNN][2018-01-07 13:26:57] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-07 13:26:57] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-07 13:26:57] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-07 13:26:57] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-07 13:26:57] Found Keras 2.0.9
+[CRNN][2018-01-07 13:26:57] Load data...
+[CRNN][2018-01-07 13:26:57] Done load data. [0.00s]
+[CRNN][2018-01-07 13:26:57] Creating graph ...
+[CRNN][2018-01-07 13:26:58] Done creating graph. [1.57s]
+[CRNN][2018-01-07 13:26:59] Running epoch 0 with 13255 steps
+[CRNN][2018-01-07 13:27:00]  Iter 0 Predicted text:
+   A fost o data ca niciodat!!!jj!!jjB!!jj!!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!!!jj!!jj!
+[CRNN][2018-01-07 13:27:04]  Iter 500 Predicted text:
+   A fost o data ca niciodatiii si si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si sii oi si 
+[CRNN][2018-01-07 13:27:08]  Iter 1000 Predicted text:
+   A fost o data ca niciodata fa fe siasa da fe seasaa fe persaaa da fe seasaa fe persaaa da fe seasaa fe persaaa da fe seasaa fe persaaa da fe seasaa fe persaaa da fe seasaa fe persaaa da fe seasaa fe persaaa da fe seasaa fe pe
+[CRNN][2018-01-07 13:27:12]  Iter 1500 Predicted text:
+   A fost o data ca niciodatea searea se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se s

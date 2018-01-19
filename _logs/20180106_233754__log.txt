@@ -1,0 +1,10 @@
+[CRNN][2018-01-06 23:37:54] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-06 23:37:54] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-06 23:37:54] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-06 23:37:54] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-06 23:37:54] Found Keras 2.0.9
+[CRNN][2018-01-06 23:37:54] Load data...
+[CRNN][2018-01-06 23:37:54] Done load data. [0.03s]
+[CRNN][2018-01-06 23:37:54] Creating graph ...
+[CRNN][2018-01-06 23:38:01] Done creating graph. [7.05s]
+[CRNN][2018-01-06 23:38:04] Running epoch 0 with 13253 steps

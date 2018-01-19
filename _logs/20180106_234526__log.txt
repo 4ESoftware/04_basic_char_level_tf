@@ -1,0 +1,44 @@
+[CRNN][2018-01-06 23:45:26] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-06 23:45:26] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-06 23:45:26] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-06 23:45:26] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-06 23:45:26] Found Keras 2.0.9
+[CRNN][2018-01-06 23:45:26] Load data...
+[CRNN][2018-01-06 23:45:26] Done load data. [0.00s]
+[CRNN][2018-01-06 23:45:26] Creating graph ...
+[CRNN][2018-01-06 23:45:28] Done creating graph. [1.80s]
+[CRNN][2018-01-06 23:45:29] Running epoch 0 with 13253 steps
+[CRNN][2018-01-06 23:45:30]  Iter 1 Predicted text:
+A fost o data ca niciodata                                                                                                                                                                                                         
+[CRNN][2018-01-06 23:45:30]  Iter 2 Predicted text:
+A fost o data ca niciodata                                                                                                                                                                                                         
+[CRNN][2018-01-06 23:45:31]  Iter 3 Predicted text:
+A fost o data ca niciodata                                                                                                                                                                                                         
+[CRNN][2018-01-06 23:45:31]  Iter 4 Predicted text:
+A fost o data ca niciodata                                                                                                                                                                                                         
+[CRNN][2018-01-06 23:45:32]  Iter 5 Predicted text:
+A fost o data ca niciodata aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[CRNN][2018-01-06 23:45:32]  Iter 6 Predicted text:
+A fost o data ca niciodata aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[CRNN][2018-01-06 23:45:33]  Iter 7 Predicted text:
+A fost o data ca niciodata aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[CRNN][2018-01-06 23:45:33]  Iter 8 Predicted text:
+A fost o data ca niciodata aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[CRNN][2018-01-06 23:45:34]  Iter 9 Predicted text:
+A fost o data ca niciodata tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+[CRNN][2018-01-06 23:45:35]  Iter 10 Predicted text:
+A fost o data ca niciodata                                                                                                                                                                                                         
+[CRNN][2018-01-06 23:45:35]  Iter 11 Predicted text:
+A fost o data ca niciodata                                                                                                                                                                                                         
+[CRNN][2018-01-06 23:45:36]  Iter 12 Predicted text:
+A fost o data ca niciodata                                                                                                                                                                                                         
+[CRNN][2018-01-06 23:45:36]  Iter 13 Predicted text:
+A fost o data ca niciodata                                                                                                                                                                                                         
+[CRNN][2018-01-06 23:45:37]  Iter 14 Predicted text:
+A fost o data ca niciodata aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[CRNN][2018-01-06 23:45:37]  Iter 15 Predicted text:
+A fost o data ca niciodata aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[CRNN][2018-01-06 23:45:38]  Iter 16 Predicted text:
+A fost o data ca niciodata a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+[CRNN][2018-01-06 23:45:38]  Iter 17 Predicted text:
+A fost o data ca niciodata                                                                                                                                                                                                         

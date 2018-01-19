@@ -1,0 +1,42 @@
+[CRNN][2018-01-07 18:13:50] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-07 18:13:50] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-07 18:13:50] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-07 18:13:50] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-07 18:13:50] Found Keras 2.0.9
+[CRNN][2018-01-07 18:13:50] Load data...
+[CRNN][2018-01-07 18:13:50] Done load data. [0.00s]
+[CRNN][2018-01-07 18:13:50] Creating graph ...
+[CRNN][2018-01-07 18:13:52] Done creating graph. [1.82s]
+[CRNN][2018-01-07 18:13:53] Running epoch 0 with 491 steps
+[CRNN][2018-01-07 18:13:58] Epoch 0 Loss:2.993
+[CRNN][2018-01-07 18:13:59]  Epoch 0 Predicted text:
+A fost o data ca niciodata .caencfsaape.oarNebioc dn.ucaataa coci asadgiasmgri,c:tm paitselopiRstuilabrîsaiEatl aittnatt cactetn:cd,p:fisutaiEy pcscaeva i aaV tu eri  ars.rg,fr î olapa :-e ic
+  o orgc tmt ndaitisifs pseatîsne .
+[CRNN][2018-01-07 18:13:59] Running epoch 1 with 491 steps
+[CRNN][2018-01-07 18:14:04] Epoch 1 Loss:2.484
+[CRNN][2018-01-07 18:14:04]  Epoch 1 Predicted text:
+A fost o data ca niciodata t
+
+ su.tdieu dare ae -itesus amttoîlts "a pnpimi,, vi,i vBaemrexti voesatan .eci.a til îli ?atasue vitlata mure Anuoojcateta  fa e ai  a def-butaetra
+ Teceniasa Natfelea îft îla-imaîa.ra ea ,tunde-ti!
+[CRNN][2018-01-07 18:14:04] Running epoch 2 with 491 steps
+[CRNN][2018-01-07 18:14:09] Epoch 2 Loss:2.219
+[CRNN][2018-01-07 18:14:10]  Epoch 2 Predicted text:
+A fost o data ca niciodata apna vacu. ma finepa iratelraf.mol goiu ppda meitar a s ri na mnui ao uteraiso ci diur uh visot însra Msgoni dofri îGcio- ii cuiipantral mi tuntsi vii Dasti:pa? .pim peyfetitout ex motlaa ta a (reti a
+[CRNN][2018-01-07 18:14:10] Running epoch 3 with 491 steps
+[CRNN][2018-01-07 18:14:15] Epoch 3 Loss:2.109
+[CRNN][2018-01-07 18:14:15]  Epoch 3 Predicted text:
+A fost o data ca niciodata datelat motu Ilce car. Da piutt riiat. ÎSili-aast gadum nutiplu colist ve sonar gris te Întreniacoi ta e me înfpen tindriri?t ar aa oa sticul Oreratroapepoa  joceaze feca întati opordiia a orvolteu cr
+[CRNN][2018-01-07 18:14:15] Running epoch 4 with 491 steps
+[CRNN][2018-01-07 18:14:20] Epoch 4 Loss:2.058
+[CRNN][2018-01-07 18:14:21]  Epoch 4 Predicted text:
+A fost o data ca niciodata failbiupîntar e dior ca stulcatetuti ileFînezafauti poe catbe! sp mintimati pavarupei, ta fîns;, vi ndestrana Tulaitilu pui vîn nîn l,a oce, slul ceoluttititastaregtntr cu sie Da prefa ?soa vîntunta, 
+[CRNN][2018-01-07 18:14:21] Running epoch 5 with 491 steps
+[CRNN][2018-01-07 18:14:26] Epoch 5 Loss:2.006
+[CRNN][2018-01-07 18:14:26]  Epoch 5 Predicted text:
+A fost o data ca niciodata caaslal fiuccaustr.), cest au faspule sist dorere ol în pui la oo stur fititilei. Damarroritrainpri..FCinti su otucustientreice ce pritaterutrcpre datrevelurb la fat;lul.le m ce sa coati, sorinda, ini
+[CRNN][2018-01-07 18:14:26] Running epoch 6 with 491 steps
+[CRNN][2018-01-07 18:14:31] Epoch 6 Loss:1.962
+[CRNN][2018-01-07 18:14:32]  Epoch 6 Predicted text:
+A fost o data ca niciodata siacitititrate.?? sam încrtea.)T., ît s-am genu. Mad coe si pumratitene aindin sip. Hînisi fai sa ca putrinemaF fastsi si ce lsiita nua ce înd, danerio anta. B Ce fKe-. Da lasituitari cemadeiei? cupar
+[CRNN][2018-01-07 18:14:32] Running epoch 7 with 491 steps

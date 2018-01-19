@@ -1,0 +1,19 @@
+[KCRNN][2018-01-07 23:31:09] Library [KCRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[KCRNN][2018-01-07 23:31:09] Logger ver: 3.9.2_tf14-html
+[KCRNN][2018-01-07 23:31:09] Found TF 1.4.0 running on GPU
+[KCRNN][2018-01-07 23:31:09] Found TF.Keras 2.0.8-tf
+[KCRNN][2018-01-07 23:31:09] Found Keras 2.0.9
+[KCRNN][2018-01-07 23:31:09] Load data...
+[KCRNN][2018-01-07 23:31:09] Done load data. [0.01s]
+[KCRNN][2018-01-07 23:31:09] Creating model...
+[KCRNN][2018-01-07 23:31:09] Model created.
+[KCRNN][2018-01-07 23:31:09] Training iteration 0
+[KCRNN][2018-01-07 23:31:47] Testing model at iteration 0 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+[KCRNN][2018-01-07 23:31:47] Training iteration 1
+[KCRNN][2018-01-07 23:32:22] Testing model at iteration 1 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a si ari a 
+[KCRNN][2018-01-07 23:32:22] Training iteration 2
+[KCRNN][2018-01-07 23:32:57] Testing model at iteration 2 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata si sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa
+[KCRNN][2018-01-07 23:32:57] Training iteration 3

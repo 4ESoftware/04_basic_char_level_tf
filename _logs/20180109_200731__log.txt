@@ -1,0 +1,28 @@
+[KABOT][2018-01-09 20:07:31] Library [KABOT ] initialized on machine [LAPTOP-R3N5TFDE]
+[KABOT][2018-01-09 20:07:31] Logger ver: 3.9.2_tf14-html
+[KABOT][2018-01-09 20:07:31] Found TF 1.4.0 running on GPU
+[KABOT][2018-01-09 20:07:31] Found TF.Keras 2.0.8-tf
+[KABOT][2018-01-09 20:07:31] Found Keras 2.0.9
+[KABOT][2018-01-09 20:07:31] Generating data...
+[KABOT][2018-01-09 20:07:34] Total addition questions:
+[KABOT][2018-01-09 20:07:34] Vectorization...
+[KABOT][2018-01-09 20:07:34] Training Data: X:(32940, 9, 12) y:(32940, 5, 12)
+[KABOT][2018-01-09 20:07:34] Validation Data: X:(3661, 9, 12) y:(3661, 5, 12)
+[KABOT][2018-01-09 20:07:34] Preparing model...
+[KABOT][2018-01-09 20:15:47] Test:
+[KABOT][2018-01-09 20:16:03] a:9999 b:1374 ans:11373 pred:91842
+[KABOT][2018-01-09 20:17:51] Test:
+[KABOT][2018-01-09 20:18:27] Test:
+[KABOT][2018-01-09 20:18:30] a:1234 b:10 ans:1244 pred:3411
+[KABOT][2018-01-09 20:18:57] Test:
+[KABOT][2018-01-09 20:19:01] a:10 b:10 ans:20 pred:100
+[KABOT][2018-01-09 20:19:11] Test:
+[KABOT][2018-01-09 20:19:18] a:90 b:1 ans:91 pred:901
+[KABOT][2018-01-09 20:21:38] Test:
+[KABOT][2018-01-09 20:21:40] a:9 b:1 ans:10 pred:10
+[KABOT][2018-01-09 20:21:48] Test:
+[KABOT][2018-01-09 20:21:58] a:9999 b:1374 ans:11373 pred:11363
+[KABOT][2018-01-09 20:22:15] Test:
+[KABOT][2018-01-09 20:22:19] a:9999 b:9999 ans:19998 pred:19978
+[KABOT][2018-01-09 20:23:10] Test:
+[KABOT][2018-01-09 20:23:22] a:109 b:873 ans:982 pred:992

@@ -1,0 +1,312 @@
+[KCRNN][2018-01-07 23:34:25] Library [KCRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[KCRNN][2018-01-07 23:34:25] Logger ver: 3.9.2_tf14-html
+[KCRNN][2018-01-07 23:34:25] Found TF 1.4.0 running on GPU
+[KCRNN][2018-01-07 23:34:25] Found TF.Keras 2.0.8-tf
+[KCRNN][2018-01-07 23:34:25] Found Keras 2.0.9
+[KCRNN][2018-01-07 23:34:25] Load data...
+[KCRNN][2018-01-07 23:34:25] Done load data. [0.01s]
+[KCRNN][2018-01-07 23:34:25] Creating model...
+[KCRNN][2018-01-07 23:34:25] Model created.
+[KCRNN][2018-01-07 23:34:25] Training iteration 0
+[KCRNN][2018-01-07 23:35:04] Testing model at iteration 0 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+[KCRNN][2018-01-07 23:35:04] Training iteration 1
+[KCRNN][2018-01-07 23:35:37] Testing model at iteration 1 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata si de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de
+[KCRNN][2018-01-07 23:35:37] Training iteration 2
+[KCRNN][2018-01-07 23:36:10] Testing model at iteration 2 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata si de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de
+[KCRNN][2018-01-07 23:36:10] Training iteration 3
+[KCRNN][2018-01-07 23:36:43] Testing model at iteration 3 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca de si si si priti de si si priti de si si priti de si si priti de si si priti de si si priti de si si priti de si si priti de si si priti de si si priti de si si priti de si si priti de si si priti
+[KCRNN][2018-01-07 23:36:43] Training iteration 4
+[KCRNN][2018-01-07 23:37:16] Testing model at iteration 4 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca priti si si priti si si priti si si priti si si priti si si priti si si priti si si priti si si priti si si priti si si priti si si priti si si priti si si priti si si priti si si priti si si priti
+[KCRNN][2018-01-07 23:37:16] Training iteration 5
+[KCRNN][2018-01-07 23:37:51] Testing model at iteration 5 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca prititi de întrele ca prititi de întrele ca prititi de întrele ca prititi de întrele ca prititi de întrele ca prititi de întrele ca prititi de întrele ca prititi de întrele ca prititi de întrele ca
+[KCRNN][2018-01-07 23:37:51] Training iteration 6
+[KCRNN][2018-01-07 23:38:23] Testing model at iteration 6 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca prititi de întrea de întrea si prititi de întrea de întrea si prititi de întrea de întrea si prititi de întrea de întrea si prititi de întrea de întrea si prititi de întrea de întrea si prititi de 
+[KCRNN][2018-01-07 23:38:23] Training iteration 7
+[KCRNN][2018-01-07 23:38:55] Testing model at iteration 7 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de întreat ca prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are ca 
+[KCRNN][2018-01-07 23:38:55] Training iteration 8
+[KCRNN][2018-01-07 23:39:28] Testing model at iteration 8 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de printile ca fi prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are ca fi prititi de are
+[KCRNN][2018-01-07 23:39:28] Training iteration 9
+[KCRNN][2018-01-07 23:40:02] Testing model at iteration 9 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de printile ca fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de a
+[KCRNN][2018-01-07 23:40:02] Training iteration 10
+[KCRNN][2018-01-07 23:40:35] Testing model at iteration 10 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de printi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de 
+[KCRNN][2018-01-07 23:40:35] Training iteration 11
+[KCRNN][2018-01-07 23:41:08] Testing model at iteration 11 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de printi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de ar fi prititi de 
+[KCRNN][2018-01-07 23:41:08] Training iteration 12
+[KCRNN][2018-01-07 23:41:41] Testing model at iteration 12 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de asta si puterat între între între între între între între între între între între între între între între între între între între între între între între între între între între între între între î
+[KCRNN][2018-01-07 23:41:41] Training iteration 13
+[KCRNN][2018-01-07 23:42:13] Testing model at iteration 13 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de asta cu printiti de asta si puterat între între în pera sa putera de asta si puterat între între în pera sa putera de asta si puterat între între în pera sa putera de asta si puterat între între în
+[KCRNN][2018-01-07 23:42:13] Training iteration 14
+[KCRNN][2018-01-07 23:42:45] Testing model at iteration 14 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de asta între întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrep
+[KCRNN][2018-01-07 23:42:45] Training iteration 15
+[KCRNN][2018-01-07 23:43:18] Testing model at iteration 15 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de am întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca întrepul ca în
+[KCRNN][2018-01-07 23:43:18] Training iteration 16
+[KCRNN][2018-01-07 23:43:51] Testing model at iteration 16 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de am fi puteratie. Ace cu prititi de am fi puteratie. Acu cora de printi si putera de am fi puteratie. Ace cu prititi de am fi puteratie. Acu cora de printi si putera de am fi puteratie. Ace cu priti
+[KCRNN][2018-01-07 23:43:51] Training iteration 17
+[KCRNN][2018-01-07 23:44:27] Testing model at iteration 17 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de am fi putere întrepul ca întelegatie sa mai sa fi întruptatie si puteratie. Si prestul de am puteratie. Ace cu puteratie. Ace trebuit si puteratie. Ace cu puteratie. Ace trebuit si puteratie. Ace c
+[KCRNN][2018-01-07 23:44:27] Training iteration 18
+[KCRNN][2018-01-07 23:45:04] Testing model at iteration 18 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de am fi puterea sa fi întruptatie si astare întrepul ca întelegetiti întelegatie. Si întelegatie. Si întelegatie. Si întelegatie. Si întelegatie. Si întelegatie. Si întelegatie. Si întelegatie. Si în
+[KCRNN][2018-01-07 23:45:04] Training iteration 19
+[KCRNN][2018-01-07 23:45:37] Testing model at iteration 19 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de caparie sa astar fici de am fi întruptati pricati de am fi întrepul ca întelegetiti în acera de prea de acuti întelegatie. Si care care ca întrepul ca întelegetiti în acera de prea de acuti înteleg
+[KCRNN][2018-01-07 23:45:37] Training iteration 20
+[KCRNN][2018-01-07 23:46:10] Testing model at iteration 20 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de capariti pricati de am fi sasta tuti sa faca desta întrepul ca întelegetiti în acea de prea de acuti întelegatie. Si care si astar fici de acutiti în întelegatie. Si cara de prebariti si puteratie.
+[KCRNN][2018-01-07 23:46:10] Training iteration 21
+[KCRNN][2018-01-07 23:46:42] Testing model at iteration 21 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de am fi sasta trebuit si putere întelegatita sa si puterul care ca întrepul ca întelegetiti în acea de prea de acuti sa si puterea sa si puterea sa si puterea sa si puterea sa si puterea sa si putere
+[KCRNN][2018-01-07 23:46:42] Training iteration 22
+[KCRNN][2018-01-07 23:47:15] Testing model at iteration 22 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de am fi sasta nucriti si putera de astari de capatie sa ficari de prea ca întrepurie sa ma întrepul ca întrepui si astari de faca de prebai, si astar fici de prea ca întrepurie sa ma întrepul ca într
+[KCRNN][2018-01-07 23:47:15] Training iteration 23
+[KCRNN][2018-01-07 23:47:47] Testing model at iteration 23 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de capariti precati de am fi sau si puterea ce întrepul ca întelegetiti încele ca întelegetiti încele ca întelegetiti încele ca întelegetiti încele ca întelegetiti încele ca întelegetiti încele ca înt
+[KCRNN][2018-01-07 23:47:47] Training iteration 24
+[KCRNN][2018-01-07 23:48:20] Testing model at iteration 24 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cara de am întrînd de am între în repurie sa nucru de pentru percare în acher de pritita ni-a Doun si sa faca tut am înfrînd de am între în repurie sa nucru de pentru percare în acher de pritita ni
+[KCRNN][2018-01-07 23:48:20] Training iteration 25
+[KCRNN][2018-01-07 23:48:52] Testing model at iteration 25 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cara de ara ficarie sa si puterea ca întrepurie sau al fi sa faca tut am fi puterea ce întrepul ca întelegetiti nui sa faca tut am fi puter fiita de cara de si putere în repurile care care întelege
+[KCRNN][2018-01-07 23:48:52] Training iteration 26
+[KCRNN][2018-01-07 23:49:25] Testing model at iteration 26 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cara de prebari de am în ratula de a faca tut am înfrînd de ar fi sau astat fici de-a Doa si fati de pricata de capariti de al ficita de cepariti de al ficita de cepariti de al ficita de cepariti d
+[KCRNN][2018-01-07 23:49:25] Training iteration 27
+[KCRNN][2018-01-07 23:49:58] Testing model at iteration 27 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu care care întelegeti în înteleprie dene sa fi înfrînt, în rapula ca întrepul ca întelegeti în întelegatie nui sa nui sa face cutere ar fi întrepul ca întelegeti în întelegatie nui sa nui sa face cu
+[KCRNN][2018-01-07 23:49:58] Training iteration 28
+[KCRNN][2018-01-07 23:50:30] Testing model at iteration 28 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu mintorile dene sa numest întelegatie nu-a faca Fundatie. As fi spuse Mis fi sa facetii care ca întelegeriti naca cu care ca întelegerie trei nera de telegatie. Asa tui asta nucru ca trebui a fost î
+[KCRNN][2018-01-07 23:50:30] Training iteration 29
+[KCRNN][2018-01-07 23:51:02] Testing model at iteration 29 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu întelegati. Ac mii al fi de fici de al fici de acea ce caunat cu pare cu astare încher de cepere cai sa face cu prin ca întrepul ca întelegeriti naca cu care ca întelegatie. Acea sa si asum nu si î
+[KCRNN][2018-01-07 23:51:02] Training iteration 30
+[KCRNN][2018-01-07 23:51:35] Testing model at iteration 30 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu minie. Si întele ce mai încher de ceperea cera de care în întelegatie cerulea sau nui sa întelegatie naca cu mintrule ca întelegetiti nurilici deca derei sa întelegeti deca de ceperea sar ul am fic
+[KCRNN][2018-01-07 23:51:35] Training iteration 31
+[KCRNN][2018-01-07 23:52:08] Testing model at iteration 31 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu mintolul, care era în razboirie. Si dei sa sa face cu tinitie. Si întele ce mai încher de cepe ce mai de am înfrînd, cara sa si astaru de fai sa face dehai sa al fi sau si tui în întîrînge. Sintea,
+[KCRNN][2018-01-07 23:52:08] Training iteration 32
+[KCRNN][2018-01-07 23:52:40] Testing model at iteration 32 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu minie. Si îmilegatie. Acesta de amea ceratat de care în întîepul ca eram întelegati încrucita deramera ficorile întelegeti încelulera care cera se sa întîmplata. Printru care cere ca întelegatie ne
+[KCRNN][2018-01-07 23:52:40] Training iteration 33
+[KCRNN][2018-01-07 23:53:13] Testing model at iteration 33 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu minie. Si îmilegatie. Acesta în asaput sa si înfrînd, cea încrepure ce era în razboirile îni sa poritata. Acostinul ca er fi devai se si întelea sera ere dera de prea cu trei si al ficit în înteleg
+[KCRNN][2018-01-07 23:53:13] Training iteration 34
+[KCRNN][2018-01-07 23:53:45] Testing model at iteration 34 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu care cu pare cu înteamat încele ca euminti. Ei îndintorile încercere ere încre ca îniace de cenea se nucit în razboirie. Si peraluiti niciulatie niai de ceparit ca înciperea ce o pe cîtît pe care î
+[KCRNN][2018-01-07 23:53:45] Training iteration 35
+[KCRNN][2018-01-07 23:54:17] Testing model at iteration 35 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu minie. Si îmilic de ar fi data în razboirie. Si dei descupe ca întelegatie. Ace ma în al voi dea sa si înfrînd, cea încea de acea ce caumat încapur si au si alificoari dea sa întelegeti încel de am
+[KCRNN][2018-01-07 23:54:17] Training iteration 36
+[KCRNN][2018-01-07 23:54:49] Testing model at iteration 36 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu care cu paterea încrepul pe care ce mpiii de elorie. Dea a frintrie sa nui Magatii decaratie sa nucesti în prea ca în peratul de grea ce încea de acea ce cape cîndatea sar cercutatie. Acestul ca nu
+[KCRNN][2018-01-07 23:54:49] Training iteration 37
+[KCRNN][2018-01-07 23:55:21] Testing model at iteration 37 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu miniea lei sa spui a fost întrepurile întelegeti întreusta însaca Fundatie. Ace fost al fi înfreina Mar. Dei faca cu cart al ficitat si prificat în peica ce puterea si al înfrîntule care era închit
+[KCRNN][2018-01-07 23:55:21] Training iteration 38
+[KCRNN][2018-01-07 23:55:54] Testing model at iteration 38 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu mintolulime trei de ceperita si-a fos fi puterea iea. Dea m-am fi despute sa numes de alticie încreca ce mpeialut si potrulat în peral. Acum întelegetiti întelulici necare încher si sa fii înfrîntu
+[KCRNN][2018-01-07 23:55:54] Training iteration 39
+[KCRNN][2018-01-07 23:56:26] Testing model at iteration 39 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu cintinua si pui care în rapulatie. Ace tot în mera de peitatiei. Acestate la lacele sa ma înfrîntul-mintiluli ca em fi dosputata. Printe-mi si voitici în iera sa si întîrînge. Si-au fi dotri su sta
+[KCRNN][2018-01-07 23:56:26] Training iteration 40
+[KCRNN][2018-01-07 23:56:59] Testing model at iteration 40 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu cintinua si pui cata ce pacîtul-ar fi puter fe sa fi înfrînt, era centilul si porinti în prebaita ce o loimel în prea sa fi intolul, care în acere dinar ca a trei în reprie deca de-a Doua Fundatie.
+[KCRNN][2018-01-07 23:56:59] Training iteration 41
+[KCRNN][2018-01-07 23:57:32] Testing model at iteration 41 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata în încea si putea în întelegatie. Acestu a fiza întelegeti cei mele, îm lici si sa si facat cu sintiii de are în lagare cara cu care ar fi înfrînt, în reprina neac de prei sa al ficita de ceparit ca î
+[KCRNN][2018-01-07 23:57:32] Training iteration 42
+[KCRNN][2018-01-07 23:58:05] Testing model at iteration 42 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cînd cu era în înfrînd, cepa cu mii ea mi dotreat de ce ere ce maiii de alea ce plecati în peral. Acum ti întilegatie. S-au fi o fost Catîrul si asum ragatitat de corelere tre încelcatiei dei mar c
+[KCRNN][2018-01-07 23:58:05] Training iteration 43
+[KCRNN][2018-01-07 23:58:40] Testing model at iteration 43 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de celai la acea cerai si ali înfrînt, în perarie. Si permul, iar mi putare ce descatu ai pe care în rapula mea. Prei si tari di porila na minie lui gare mintiulatii dara e min dea sa fi intoas si poi
+[KCRNN][2018-01-07 23:58:40] Training iteration 44
+[KCRNN][2018-01-07 23:59:14] Testing model at iteration 44 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de celale cînta ca înielogre deca de minie. Siei dei de facea sa si înfrînga în vazi de acea ficoata de celea ce ameacatea a ficîndatiei. Am contintele amea încre cînd cu era eremorie nui sa portinui 
+[KCRNN][2018-01-07 23:59:14] Training iteration 45
+[KCRNN][2018-01-07 23:59:47] Testing model at iteration 45 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata în perai. Eu di poi si amunit si întelegati în peral. Acem întelegerea ne-a focti fast cu din care în acea Fundatie. Ace tot întelegetiti încat reveice tinuli ce mai impritare niciorile îndicari de ce
+[KCRNN][2018-01-07 23:59:47] Training iteration 46
+[KCRNN][2018-01-08 00:00:20] Testing model at iteration 46 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata pe cîndea neca ca sintii sa si toi sa si si poinat cata cu care era fiinorial care ce pe ceperita nui Magnifico sau si al fi înfruit în poral. Aci te si întorînd, cu aca ca ti putine ma întelegeti ce 
+[KCRNN][2018-01-08 00:00:20] Training iteration 47
+[KCRNN][2018-01-08 00:00:53] Testing model at iteration 47 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata pe cîndea neca centru pe trei, ta fac asta ficînda necosca ne-a Doa am foc tita si poina se piopuia mea sea nui s-ot niitie. Vei încel pe cone, întelegetiti încat derege te fici petere al vorie niera 
+[KCRNN][2018-01-08 00:00:53] Training iteration 48
+[KCRNN][2018-01-08 00:01:25] Testing model at iteration 48 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata în razboi... Sine, dine, soa si rastulsi ca er fi dotraunt încimer. N-a fot am înfiatea sa si înfrînga cea încapurei, voi elimenie. Vrei pritia prepria, ca numeti si treau si sa voi în îi întîmplarie.
+[KCRNN][2018-01-08 00:01:25] Training iteration 49
+[KCRNN][2018-01-08 00:01:57] Testing model at iteration 49 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu pi care o celatie. Si ca simpuit care era întelegatii de cîndatiei în vazise si nui sa si poinat ai fi înfrîns prizi Si putina ce pe care mi-a fostati sa al ficipa în patîrului. Si înteleg ca eremi
+[KCRNN][2018-01-08 00:01:57] Training iteration 50
+[KCRNN][2018-01-08 00:02:31] Testing model at iteration 50 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de celai la acea cepanificoltile nimi si purisia si vai si peroa înteregeti de ase în îngelat în para ca îni înfipîna Pritcherdin perari în acher si si astaputul sa ma aceat am înfrînt, în sespura, si
+[KCRNN][2018-01-08 00:02:31] Training iteration 51
+[KCRNN][2018-01-08 00:03:03] Testing model at iteration 51 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata cu cintrulin si-a motea sa spuneam în întîrîng care încegcea de-a Doua Fundatie. Ace totunti. Acea Dou aFundatie. Aceu mi-am înfiles si si întîmplera ce ace care era înea ceprea încel pe ce nestultimi
+[KCRNN][2018-01-08 00:03:03] Training iteration 52
+[KCRNN][2018-01-08 00:03:36] Testing model at iteration 52 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata în piciparie nimingea. N-o te si puterea cea nevastau amun inua sa fac acum însas persint ca ai foi fa nus fi stasa în preagat pe care su si puterea si al mini peatea sa nu asa ca am fost a fi puterea
+[KCRNN][2018-01-08 00:03:36] Training iteration 53
+[KCRNN][2018-01-08 00:04:08] Testing model at iteration 53 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata în gecea de penta faceri celoreleitatie încaprii de getea se va întelegeti ce era ca astfinea sa fi împasta si te-am întelegeti în voi sa si treaga peroara pentrulig er voasca cea nevaita si tontini p
+[KCRNN][2018-01-08 00:04:08] Training iteration 54
+[KCRNN][2018-01-08 00:04:42] Testing model at iteration 54 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata în geati. E de pre cea sa si înfrînge. Sindeidanicariei ai li astaputat precere ce centrile ca ea înfrînge. Sinau si poratie. Acea Dau a foratia sea nucit raumerile timpulatieratie sa face cum care al
+[KCRNN][2018-01-08 00:04:42] Training iteration 55
+[KCRNN][2018-01-08 00:05:15] Testing model at iteration 55 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de coplai de aceat capa tritia deaga feitati pentru ca cemnici nici din si peima feata cu cara sa mintoarul ca entice si teasa ce aca cu aci fost far a fost ar fi putel getermitionila ca era un gatura
+[KCRNN][2018-01-08 00:05:15] Training iteration 56
+[KCRNN][2018-01-08 00:05:48] Testing model at iteration 56 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata în gecea lui Magnifico ti-i puternic ai fi putea faca tum is ar fi pertia si al ficita de pentau pe care lu asa ca a fosti nusti si tintigin care în acea Fundatie. Acem înteleagatita cemunea sa focotu
+[KCRNN][2018-01-08 00:05:48] Training iteration 57
+[KCRNN][2018-01-08 00:06:21] Testing model at iteration 57 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cîndetia pe care am întalegati de am în patare cei pe care eram înfrînt, esta întelegeti? Cea mai sa fi îspastie si nui ca mai înfrînti. Aci sa sotage are groa si putea sa si înfrînga pe o lopurat 
+[KCRNN][2018-01-08 00:06:21] Training iteration 58
+[KCRNN][2018-01-08 00:06:53] Testing model at iteration 58 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata în geagatiti desi ca întelegui Magenei. Sîndetie. Ame ceutiti si în întîmplare. Sa fi fostut sa fiintrularie o continuat am fi putere ficatia pe care al fi înfimea... Ei difara si tonti, sarsea. A fos
+[KCRNN][2018-01-08 00:06:53] Training iteration 59
+[KCRNN][2018-01-08 00:07:26] Testing model at iteration 59 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cîndit si avea controloi arisi ca întreugant. Vrei si treiult încorsati în veage. Deu acon re a continua ar fi asu
+ a fost Cus staprivia sa si puterea ce am foc dira cu gresea în prizi în vazu si s
+[KCRNN][2018-01-08 00:07:26] Training iteration 60
+[KCRNN][2018-01-08 00:07:58] Testing model at iteration 60 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cîndita prin tateni în vrei în vara ca care era eratorea sa pleparea miata din o plesea în vazul sa al fi puterea nu ca niciu sauna capatita, si te fara în vaza cu care eratulul, emotiile în rasalt
+[KCRNN][2018-01-08 00:07:58] Training iteration 61
+[KCRNN][2018-01-08 00:08:30] Testing model at iteration 61 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de ca înilagnta nevai raua Deua Doua Doun ficeri deosi ta în încea si si înfrîns, Toran. As fi pos acuta pe care eram înfrînge. Si aventa pe care ar fi puterea nu si troasca cea acum sa porat amiciond
+[KCRNN][2018-01-08 00:08:30] Training iteration 62
+[KCRNN][2018-01-08 00:09:03] Testing model at iteration 62 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cîndata care era fii dotanta pe care alifile are fei fi înfrîntu. Lor minte si el dehire ca numii iati pentrul ca a timpur. Cu soart pontrolata si as fi datului sa moria foartea sau agatanera de co
+[KCRNN][2018-01-08 00:09:04] Training iteration 63
+[KCRNN][2018-01-08 00:09:37] Testing model at iteration 63 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de ca înilas si sopurat o continua si putea ie degati. Cînd te mi-a forat achea, si porsitia prin si al dehgatula de ceparitat precator sa mintoare e al ce care era ficotiau ai foa Fundatie. A fi fost
+[KCRNN][2018-01-08 00:09:37] Training iteration 64
+[KCRNN][2018-01-08 00:10:10] Testing model at iteration 64 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cîndit ai fiia o pestru pertiat încar si peitatea sersi ca am foc tinticiprea în pinara prepatat si tonsit ari iedorile înieraudat propria ca ca numiti da prit capetea. Asca fi fost al felitati înt
+[KCRNN][2018-01-08 00:10:10] Training iteration 65
+[KCRNN][2018-01-08 00:10:42] Testing model at iteration 65 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata prepatul ca nimii sa vari feratie.. Daca ai fi fi stau plosa sa fi agafatut am accoplat amicioaril delem în rambait. Sinea doran sa acum gresibile întelegeti de ceperia ca ei iegreaza o întelegati cen
+[KCRNN][2018-01-08 00:10:42] Training iteration 66
+[KCRNN][2018-01-08 00:11:14] Testing model at iteration 66 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cîis pitraul cea necesea nici vi îsta prin ca ma si al înfrentat am încatire si ar fi parea si si înfrînga cea începtit si trea pe vaceveiteatea forala ce o portiat în vacupitata, si chita se va în
+[KCRNN][2018-01-08 00:11:14] Training iteration 67
+[KCRNN][2018-01-08 00:11:46] Testing model at iteration 67 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de ca înceratere în acea miatula pe care alimenti si toita ca acelui si atoafîtat prepriul ca achii troa si sa voza di Catîrul caun ficioa în vaca cu ca nui patur sa vorbiina ca nu-a postolata de capa
+[KCRNN][2018-01-08 00:11:46] Training iteration 68
+[KCRNN][2018-01-08 00:12:18] Testing model at iteration 68 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cîid la mini pearat si al înfrînt, în vea sa fa a fost Cotîrila în vaca cu piotea devind ca erau agatie. Asa cu asti prifit proara ca caun al fi stas ai fara dorine nui ini nost al fel? Da a tremun
+[KCRNN][2018-01-08 00:12:18] Training iteration 69
+[KCRNN][2018-01-08 00:12:51] Testing model at iteration 69 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de contilegaita si al ficitînd ai peterat tinatie deoc de aceat ai ficotitata de pricau saum si porstita pe tie. Treputa si te ploate de aceatatii de precat pe care le-am far ai Caumesti în vrei în ve
+[KCRNN][2018-01-08 00:12:51] Training iteration 70
+[KCRNN][2018-01-08 00:13:23] Testing model at iteration 70 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata deri ce o înireget. Nu-a post as fii ficilea si tontiu a fost Cundatiai dina nea a continua si puzini cari în pesca pe care lu m-am întelegati pe care întelea acu ci pare leca reu. Dau nu egotealea ce
+[KCRNN][2018-01-08 00:13:23] Training iteration 71
+[KCRNN][2018-01-08 00:13:56] Testing model at iteration 71 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de celara de al peita si toita deoa dare cea spuse ar fi pus putroa a fost controlat, eu o porsit ai facatifitatie sa numestula ca nimicioarie îngoteamea dera de peralucele în astau si postalepete sa 
+[KCRNN][2018-01-08 00:13:56] Training iteration 72
+[KCRNN][2018-01-08 00:14:28] Testing model at iteration 72 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de celera si tontorial a ov ai fi o porbalta cemorile ni înfrînt, în vozulta propria-tcati ca ai fost controlui artui telatalerali în lacate de cepentatia îndunci pentru ca o putesa fac am focot o pei
+[KCRNN][2018-01-08 00:14:28] Training iteration 73
+[KCRNN][2018-01-08 00:15:00] Testing model at iteration 73 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de celaul cu geniti ne desa si înfrînt, în voa si si acumutat. Cu teatea sa faca coat ai fost o conista în piogarie nivi se difprita nea mai ificotiie amulea cepa de-a moi o ur puntroa nu am pi putit 
+[KCRNN][2018-01-08 00:15:00] Training iteration 74
+[KCRNN][2018-01-08 00:15:33] Testing model at iteration 74 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata din o pentrulul Noi si achidat si alivot siste la Hor era fa sau coast printor:? Cum e
+ a fosta prines si dorabt o despune ar fi portatia pe tatea îndreagani pentru ca ai foat as fi putea fasta cum o 
+[KCRNN][2018-01-08 00:15:33] Training iteration 75
+[KCRNN][2018-01-08 00:16:06] Testing model at iteration 75 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata dinitarie: Dar bimac ca întelegut mii ifara, contine ma un impulta. Înta mii s-a înfrînta pe care lu re mine al felare în acea Fun fari Cînd si es fi dara în vazizu sau pus ai fustate sa affanea. Coam
+[KCRNN][2018-01-08 00:16:06] Training iteration 76
+[KCRNN][2018-01-08 00:16:38] Testing model at iteration 76 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de celar de alea cepunul emotriulatii trimini mea. Acîmp sa sobsid si înfrînt, întreu, care cînd mei, încatîrul se ma un porsi ta în pecapata, sa si acumus si plepurat puternici nimi-asificoltilatie î
+[KCRNN][2018-01-08 00:16:38] Training iteration 77
+[KCRNN][2018-01-08 00:17:10] Testing model at iteration 77 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata din oplind ca ea nucit tatea nascere în rezunte. N-a fost am oc printultima ca întelegeti se ai fost ar fi putea su si rabdinurat în proaca petrova. Printr-o nivi o predat pentru care o consitie. Si a
+[KCRNN][2018-01-08 00:17:10] Training iteration 78
+[KCRNN][2018-01-08 00:17:43] Testing model at iteration 78 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de ca putina ma aca continua avoa i prizi mea are continua s-as fi acunia de fai afacatatie prvinte, nora fara eon controa nu si inia sa fii grodice priva ca ei poralta ficoate. A fost greseata. Aca f
+[KCRNN][2018-01-08 00:17:43] Training iteration 79
+[KCRNN][2018-01-08 00:18:15] Testing model at iteration 79 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cîndine lui Magnifico trimul deata în pasata de am controloi ini sa voi fi sput asta. Aceam dinar ditermidine al fi pare ul razboina meati în acea pusatie. Acîste mi-ar fi forat acela face a minita
+[KCRNN][2018-01-08 00:18:15] Training iteration 80
+[KCRNN][2018-01-08 00:18:47] Testing model at iteration 80 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata dinii din nava o ura proaria pe parea asupra, dosta numii ca astea numai se fica curi telera si numica aca cum priftar put re untinea o pontroana mea, cari si sa baralit capa si înfrînt, în voata de p
+[KCRNN][2018-01-08 00:18:47] Training iteration 81
+[KCRNN][2018-01-08 00:19:19] Testing model at iteration 81 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de celerati încar ca deral sa înteleaga ca ca nusiliti de atea ceplui, trimulitiotorile întu si ne simperatia fii sa stumun ingelti am ficorit nevai falta, spun acel felera sa affanta. Îni la asterato
+[KCRNN][2018-01-08 00:19:19] Training iteration 82
+[KCRNN][2018-01-08 00:19:51] Testing model at iteration 82 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cîndatea neosi elotriva delegrea însacea oa prifitate. Asa forastontru a treia sa fai sa foi sau ai agasa al feliceritata, sa fora fost controlata. Prea acea cau, si sobuit rasesea nui si tontinua 
+[KCRNN][2018-01-08 00:19:51] Training iteration 83
+[KCRNN][2018-01-08 00:20:24] Testing model at iteration 83 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata dinara ni-i potosirau aruniista din si voi fi soral rangatiera de cei si alivatera din oada facatitare voreritre si alia ulutati. Îni numis si eapundatiei. În potea ivar si pertint în proaca deraita p
+[KCRNN][2018-01-08 00:20:24] Training iteration 84
+[KCRNN][2018-01-08 00:20:56] Testing model at iteration 84 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata prepatorii, totra de pene ce pestru ai Cîtdet sc al aceata capalatate vorele ara închera ne lui Magnifico tinitorii tribi, dar e ifprins pa avea bascupare mini al felorelatie alemeratentru o trebuit î
+[KCRNN][2018-01-08 00:20:56] Training iteration 85
+[KCRNN][2018-01-08 00:21:28] Testing model at iteration 85 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata dinitarulat, pontrolul emotii deca din iodundatiei de-a Doua Fundatie. A foatfacîndine nu si în înfirea preprivi nevazati de chiar si al achit sintriulatoritat, a fost ar ficosine navai si alidaltorul
+[KCRNN][2018-01-08 00:21:28] Training iteration 86
+[KCRNN][2018-01-08 00:22:01] Testing model at iteration 86 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de celar cardat prici care era un insi si ea noi si totsa de pentru pentru pe ca întreu, ea puse cu pontinuata m-ai fata vat cea ac agaua corai ta fii întelegatirea dere lu de ac ac acoata cu al foltr
+[KCRNN][2018-01-08 00:22:01] Training iteration 87
+[KCRNN][2018-01-08 00:22:33] Testing model at iteration 87 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de caperivia propriareca precoperiide l pîndinata cu continua sa fac inturut propritor în vicitiu si al fi stadat si îndulti. Ea treprea cu era foati suntrui le mine, încerea m-a puc pitare ali plecat
+[KCRNN][2018-01-08 00:22:33] Training iteration 88
+[KCRNN][2018-01-08 00:23:05] Testing model at iteration 88 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata din indicata dinii continua si pustraunde lui Magnifico ti-o fac piriin sa învidescul pe care era foi fora Vrei ve dotrabt de vrei vehi spun sa ma moa o persima doas pioara din plecale si nu catar lai
+[KCRNN][2018-01-08 00:23:05] Training iteration 89
+[KCRNN][2018-01-08 00:23:37] Testing model at iteration 89 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cela ce tanea lui Magnifico tinita o re altelat o fostrat sa afi ochii, ai facutun sa ma focatat pusinat. Pe toasta si pucerea o persoana muasier. As fi forat ocumita din saruli. Va ma mitie prin m
+[KCRNN][2018-01-08 00:23:37] Training iteration 90
+[KCRNN][2018-01-08 00:24:10] Testing model at iteration 90 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de celar cartinulai sa altinui, trat lucitie. Acest am am am ascaprifptraua al forta traul ca a continua si puterea o apunului, potraul continua s-as fizi gate vrem copulat cu gata dintoara nu-a Doau 
+[KCRNN][2018-01-08 00:24:10] Training iteration 91
+[KCRNN][2018-01-08 00:24:42] Testing model at iteration 91 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cînd lici pe trei, ta întelea ateace proposeree L-a mor o urigatonator ol am caputita, porat asta un putere. Ase fiintioprit în vaca din inatale. Am întelegeti de ata ca nimisturi dinita. Acum înte
+[KCRNN][2018-01-08 00:24:42] Training iteration 92
+[KCRNN][2018-01-08 00:25:14] Testing model at iteration 92 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata derinte, ace cu? Întelegati de cen minuratare ni controlui ai fa ar fi o continua avoa i pornit prizi nemorienta. E  înieateapenta minita, porat am ficontrolui am ac pleata de pentru care o coniis si 
+[KCRNN][2018-01-08 00:25:14] Training iteration 93
+[KCRNN][2018-01-08 00:25:46] Testing model at iteration 93 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de ca îniralui ni întregrun. Va întelegatita voata cu care o poitita îndintele em pe cepelat emotioa îni per ca en cera si vozi î mii doar re mai în pordat am fi puterea mi adafatat contii lui, sa fau
+[KCRNN][2018-01-08 00:25:46] Training iteration 94
+[KCRNN][2018-01-08 00:26:18] Testing model at iteration 94 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de celorientata voatea mara de mine mii tarul de al în peral. Acum ni sevei, tretorile ara ei chiata devara ce teleralti na deuserat în printondata pu parea inara ei vor fi troanse mu toata de penteu 
+[KCRNN][2018-01-08 00:26:18] Training iteration 95
+[KCRNN][2018-01-08 00:26:51] Testing model at iteration 95 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata prepiiarie nia. Dar, eu mai nu aceat am controlat înca îniera da necate ve o consimul tale are ie doa si sevaifata de pe Hai, întreun, Toran nevazici per o lovatuta de mina, procati, deram în achera s
+[KCRNN][2018-01-08 00:26:51] Training iteration 96
+[KCRNN][2018-01-08 00:27:23] Testing model at iteration 96 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata dinar de pone ca ea plepa, ca nimigeste un acelivie.? Ni
+ întelea asun ina ntoi, eati divar sa si înfrînt, în voata de ceace vosi el vori de a cu porneinu rau ca si sa simperzeca în peral. At ntimial 
+[KCRNN][2018-01-08 00:27:23] Training iteration 97
+[KCRNN][2018-01-08 00:27:55] Testing model at iteration 97 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata preorice: Dora înteleguta ca era voi farta pe talece mea, dar controlut lucitor. Protepe cînd cu potreala nu-a postici petroana ce oal su prizici petre. Aceacea car, esa fost raspuna mea noam care o c
+[KCRNN][2018-01-08 00:27:55] Training iteration 98
+[KCRNN][2018-01-08 00:28:27] Testing model at iteration 98 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de cînd lica. Toran dingrede dora trau ai fa ara un sostora na mai nui ca a teubilima însa din plagere ca a coata dinii ca întelegeti?Înteau treu am decatia dea scar sa din pînd cu era de ajui si ea b
+[KCRNN][2018-01-08 00:28:27] Training iteration 99
+[KCRNN][2018-01-08 00:28:59] Testing model at iteration 99 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de ca ai fuc o framun si alidelti în pintoruluc, ara pe trala ce treiul. Doa aceateatafipula, controloi artacetul ficiotolui si peveat acea ca întelea a cu pastie doa asata sa învintîns si-as fi putea

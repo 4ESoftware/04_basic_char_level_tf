@@ -1,0 +1,88 @@
+[KCRNN][2018-01-07 23:00:31] Library [KCRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[KCRNN][2018-01-07 23:00:31] Logger ver: 3.9.2_tf14-html
+[KCRNN][2018-01-07 23:00:31] Found TF 1.4.0 running on GPU
+[KCRNN][2018-01-07 23:00:31] Found TF.Keras 2.0.8-tf
+[KCRNN][2018-01-07 23:00:31] Found Keras 2.0.9
+[KCRNN][2018-01-07 23:00:31] Load data...
+[KCRNN][2018-01-07 23:00:31] Done load data. [0.02s]
+[KCRNN][2018-01-07 23:00:31] Creating model...
+[KCRNN][2018-01-07 23:00:31] Model created.
+[KCRNN][2018-01-07 23:00:31] Training iteration 0
+[KCRNN][2018-01-07 23:00:38] Testing model at iteration 0 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[KCRNN][2018-01-07 23:00:38] Training iteration 1
+[KCRNN][2018-01-07 23:00:42] Testing model at iteration 1 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata                                                                                                                                                                                                         
+[KCRNN][2018-01-07 23:00:42] Training iteration 2
+[KCRNN][2018-01-07 23:00:46] Testing model at iteration 2 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata                                                                                                                                                                                                         
+[KCRNN][2018-01-07 23:00:46] Training iteration 3
+[KCRNN][2018-01-07 23:00:50] Testing model at iteration 3 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata                                                                                                                                                                                                         
+[KCRNN][2018-01-07 23:00:50] Training iteration 4
+[KCRNN][2018-01-07 23:00:54] Testing model at iteration 4 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a    a 
+[KCRNN][2018-01-07 23:00:54] Training iteration 5
+[KCRNN][2018-01-07 23:00:58] Testing model at iteration 5 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+[KCRNN][2018-01-07 23:00:58] Training iteration 6
+[KCRNN][2018-01-07 23:01:02] Testing model at iteration 6 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+[KCRNN][2018-01-07 23:01:02] Training iteration 7
+[KCRNN][2018-01-07 23:01:06] Testing model at iteration 7 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+[KCRNN][2018-01-07 23:01:06] Training iteration 8
+[KCRNN][2018-01-07 23:01:10] Testing model at iteration 8 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+[KCRNN][2018-01-07 23:01:10] Training iteration 9
+[KCRNN][2018-01-07 23:01:14] Testing model at iteration 9 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+[KCRNN][2018-01-07 23:01:14] Training iteration 10
+[KCRNN][2018-01-07 23:01:18] Testing model at iteration 10 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+[KCRNN][2018-01-07 23:01:18] Training iteration 11
+[KCRNN][2018-01-07 23:01:22] Testing model at iteration 11 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+[KCRNN][2018-01-07 23:01:22] Training iteration 12
+[KCRNN][2018-01-07 23:01:26] Testing model at iteration 12 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa
+[KCRNN][2018-01-07 23:01:26] Training iteration 13
+[KCRNN][2018-01-07 23:01:30] Testing model at iteration 13 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se a se 
+[KCRNN][2018-01-07 23:01:30] Training iteration 14
+[KCRNN][2018-01-07 23:01:34] Testing model at iteration 14 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa
+[KCRNN][2018-01-07 23:01:34] Training iteration 15
+[KCRNN][2018-01-07 23:01:38] Testing model at iteration 15 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce 
+[KCRNN][2018-01-07 23:01:38] Training iteration 16
+[KCRNN][2018-01-07 23:01:42] Testing model at iteration 16 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca
+[KCRNN][2018-01-07 23:01:42] Training iteration 17
+[KCRNN][2018-01-07 23:01:46] Testing model at iteration 17 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a sa ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca 
+[KCRNN][2018-01-07 23:01:46] Training iteration 18
+[KCRNN][2018-01-07 23:01:50] Testing model at iteration 18 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca 
+[KCRNN][2018-01-07 23:01:50] Training iteration 19
+[KCRNN][2018-01-07 23:01:54] Testing model at iteration 19 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de ca ca ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce ce
+[KCRNN][2018-01-07 23:01:54] Training iteration 20
+[KCRNN][2018-01-07 23:01:58] Testing model at iteration 20 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca 
+[KCRNN][2018-01-07 23:01:58] Training iteration 21
+[KCRNN][2018-01-07 23:02:02] Testing model at iteration 21 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata de ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca
+[KCRNN][2018-01-07 23:02:02] Training iteration 22
+[KCRNN][2018-01-07 23:02:06] Testing model at iteration 22 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca 
+[KCRNN][2018-01-07 23:02:06] Training iteration 23
+[KCRNN][2018-01-07 23:02:10] Testing model at iteration 23 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca 
+[KCRNN][2018-01-07 23:02:10] Training iteration 24
+[KCRNN][2018-01-07 23:02:14] Testing model at iteration 24 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca
+[KCRNN][2018-01-07 23:02:14] Training iteration 25
+[KCRNN][2018-01-07 23:02:18] Testing model at iteration 25 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca
+[KCRNN][2018-01-07 23:02:18] Training iteration 26

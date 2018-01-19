@@ -1,0 +1,13 @@
+[KCRNN][2018-01-07 23:13:59] Library [KCRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[KCRNN][2018-01-07 23:13:59] Logger ver: 3.9.2_tf14-html
+[KCRNN][2018-01-07 23:13:59] Found TF 1.4.0 running on GPU
+[KCRNN][2018-01-07 23:13:59] Found TF.Keras 2.0.8-tf
+[KCRNN][2018-01-07 23:13:59] Found Keras 2.0.9
+[KCRNN][2018-01-07 23:13:59] Load data...
+[KCRNN][2018-01-07 23:13:59] Done load data. [0.02s]
+[KCRNN][2018-01-07 23:13:59] Creating model...
+[KCRNN][2018-01-07 23:14:00] Model created.
+[KCRNN][2018-01-07 23:14:00] Training iteration 0
+[KCRNN][2018-01-07 23:14:24] Testing model at iteration 0 with input 'A fost o data ca niciodata ':
+A fost o data ca niciodata a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+[KCRNN][2018-01-07 23:14:24] Training iteration 1

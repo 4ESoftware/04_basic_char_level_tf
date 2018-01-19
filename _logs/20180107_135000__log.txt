@@ -1,0 +1,552 @@
+[CRNN][2018-01-07 13:50:00] Library [CRNN ] initialized on machine [LAPTOP-R3N5TFDE]
+[CRNN][2018-01-07 13:50:00] Logger ver: 3.9.2_tf14-html
+[CRNN][2018-01-07 13:50:00] Found TF 1.4.0 running on GPU
+[CRNN][2018-01-07 13:50:00] Found TF.Keras 2.0.8-tf
+[CRNN][2018-01-07 13:50:00] Found Keras 2.0.9
+[CRNN][2018-01-07 13:50:00] Load data...
+[CRNN][2018-01-07 13:50:00] Done load data. [0.00s]
+[CRNN][2018-01-07 13:50:00] Creating graph ...
+[CRNN][2018-01-07 13:50:02] Done creating graph. [1.69s]
+[CRNN][2018-01-07 13:50:03] Running epoch 0 with 13255 steps
+[CRNN][2018-01-07 13:50:03]  Iter 0 Predicted text:
+   A fost o data ca niciodat:tptttttttp::cttttp::ctttMttttttpttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+[CRNN][2018-01-07 13:50:07]  Iter 500 Predicted text:
+   A fost o data ca niciodati si oii ii si si  ii si si tii ci si tii ii si sii si oi sii si oi si tii ci si tii ci si bii ii oi si tii ci si tii ci si bii ii oi si tii ci si tii ci si bii ii oi si tii ci si tii ci si bii ii oi 
+[CRNN][2018-01-07 13:50:12]  Iter 1000 Predicted text:
+   A fost o data ca niciodata aa a si ara ai a da ara ai a da ara ai a da ara ai a da ara ai a da ara ai a da ara ai a da ara ai a da ara ai a da ara ai a da ara ai a da ara ai a da ara ai a da ara ai a da ara ai a da ara ai a d
+[CRNN][2018-01-07 13:50:16]  Iter 1500 Predicted text:
+   A fost o data ca niciodater sa se se erar sa sa ea  sorea sa  sa sa sa  so se reo sa  a ea er le se se ea ea ea esa sa ea  sa sa  sor lor larea sa  sa sa ea  sor lor lar larea sa  sa sa re  sor lorelar larea sa  sa sa re  sor
+[CRNN][2018-01-07 13:50:20]  Iter 2000 Predicted text:
+   A fost o data ca niciodatecetecetecetececescetecetecetecetecececestetetecetecetecececestetetecetecetecececestetetecetecetecececestetetecetecetecececestetetecetecetecececestetetecetecetecececestetetecetecetecececestetetecetece
+[CRNN][2018-01-07 13:50:24]  Iter 2500 Predicted text:
+   A fost o data ca niciodat! fe! Si fite! Si fii ri fii ! Sa fe! Sa fii !i fi fii Si fii ! far fi Sateri!! Sa fii Si fii ! fatii! Sa fii ri di fi fit ii fi fii ! farir! Sa fii ri di fi fii ii fi f! fi fii Si fii Si fii fi Si fi
+[CRNN][2018-01-07 13:50:28]  Iter 3000 Predicted text:
+   A fost o data ca niciodata Anasi sa pu si sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa 
+[CRNN][2018-01-07 13:50:32]  Iter 3500 Predicted text:
+   A fost o data ca niciodatat voindandai Foima, doitaa doitat vondea voi donda, voitaa doitFandoitaandoitFandai Fundai Fondai Fondai voitaundaitan voa.FindatavundantaindoiaFandai.Fandai Fundai Fondai Fondai voitaundaitan voa.Fi
+[CRNN][2018-01-07 13:50:36]  Iter 4000 Predicted text:
+   A fost o data ca niciodate fi fe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe fileselo pe 
+[CRNN][2018-01-07 13:50:40]  Iter 4500 Predicted text:
+   A fost o data ca niciodat ca Pri cher ncat Fri. Pa Pri che Pri c du drat Fa Pri.cha Pri che Pri c du drat Fa Pri.cha Pri che Pri c du drat Fa Pri.cha Pri che Pri c du drat Fa Pri.cha Pri che Pri c du drat Fa Pri.cha Pri che P
+[CRNN][2018-01-07 13:50:44]  Iter 5000 Predicted text:
+   A fost o data ca niciodat sa ci zu? Nu crunci zu cruzi co nu? Nu crezi ce orenci nu crunci zu crunci zu crunci zu crunci zu crunci zu crunci zu crunci zu crunci zu crunci zu crunci zu crunci zu crunci zu crunci zu crunci zu c
+[CRNN][2018-01-07 13:50:48]  Iter 5500 Predicted text:
+   A fost o data ca niciodat at plecat pe precatate. Asatate. Aroati prea tecati pe prechepei prea trepriteherate.PAsa trepriteat pe prepate Prepati Prea teppatie. Ao Precati ca prechepe chepei preate. Asa tatehereati Preichepei
+[CRNN][2018-01-07 13:50:52]  Iter 6000 Predicted text:
+   A fost o data ca niciodat min 
+    facun D
+   o fin protun an
+    nun n
+ 
+    finii
+    nun n
+ 
+    fini
+    facun n
+   un anut n
+   un anoa nun n
+    fun an
+    nun n
+ 
+    fini
+    facun n
+   un anut n
+   un anoa nun n
+    fun an
+    nun n
+ 
+    fini
+    facun n
+   un anut n
+   un anoa
+[CRNN][2018-01-07 13:50:56]  Iter 6500 Predicted text:
+   A fost o data ca niciodat funconte fe fontintri cam patt Luncontri fontril. L-arul pe fe conte fe un fontrinte fare fo si conte fe un fontri La cantril. L-am fe pule Lu celtrifag fare gum fifar funcorul. Lum antri s-a pul fof
+[CRNN][2018-01-07 13:51:00]  Iter 7000 Predicted text:
+   A fost o data ca niciodat nuntan puntapun nuntan san nuntap saun:nt nun nuntun puntapun nuntan san nuntap saun:nt nun nuntun puntapun nuntan san nuntap saun:nt nun nuntun puntapun nuntan san nuntap saun:nt nun nuntun puntapun
+[CRNN][2018-01-07 13:51:04]  Iter 7500 Predicted text:
+   A fost o data ca niciodate in a an hini ca da si si si cand ntani la ca findani ca sn Tehne sa cantini la ca stin sn mint ne na chnhini la ca stin l a sa si sin un Tehni la e an hini la ca findani ca sn Tehne sa cantini la ca
+[CRNN][2018-01-07 13:51:08]  Iter 8000 Predicted text:
+   A fost o data ca niciodatel lel. Par Har a le He da lundi le ra lundi le da lui Hari Sarifa la lul Hare Sarifa la peral la lari Sindameu le pundHare Sari Sle le Sa lu lel. Partia, la lul Hare Sarifa la lul Hare Sarifa la pera
+[CRNN][2018-01-07 13:51:12]  Iter 8500 Predicted text:
+   A fost o data ca niciodata a fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fosta fost
+[CRNN][2018-01-07 13:51:16]  Iter 9000 Predicted text:
+   A fost o data ca niciodatultulorororlilorororlorororoiltilu le llororoili lu si montilu le proile lul ro le lul re llu lu le lorororu ltultile lultrorailorororlorororoili lu si montilu le proile lul ro le lul re llu lu le lor
+[CRNN][2018-01-07 13:51:20]  Iter 9500 Predicted text:
+   A fost o data ca niciodat în în fenexa cu denera co denera cu denera co denera cu denera co denera cu denera co denera cu denera co denera cu denera co denera cu denera co denera cu denera co denera cu denera co denera cu den
+[CRNN][2018-01-07 13:51:24]  Iter 10000 Predicted text:
+   A fost o data ca niciodat peimai pe pandatuasi, pei peimasta daimai peatînderea, pe pînupe si, pe pînula si paiula si paiule si paiule si paiule si paiule si paiule si paiule si paiule si paiule si paiule si paiule si paiule 
+[CRNN][2018-01-07 13:51:28]  Iter 10500 Predicted text:
+   A fost o data ca niciodatu de ge te geat entu. O fatta. O-at tint nucagetat. O lunte. L-ag tint lucututata m-at ti ge m-at e tu ge st ntulat fi gest ne gest ne gest ne gest ne gest ne gest ne gest ne gest ne gest ne gest ne g
+[CRNN][2018-01-07 13:51:32]  Iter 11000 Predicted text:
+   A fost o data ca niciodata Fundrelul deut Funt euta denta. Întreul felt ea de-a Donea. Într.. În deui Funde. Înta. Întreul felt euta Fundatun deta Dote Funde. Între. Întreun felt lat feta. Într.. În deeb euta Fundatul de dati
+[CRNN][2018-01-07 13:51:36]  Iter 11500 Predicted text:
+   A fost o data ca niciodatie s-o sio oi s-o oro s-os sor si s-o s-o dosi s-o sio oi s-o oro s-os sor si s-o s-o dosi s-o sio oi s-o oro s-os sor si s-o s-o dosi s-o sio oi s-o oro s-os sor si s-o s-o dosi s-o sio oi s-o oro s-
+[CRNN][2018-01-07 13:51:40]  Iter 12000 Predicted text:
+   A fost o data ca niciodat si strat sa si strat sa si strat sa si strat sa si strat sa si strat sa si strat sa si strat sa si strat sa si strat sa si strat sa si strat sa si strat sa si strat sa si strat sa si strat sa si stra
+[CRNN][2018-01-07 13:51:44]  Iter 12500 Predicted text:
+   A fost o data ca niciodatîn e cea den înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînde înfrînd
+[CRNN][2018-01-07 13:51:48]  Iter 13000 Predicted text:
+   A fost o data ca niciodati coca Duca Daca Daca luca Duca Daca luca Duca Daca luca Duca Daca luca Duca Daca luca Duca Daca luca Duca Daca luca Duca Daca luca Duca Daca luca Duca Daca luca Duca Daca luca Duca Daca luca Duca Dac
+[CRNN][2018-01-07 13:51:50] Epoch 0 Loss:1.752
+[CRNN][2018-01-07 13:51:50]  Epoch 0 Predicted text:
+A fost o data ca niciodata para a ta fara a fa fara a ta fara a fa fara a ta fara a fa fara a ta fara a fa fara a ta fara a fa fara a ta fara a fa fara a ta fara a fa fara a ta fara a fa fara a ta fara a fa fara a ta fara a f
+[CRNN][2018-01-07 13:51:50] Running epoch 1 with 13255 steps
+[CRNN][2018-01-07 13:51:52]  Iter 13500 Predicted text:
+   A fost o data ca niciodate desta, deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din deve din de
+[CRNN][2018-01-07 13:51:56]  Iter 14000 Predicted text:
+   A fost o data ca niciodata ferea se prainarun mar naunu fara înfrea aren far narui meu  sti pulen oat oa nurasaufi nura au mera funesti înun meu  lerenaufinase ca înte încrunale funce oa nar na fu înte în mar nale fele farosa
+[CRNN][2018-01-07 13:52:00]  Iter 14500 Predicted text:
+   A fost o data ca niciodat sa car PaCi ceru ceCt peum se tar Pri che car Pri che car Pri caCu ce-a ceCu ceCu chin cer caCi saCi per cari sa tusi sa-i por cari sa turul Pa tari sa tari sa curut Pa tarut Pa curut Pa tar PaCun Pe
+[CRNN][2018-01-07 13:52:04]  Iter 15000 Predicted text:
+   A fost o data ca niciodateatatitastatevat încestatevat încestatevea sa ea cate ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca
+[CRNN][2018-01-07 13:52:08]  Iter 15500 Predicted text:
+   A fost o data ca niciodatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoatorortoat
+[CRNN][2018-01-07 13:52:12]  Iter 16000 Predicted text:
+   A fost o data ca niciodate a de si si si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa e
+[CRNN][2018-01-07 13:52:16]  Iter 16500 Predicted text:
+   A fost o data ca niciodat pa de pe ar a dea ea dezun pe de pe dezar obi put pe de pe de dezar obi put pe de pe de dezar obi put pe de pe de dezar obi put pe de pe de dezar obi put pe de pe de dezar obi put pe de pe de dezar o
+[CRNN][2018-01-07 13:52:20]  Iter 17000 Predicted text:
+   A fost o data ca niciodat fopre pu d pun do pun s-o finda m pu fe pu fon do pun s-o finda m pu fe pu fon do pun s-o finda m pu fe pu fon do pun s-o finda m pu fe pu fon do pun s-o finda m pu fe pu fon do pun s-o finda m pu fe
+[CRNN][2018-01-07 13:52:24]  Iter 17500 Predicted text:
+   A fost o data ca niciodatKal nKicina fa para cara fa cara cara fa cara cara fa cara cara fa cara cara fa cara cara fa cara cara fa cara cara fa cara cara fa cara cara fa cara cara fa cara cara fa cara cara fa cara cara fa car
+[CRNN][2018-01-07 13:52:28]  Iter 18000 Predicted text:
+   A fost o data ca niciodaten ne Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke Ke
+[CRNN][2018-01-07 13:52:32]  Iter 18500 Predicted text:
+   A fost o data ca niciodati carar darari, aar, caririzi ciri car carai darai darai darar darure, aiure, îazri derieriat carai daruri, aari car cara, aluri, cariri car, caririzi car, carai darai darar darure, aiure, îazri derie
+[CRNN][2018-01-07 13:52:36]  Iter 19000 Predicted text:
+   A fost o data ca niciodatededede de destede Sededede de destede Sededede de destede Sededede de destede Sededede de destede Sededede de destede Sededede de destede Sededede de destede Sededede de destede Sededede de destede S
+[CRNN][2018-01-07 13:52:40]  Iter 19500 Predicted text:
+   A fost o data ca niciodate prtunte mnstrument primiti mnurimintrimi Întrru pri intrrum ntri primi vntrrum ntri snti mnstrum prntrure mntrum prntrul Întrru pri intrrum ntri primi vntrrum ntri snti mnstrum prntrure mntrum prntr
+[CRNN][2018-01-07 13:52:44]  Iter 20000 Predicted text:
+   A fost o data ca niciodat: Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata Exata 
+[CRNN][2018-01-07 13:52:48]  Iter 20500 Predicted text:
+   A fost o data ca niciodati potiu ontul co potii do lotiuntui co potii do o de o untul co potii do o de o duti potio doti potio doti potio doti potio doti potio doti potio doti potio doti potio doti potio doti potio doti potio
+[CRNN][2018-01-07 13:52:52]  Iter 21000 Predicted text:
+   A fost o data ca niciodati penta denta pentri de a negata penta pentri degat au pe a se a se stie a gagata pentri a gegati penta pentri a gegati penta pentri a gegati penta pentri a gegati penta pentri a gegati penta pentri a
+[CRNN][2018-01-07 13:52:56]  Iter 21500 Predicted text:
+   A fost o data ca niciodat fipuna de dea ca a si deu ar fa mul ar fa fidau depula de dea ca a si deu ar fa mul ar fa fidau depula de dea ca a si deu ar fa mul ar fa fidau depula de dea ca a si deu ar fa mul ar fa fidau depula 
+[CRNN][2018-01-07 13:53:00]  Iter 22000 Predicted text:
+   A fost o data ca niciodati presi sise ni si ni si ni si si ni si ni si si ni si ni si si ni si ni si si ni si ni si si ni si ni si si ni si ni si si ni si ni si si ni si ni si si ni si ni si si ni si ni si si ni si ni si si n
+[CRNN][2018-01-07 13:53:04]  Iter 22500 Predicted text:
+   A fost o data ca niciodata n-a nea cunicia cuci; niciada nea cuni;la ne enundai pun puna; nicuci;n; n-a nea cunicia cuci; niciada nea cuni;la ne enundai pun puna; nicuci;n; n-a nea cunicia cuci; niciada nea cuni;la ne enundai
+[CRNN][2018-01-07 13:53:08]  Iter 23000 Predicted text:
+   A fost o data ca niciodata teata at Tostea coata a asteat a ceata a astarea Toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea toatea to
+[CRNN][2018-01-07 13:53:12]  Iter 23500 Predicted text:
+   A fost o data ca niciodat di prostat di prostat di prostat di prostat di prostat di prostat di prostat di prostat di prostat di prostat di prostat di prostat di prostat di prostat di prostat di prostat di prostat di prostat d
+[CRNN][2018-01-07 13:53:16]  Iter 24000 Predicted text:
+   A fost o data ca niciodat la Acera ulera lee.? Acera ulen? ere ?ue aurese da Aces? Acera lentine emere e emere tarene ea ulerese danene au deetitele dane ea ulerese danene au deetitele dane ea ulerese danene au deetitele dane
+[CRNN][2018-01-07 13:53:20]  Iter 24500 Predicted text:
+   A fost o data ca niciodatia baribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribaribarib
+[CRNN][2018-01-07 13:53:24]  Iter 25000 Predicted text:
+   A fost o data ca niciodate vate ve vari e vate va ta va vari e vate ve vari e vate va ta va vari e vate ve vari e vate va ta va vari e vate ve vari e vate va ta va vari e vate ve vari e vate va ta va vari e vate ve vari e vat
+[CRNN][2018-01-07 13:53:28]  Iter 25500 Predicted text:
+   A fost o data ca niciodatele viil si si Eili pe Eili pe Ebeli îni Gi Eplisi siele si Eili pe Eili pe Eili pe Efisibil Mi si Eili pe Ebelli ii Gi Eblisi ini vi Eili pe Ebellisi si Eili pe Ebellii Ei Ebi puli ge Eblini Mi si Ei
+[CRNN][2018-01-07 13:53:32]  Iter 26000 Predicted text:
+   A fost o data ca niciodat deler del?? Al de mi me de denes del?? Am dene:? Al de di ali ai din di al de di ali ai dele? Al de din si al de di ali ai din di al de di ali ai dele? Al de din si al de di ali ai din di al de di al
+[CRNN][2018-01-07 13:53:36]  Iter 26500 Predicted text:
+   A fost o data ca niciodata dareri a. îmarea....Stara pumeri parere Ca îrapere...Sa îndemare eate...Se nume...Se îndemare eate...Se nume...Se îndemare eate...Se nume...Se îndemare eate...Se nume...Se îndemare eate...Se nume...
+[CRNN][2018-01-07 13:53:36] Epoch 1 Loss:1.780
+[CRNN][2018-01-07 13:53:37]  Epoch 1 Predicted text:
+A fost o data ca niciodata dara înde arara pa îrapa a. arara pa îrapa a. îrapra a. îm ra înda a. arara pa îrapa a. arara pa îrapa a. îrapra a. îm ra înda a. arara pa îrapa a. arara pa îrapa a. îrapra a. îm ra înda a. arara pa
+[CRNN][2018-01-07 13:53:37] Running epoch 2 with 13255 steps
+[CRNN][2018-01-07 13:53:41]  Iter 27000 Predicted text:
+   A fost o data ca niciodati o yti o ci orisi oi orisi o crivi oi or Ba cu si Bchii Baytrii Bcibi o în orii Bchiti o Baytrii Bcivi othii, trivi oi orisi oi orisi o crivi oi or Ba cu si Bchii Baytrii Bcibi o în orii Bchiti o Bay
+[CRNN][2018-01-07 13:53:45]  Iter 27500 Predicted text:
+   A fost o data ca niciodatrea fa proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi proprea fi propre
+[CRNN][2018-01-07 13:53:49]  Iter 28000 Predicted text:
+   A fost o data ca niciodatere le le lerelese le le preatelese le lerelese le le preatelese le lerelese le le preatelese le lerelese le le preatelese le lerelese le le preatelese le lerelese le le preatelese le lerelese le le p
+[CRNN][2018-01-07 13:53:53]  Iter 28500 Predicted text:
+   A fost o data ca niciodate, ce ÎntelÎnte, ceÎÎntete, cîntete, cînte.ÎScete, cîntete, ce cîntele? ceÎÎntete, cîntete, cînte.ÎScete, cîntete, ce cîntele? ceÎÎntete, cîntete, cînte.ÎScete, cîntete, ce cîntele? ceÎÎntete, cîntete
+[CRNN][2018-01-07 13:53:57]  Iter 29000 Predicted text:
+   A fost o data ca niciodate! Si fii fi fii fii Sifite! Sa fii fii Si fii fi fii fiifite! Si fii fi fii fiifite! Si fii fi fii fiifite! Si fii fi fii fiifite! Si fii fi fii fiifite! Si fii fi fii fiifite! Si fii fi fii fiifite!
+[CRNN][2018-01-07 13:54:01]  Iter 29500 Predicted text:
+   A fost o data ca niciodat sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa s
+[CRNN][2018-01-07 13:54:05]  Iter 30000 Predicted text:
+   A fost o data ca niciodata arata doviava arata doviava arata doviava arata doviava arata doviava arata doviava arata doviava arata doviava arata doviava arata doviava arata doviava arata doviava arata doviava arata doviava ar
+[CRNN][2018-01-07 13:54:09]  Iter 30500 Predicted text:
+   A fost o data ca niciodat s-oroste fi si si prefer s-orosto fresto frestre prea si si prefer s-orosto fresto frestre prea si si prefer s-orosto fresto frestre prea si si prefer s-orosto fresto frestre prea si si prefer s-oros
+[CRNN][2018-01-07 13:54:13]  Iter 31000 Predicted text:
+   A fost o data ca niciodatia cal derere pre nul da me ra ne ca na mea derun în ar Fe în areri dera mea derun în ar sa Ful în pre dere pre nul da me ra ne pre nul d-a dea nea mea mea ne pre nul da me ra ne ca na mea derun în ar
+[CRNN][2018-01-07 13:54:17]  Iter 31500 Predicted text:
+   A fost o data ca niciodate? De cu ce ce ce ce zumbul ce ce ce ce zumbe? Nu ce ce cu ce cu ce ce ce zu zreze cu ce ce zu cu ce ce ce zu ce cu ce ce ce zuizre? Nu ce ce ze zu ce ze zreze cu ce ce zu creze ce cu ce zume? ce ce z
+[CRNN][2018-01-07 13:54:21]  Iter 32000 Predicted text:
+   A fost o data ca niciodat Prica Prita. A Asi chet sa nhi crei Prei si print A Apa trepina PPintrea trecina Prii prei si Print A Apa trea Pr print Da prita Preci Prei sP Prita Prica Pri chei Prei si Prita. AA coi trei sa print
+[CRNN][2018-01-07 13:54:25]  Iter 32500 Predicted text:
+   A fost o data ca niciodatu fina- faca m-a facat fi fina- faca m-a facat fica- fina m-a f-at fica- faca m-a facat fica- fina m-a f-at fica- faca m-a facat fica- fina m-a f-at fica- faca m-a facat fica- fina m-a f-at fica- faca
+[CRNN][2018-01-07 13:54:29]  Iter 33000 Predicted text:
+   A fost o data ca niciodat fe fe fe fe se fe fe fe fe fe fe fe se fe fe se fe fe fe fe se fe fe se fe fe fe fe se fe fe se fe fe fe fe se fe fe se fe fe fe fe se fe fe se fe fe fe fe se fe fe se fe fe fe fe se fe fe se fe fe f
+[CRNN][2018-01-07 13:54:33]  Iter 33500 Predicted text:
+   A fost o data ca niciodata asauntuntunta sun una asa a aste nun putpra punsa sun san punta su sun putpra sa sun putpra punsa sun san punta su sun putpra sa sun putpra punsa sun san punta su sun putpra sa sun putpra punsa sun 
+[CRNN][2018-01-07 13:54:37]  Iter 34000 Predicted text:
+   A fost o data ca niciodatentrenul ame freminea starenda enarenda enarin razunea sa camene enda enarenda enarin rai ni unea enia enia sa sa enea starenda enarenda enarin razunea sa camene enda enarenda enarin rai ni unea enia 
+[CRNN][2018-01-07 13:54:41]  Iter 34500 Predicted text:
+   A fost o data ca niciodat la Harinti Sari Hari Hari Hari Salea Hari Hari Hari Hari Hari Ha Hari Ha Hari Hari Hari Hari Hari Sari Hari Hari Ha Hari Harinta Hari Hari Sara Hari Hari Hari Hari Hari Sari Hari Hari Ha Hari Harinta
+[CRNN][2018-01-07 13:54:45]  Iter 35000 Predicted text:
+   A fost o data ca niciodat a forea le cina na ara Esa a foste a fora a se cu care a singare Sastara la ara Es, ara si a fora la ara aratasial a forea la sina nta. a are at fostara a fora a sa ca curtar a se mastara la ar? Es, 
+[CRNN][2018-01-07 13:54:49]  Iter 35500 Predicted text:
+   A fost o data ca niciodat le etalutalatatatalate proe le protola pe protata pe elalate pu prolotale le protula le protat întele pe prolotale le protula le protat întele pe prolotale le protula le protat întele pe prolotale le
+[CRNN][2018-01-07 13:54:53]  Iter 36000 Predicted text:
+   A fost o data ca niciodat lenera ne mena ci eini în încine Ce eine Ce eindini ne au întreneri gnineli Ce eini Cegat în încini nere nîneral încine Ceneine ne gînei ce eindini ne a nei line ne-a îneren încini nera leneri Cinei 
+[CRNN][2018-01-07 13:54:57]  Iter 36500 Predicted text:
+   A fost o data ca niciodat untrobadu sost sse sînt de sînd setra sînt se sînd se sîst se sînd se sîst se sînd se sîst se sînd se sîst se sînd se sîst se sînd se sîst se sînd se sîst se sînd se sîst se sînd se sîst se sînd se s
+[CRNN][2018-01-07 13:55:01]  Iter 37000 Predicted text:
+   A fost o data ca niciodatutututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututut
+[CRNN][2018-01-07 13:55:05]  Iter 37500 Predicted text:
+   A fost o data ca niciodata Funtrebate dei de foita delu detatul. De am fa fatat Fa fota Funtrebata Fue deta Funtrebatelul Frebata Fue de fa deta Funtrebate dei de faytea Feebatul Funtrebate dei de faytal. De areva doi reba Fu
+[CRNN][2018-01-07 13:55:09]  Iter 38000 Predicted text:
+   A fost o data ca niciodate s-o s-e s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-o s-
+[CRNN][2018-01-07 13:55:13]  Iter 38500 Predicted text:
+   A fost o data ca niciodat. Sa si a oa Tora Sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa
+[CRNN][2018-01-07 13:55:17]  Iter 39000 Predicted text:
+   A fost o data ca niciodatie. Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+    Si
+ 
+[CRNN][2018-01-07 13:55:21]  Iter 39500 Predicted text:
+   A fost o data ca niciodatarie. Daca calul rarara cal orerarararararie cal rarire cal orerarararararie cal rarire cal orerarararararie cal rarire cal orerarararararie cal rarire cal orerarararararie cal rarire cal orerarararar
+[CRNN][2018-01-07 13:55:23] Epoch 2 Loss:1.817
+[CRNN][2018-01-07 13:55:23]  Epoch 2 Predicted text:
+A fost o data ca niciodata a ara a prara ara a fara a ara a prara ara a fara a ara a prara ara a fara a ara a prara ara a fara a ara a prara ara a fara a ara a prara ara a fara a ara a prara ara a fara a ara a prara ara a far
+[CRNN][2018-01-07 13:55:23] Running epoch 3 with 13255 steps
+[CRNN][2018-01-07 13:55:26]  Iter 40000 Predicted text:
+   A fost o data ca niciodati dinbinta nasta din dindini dinbinta nasi dindasi dinbini dinbini dinbtin din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din d
+[CRNN][2018-01-07 13:55:30]  Iter 40500 Predicted text:
+   A fost o data ca niciodata ea nea teuneri cu futanti nul le fopota ne Put lunce se întrunteu te cutina Prunta nutilenta nea mea nune erunta lunti cutea mea te ne meati fe fut leunti putea le Pe întru aresta nuce er se cu nu n
+[CRNN][2018-01-07 13:55:34]  Iter 41000 Predicted text:
+   A fost o data ca niciodat Cari satitaritititititui Catia Cari a Cari peCuntartitiu peru peri peatiCatitititititiutitari peat Cari peCuntartitiu peru peri peatiCatitititititiutitari peat Cari peCuntartitiu peru peri peatiCatit
+[CRNN][2018-01-07 13:55:38]  Iter 41500 Predicted text:
+   A fost o data ca niciodaterestrat s-atere si erat si înzerestrat s-am si întererestrat s-ate ere si înterestrat s-am si înterestrat s-am si înterestrat s-am si înterestrat s-am si înterestrat s-am si înterestrat s-am si înter
+[CRNN][2018-01-07 13:55:42]  Iter 42000 Predicted text:
+   A fost o data ca niciodat cotintit si stit si cut si cut si stit cut si stiti ni put si si si cutintit si stiti tita cotintit si stit si si si putintit Astit st sa cutint si cutint si cutint si cutint si cutint si cutint si c
+[CRNN][2018-01-07 13:55:46]  Iter 42500 Predicted text:
+   A fost o data ca niciodata sa ea si si si si si si si ai ai si ai ea sa si ea ea si ai ea sa si ea ea sa ai ai si ai ea ea si ai ea sa si ea ea sa ai ai si ai ea ea si ai ea sa si ea ea sa ai ai si ai ea ea si ai ea sa si ea 
+[CRNN][2018-01-07 13:55:50]  Iter 43000 Predicted text:
+   A fost o data ca niciodat pam pe de dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe dea pe 
+[CRNN][2018-01-07 13:55:54]  Iter 43500 Predicted text:
+   A fost o data ca niciodat s-o fost s-o fi duc fi pu des pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut pu dut p
+[CRNN][2018-01-07 13:55:58]  Iter 44000 Predicted text:
+   A fost o data ca niciodat sa prinda sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa Ka Kala sa
+[CRNN][2018-01-07 13:56:02]  Iter 44500 Predicted text:
+   A fost o data ca niciodatente pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe le pe 
+[CRNN][2018-01-07 13:56:06]  Iter 45000 Predicted text:
+   A fost o data ca niciodat, car, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur, cîni,i, cur
+[CRNN][2018-01-07 13:56:10]  Iter 45500 Predicted text:
+   A fost o data ca niciodat Sai da dez re dat. Si da doa de. S-az ar a derer denas a dea sa în a Soa de. S-a Se de dea sa îndi prei na dei di dezite dat a dandi pone. Sozare în s-a de da de dezite dazar den rezar de da dez re d
+[CRNN][2018-01-07 13:56:14]  Iter 46000 Predicted text:
+   A fost o data ca niciodatirun rim ne si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si
+[CRNN][2018-01-07 13:56:18]  Iter 46500 Predicted text:
+   A fost o data ca niciodat pratar properari îndari Magni pararta ina ar prea înar dagri îndari îndari îndererari îndare pa pragri îndari îndarita ragar pulara întare îndarita ra abagri îndari îndarita ra înta îndare i agarare 
+[CRNN][2018-01-07 13:56:22]  Iter 47000 Predicted text:
+   A fost o data ca niciodatu de copco cot opote copcopi de cot opoti cu cotcopotcope de cotcopit de cotcope de cotcopit de corcope de corcopi de cot opoti cu cotcopotcope de cotcopit de cotcope de cotcopit de corcope de corcopi
+[CRNN][2018-01-07 13:56:26]  Iter 47500 Predicted text:
+   A fost o data ca niciodat am deje deje am de de am deje am de de am deje am de de am deje am de de am deje am de de am deje am de de am deje am de de am deje am de de am deje am de de am deje am de de am deje am de de am deje
+[CRNN][2018-01-07 13:56:30]  Iter 48000 Predicted text:
+   A fost o data ca niciodat am îndunt ca pul pont îndun pulu pundunua dundunu da fulua dunda m prnum prnuna am dontul pundunu ma ma pum împui pun prepu ca ful pundunua du prnun fopundua pundunum îm depundua am fopundua de pun p
+[CRNN][2018-01-07 13:56:34]  Iter 48500 Predicted text:
+   A fost o data ca niciodata revoitili precitiintiviri purel preculli prei pure pu pre precu cu precorei prescimiini pureitivitil precu preci lu precoprevorelui. Nu precu pre purcivoimincivili puimiscoprevorelui. Nu precorelui.
+[CRNN][2018-01-07 13:56:38]  Iter 49000 Predicted text:
+   A fost o data ca niciodata ni na na ni na punala; puna nunia puniai la la nini na nana noniai pu punala; puna nunia puniai la la nini na nana noniai pu punala; puna nunia puniai la la nini na nana noniai pu punala; puna nunia
+[CRNN][2018-01-07 13:56:42]  Iter 49500 Predicted text:
+   A fost o data ca niciodata nTonte Tonteat, atene nentuntenere nantunte. Torentunte. Torentunte. Torentunte. Torentunte. Torentunte. Torentunte. Torentunte. Torentunte. Torentunte. Torentunte. Torentunte. Torentunte. Torentunt
+[CRNN][2018-01-07 13:56:46]  Iter 50000 Predicted text:
+   A fost o data ca niciodat mele trostrimpriteri prostrempriteri prostrestrimpriteri prostrempriteri prostrestrimpriteri prostrempriteri prostrestrimpriteri prostrempriteri prostrestrimpriteri prostrempriteri prostrestrimpriter
+[CRNN][2018-01-07 13:56:50]  Iter 50500 Predicted text:
+   A fost o data ca niciodat si astre
+    me
+    fi
+    nun me
+    le
+    me
+    fi aceri a de
+    le
+    si e
+    fi
+    nul fi dee
+    me
+    de
+    si a dest nu ece nte e
+    fin? lunu le
+    me
+    mest nu eci da mele li m-a de
+    le
+    se ent dulece de
+   .?? Ace dusta 
+    finule
+[CRNN][2018-01-07 13:56:54]  Iter 51000 Predicted text:
+   A fost o data ca niciodate sa un gori gasu sa un golusu sa un gol sa un goresu sa un golesu sa un gol sasu gasu sa un golusu sa un gol sa un goresu sa un golesu sa un gol sasu gasu sa un golusu sa un gol sa un goresu sa un go
+[CRNN][2018-01-07 13:56:58]  Iter 51500 Predicted text:
+   A fost o data ca niciodatiti ti va dea de vei ti a de v,i vei variti te  voi de terii voi va dea ta tie te variti te biti t li va dea ta tie tri
+    deari vri  vorii te va dea ta tie tri
+    deari vri  vorii te va dea ta tie tri
+    d
+[CRNN][2018-01-07 13:57:02]  Iter 52000 Predicted text:
+   A fost o data ca niciodate si si si sil Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal Mal M
+[CRNN][2018-01-07 13:57:06]  Iter 52500 Predicted text:
+   A fost o data ca niciodatere:? Ar re:? Ar re si si al si si si si al ri si si al si si si si al ri si si al si si si si al ri si si al si si si si al ri si si al si si si si al ri si si al si si si si al ri si si al si si si 
+[CRNN][2018-01-07 13:57:10]  Iter 53000 Predicted text:
+   A fost o data ca niciodatererererererere earea.... ea... oa nererere eatie. întie...Se erea.... ea... oa derie.... ea de ie.... eatere earea.... ea... oa nererere eatie. întie...Se erea.... ea... oa derie.... ea de ie.... eat
+[CRNN][2018-01-07 13:57:10] Epoch 3 Loss:1.889
+[CRNN][2018-01-07 13:57:11]  Epoch 3 Predicted text:
+A fost o data ca niciodata a pa pa da pa da a da part a pa da a da part a pa da a da part a pa da a da part a pa da a da part a pa da a da part a pa da a da part a pa da a da part a pa da a da part a pa da a da part a pa da a
+[CRNN][2018-01-07 13:57:11] Running epoch 4 with 13255 steps
+[CRNN][2018-01-07 13:57:15]  Iter 53500 Predicted text:
+   A fost o data ca niciodati ci privi Bayti privi privi ci privi Bayti privi privi ci privi Bayti privi privi ci privi Bayti privi privi ci privi Bayti privi privi ci privi Bayti privi privi ci privi Bayti privi privi ci privi 
+[CRNN][2018-01-07 13:57:18]  Iter 54000 Predicted text:
+   A fost o data ca niciodat or deporda porpropria fora dapa fapa porpila fopria poppipopda porprapa de prapi porpila forprapa de prapi porpila forprapa de prapi porpila forprapa de prapi porpila forprapa de prapi porpila forpra
+[CRNN][2018-01-07 13:57:22]  Iter 54500 Predicted text:
+   A fost o data ca niciodat lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul lul
+[CRNN][2018-01-07 13:57:26]  Iter 55000 Predicted text:
+   A fost o data ca niciodatencetegeteteletetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetetete
+[CRNN][2018-01-07 13:57:31]  Iter 55500 Predicted text:
+   A fost o data ca niciodati!!!S! S-agiri!!!!!)?
+   SVepurari Si fici Si fici!z!!!!!S!!)Lbharari si fici!!!!!!!PâVegni îsi mi fici Si fici!!!!!!!PRVbLi-arisite!!!S!!!jS, înde s! fici Si ficiti mi fici Si ficiti mi fici Si ficiti m
+[CRNN][2018-01-07 13:57:35]  Iter 56000 Predicted text:
+   A fost o data ca niciodatay si aytay patay sau sau patayta si sausiu patay si asta si satayta si satayta si satayta si satayta si satayta si satayta si satayta si satayta si satayta si satayta si satayta si satayta si satayta
+[CRNN][2018-01-07 13:57:39]  Iter 56500 Predicted text:
+   A fost o data ca niciodat A ania a a at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a ui at a
+[CRNN][2018-01-07 13:57:43]  Iter 57000 Predicted text:
+   A fost o data ca niciodatrea si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si s
+[CRNN][2018-01-07 13:57:47]  Iter 57500 Predicted text:
+   A fost o data ca niciodat în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în î
+[CRNN][2018-01-07 13:57:51]  Iter 58000 Predicted text:
+   A fost o data ca niciodat:? De ce ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu ce De? Nu c
+[CRNN][2018-01-07 13:57:55]  Iter 58500 Predicted text:
+   A fost o data ca niciodat si cri As ari ci trea si cri As ari ci trea si cri As ari ci trea si cri As ari ci trea si cri As ari ci trea si cri As ari ci trea si cri As ari ci trea si cri As ari ci trea si cri As ari ci trea s
+[CRNN][2018-01-07 13:57:59]  Iter 59000 Predicted text:
+   A fost o data ca niciodat mara frerexndare ni-a n-a m-a farexdat oral minia mi-a n-a aram ficar fisa n-a m-a farexdat oral minia mi-a n-a aram ficar fisa n-a m-a farexdat oral minia mi-a n-a aram ficar fisa n-a m-a farexdat o
+[CRNN][2018-01-07 13:58:03]  Iter 59500 Predicted text:
+   A fost o data ca niciodat lefentre de fente de de fontrebe de fontre de fente de de fontrebe de fontre de fente de de fontrebe de fontre de fente de de fontrebe de fontre de fente de de fontrebe de fontre de fente de de fontr
+[CRNN][2018-01-07 13:58:07]  Iter 60000 Predicted text:
+   A fost o data ca niciodat a Cansa sa s-a sau sa antia. Cunsa Funsa a sa sa sa s-a sau sa antia. Cunsa Funsa a sa sa sa s-a sau sa antia. Cunsa Funsa a sa sa sa s-a sau sa antia. Cunsa Funsa a sa sa sa s-a sau sa antia. Cunsa 
+[CRNN][2018-01-07 13:58:11]  Iter 60500 Predicted text:
+   A fost o data ca niciodate e le sa e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e lea e le
+[CRNN][2018-01-07 13:58:15]  Iter 61000 Predicted text:
+   A fost o data ca niciodat fatinu puntreciri fara Huntrecirinu ma Hara fara cuntre luntre la Hari cundate ma Hara fara cuntre la Hari cundate ma Hara fara cuntre la Hari cundate ma Hara fara cuntre la Hari cundate ma Hara fara
+[CRNN][2018-01-07 13:58:19]  Iter 61500 Predicted text:
+   A fost o data ca niciodata ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai Ei, ai
+[CRNN][2018-01-07 13:58:23]  Iter 62000 Predicted text:
+   A fost o data ca niciodat pe ele ele îtele le le se le mele ele ele pest pe se le melepe se le mele se le mele se le mele se le mele se le mele se le mele se le mele se le mele se le mele se le mele se le mele se le mele se l
+[CRNN][2018-01-07 13:58:27]  Iter 62500 Predicted text:
+   A fost o data ca niciodat ie er pei ierei ien cinerii penerii menerii cun pener legei ie cu einerii ie cu einerii ie cu einerii ie cu einerii ie cu einerii ie cu einerii ie cu einerii ie cu einerii ie cu einerii ie cu einerii
+[CRNN][2018-01-07 13:58:31]  Iter 63000 Predicted text:
+   A fost o data ca niciodatu usu de sî sî în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în în
+[CRNN][2018-01-07 13:58:35]  Iter 63500 Predicted text:
+   A fost o data ca niciodat su grist scat su grist scast sca gest su su grist scat su grist scast sca gest su su grist scat su grist scast sca gest su su grist scat su grist scast sca gest su su grist scat su grist scast sca ge
+[CRNN][2018-01-07 13:58:39]  Iter 64000 Predicted text:
+   A fost o data ca niciodat cat Daul foa dea de-a Doca a Doa de-a Doca a Doa de-a Doca a Doa de-a Doca a Doa de-a Doca a Doa de-a Doca a Doa de-a Doca a Doa de-a Doca a Doa de-a Doca a Doa de-a Doca a Doa de-a Doca a Doa de-a D
+[CRNN][2018-01-07 13:58:43]  Iter 64500 Predicted text:
+   A fost o data ca niciodati se sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa 
+[CRNN][2018-01-07 13:58:47]  Iter 65000 Predicted text:
+   A fost o data ca niciodata ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta 
+[CRNN][2018-01-07 13:58:51]  Iter 65500 Predicted text:
+   A fost o data ca niciodati
+
+    Gori
+
+    din Gai ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    toi ti
+    t
+[CRNN][2018-01-07 13:58:55]  Iter 66000 Predicted text:
+   A fost o data ca niciodatie ca ma o coprepreca sica puca oica ma machea oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa oa 
+[CRNN][2018-01-07 13:58:57] Epoch 4 Loss:1.869
+[CRNN][2018-01-07 13:58:58]  Epoch 4 Predicted text:
+A fost o data ca niciodatiraria praria ar pa araria ar pa araria ar pa araria ar pa araria ar pa araria ar pa araria ar pa araria ar pa araria ar pa araria ar pa araria ar pa araria ar pa araria ar pa araria ar pa araria ar p
+[CRNN][2018-01-07 13:58:58] Running epoch 5 with 13255 steps
+[CRNN][2018-01-07 13:59:00]  Iter 66500 Predicted text:
+   A fost o data ca niciodati ninscu nus o ninti ninscu nus o ninti ninscu nus o ninti ninscu nus o ninti ninscu nus o ninti ninscu nus o ninti ninscu nus o ninti ninscu nus o ninti ninscu nus o ninti ninscu nus o ninti ninscu n
+[CRNN][2018-01-07 13:59:04]  Iter 67000 Predicted text:
+   A fost o data ca niciodatea treu unuste este eu preu erele treluti eu înte este eu aste eu preu erele treluti eu înte este eu aste eu preu erele treluti eu înte este eu aste eu preu erele treluti eu înte este eu aste eu preu 
+[CRNN][2018-01-07 13:59:08]  Iter 67500 Predicted text:
+   A fost o data ca niciodat Capricapricapirata pepritati Ceratat Capricapricapirata pepritati Ceratat Capricapricapirata pepritati Ceratat Capricapricapirata pepritati Ceratat Capricapricapirata pepritati Ceratat Capricapricapi
+[CRNN][2018-01-07 13:59:12]  Iter 68000 Predicted text:
+   A fost o data ca niciodatere si sa erat se înte întestrat se sa erarezeste sa erat se înte întestrat se sa erarezeste sa erat se înte întestrat se sa erarezeste sa erat se înte întestrat se sa erarezeste sa erat se înte întes
+[CRNN][2018-01-07 13:59:16]  Iter 68500 Predicted text:
+   A fost o data ca niciodatintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintintin
+[CRNN][2018-01-07 13:59:20]  Iter 69000 Predicted text:
+   A fost o data ca niciodat Lo se pe se pe se prepele. Le am pa se pe se prepele. Le am pa se pe se prepele. Le am pa se pe se prepele. Le am pa se pe se prepele. Le am pa se pe se prepele. Le am pa se pe se prepele. Le am pa s
+[CRNN][2018-01-07 13:59:23]  Iter 69500 Predicted text:
+   A fost o data ca niciodat am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am am a
+[CRNN][2018-01-07 13:59:27]  Iter 70000 Predicted text:
+   A fost o data ca niciodatotututa forute forutotututate forute foruteruti s fort sa forute foruteruti s fort sa forute foruteruti s fort sa forute foruteruti s fort sa forute foruteruti s fort sa forute foruteruti s fort sa fo
+[CRNN][2018-01-07 13:59:31]  Iter 70500 Predicted text:
+   A fost o data ca niciodatii sa asi fasa sa da da sa da da sa as asi sa asi fasa sa da da sa da da sa as asi sa asi fasa sa da da sa da da sa as asi sa asi fasa sa da da sa da da sa as asi sa asi fasa sa da da sa da da sa as a
+[CRNN][2018-01-07 13:59:36]  Iter 71000 Predicted text:
+   A fost o data ca niciodatan po pontontontontolontontontontontolontontontontontolontontontontontolontontontontontolontontontontontolontontontontontolontontontontontolontontontontontolontontontontontolontontontontontolontontont
+[CRNN][2018-01-07 13:59:40]  Iter 71500 Predicted text:
+   A fost o data ca niciodat, dai îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi îndi
+[CRNN][2018-01-07 13:59:44]  Iter 72000 Predicted text:
+   A fost o data ca niciodat pozat pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre no pre 
+[CRNN][2018-01-07 13:59:48]  Iter 72500 Predicted text:
+   A fost o data ca niciodat fntrut sn minununti un minun fintre un instununti un instununti un instununti un instununti un instununti un instununti un instununti un instununti un instununti un instununti un instununti un instun
+[CRNN][2018-01-07 13:59:52]  Iter 73000 Predicted text:
+   A fost o data ca niciodatra înderarar înderererara înderarerarar înderererara înderarerarar înderererara înderarerarar înderererara înderarerarar înderererara înderarerarar înderererara înderarerarar înderererara înderarerara
+[CRNN][2018-01-07 13:59:56]  Iter 73500 Predicted text:
+   A fost o data ca niciodate de co de co demice cu de cu onte cu onte co demi de de cu onte cu onte co demi de de cu onte cu onte co demi de de cu onte cu onte co demi de de cu onte cu onte co demi de de cu onte cu onte co demi
+[CRNN][2018-01-07 14:00:00]  Iter 74000 Predicted text:
+   A fost o data ca niciodate dejemese dejese Cestie dejeje dejemese dejese Ce dejemesi dejemese demese demese demese demese demese demese demese demese demese demese demese demese demese demese demese demese demese demese demes
+[CRNN][2018-01-07 14:00:04]  Iter 74500 Predicted text:
+   A fost o data ca niciodatutututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututututut
+[CRNN][2018-01-07 14:00:09]  Iter 75000 Predicted text:
+   A fost o data ca niciodatii ei Nui Nu emei. Nui. Nu poiei ie culi meie Nulei ilo pe oi loi pui Mi pui imi pe o erei ie miei ie coie culeie co emei. Nu. Nu emoieie cui Nu l-oi culi meiei ii ei Nui lui Ni mici ilie Nulei. Nu po
+[CRNN][2018-01-07 14:00:13]  Iter 75500 Predicted text:
+   A fost o data ca niciodat n-ai pa a a ai ponta a-a po ma a ai ponta a-a po ma a ai ponta a-a po ma a ai ponta a-a po ma a ai ponta a-a po ma a ai ponta a-a po ma a ai ponta a-a po ma a ai ponta a-a po ma a ai ponta a-a po ma 
+[CRNN][2018-01-07 14:00:17]  Iter 76000 Predicted text:
+   A fost o data ca niciodat nu treneit nu trem prestit nura antru prazulti prit ne trit nu trentit nu trem prit nu trem presti pentru tintrit ne trit nu trem prestit nera tintrit ne trit nu trem prestit nera tintrit ne trit nu 
+[CRNN][2018-01-07 14:00:21]  Iter 76500 Predicted text:
+   A fost o data ca niciodatile emotemeri Prot mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele mele m
+[CRNN][2018-01-07 14:00:25]  Iter 77000 Predicted text:
+   A fost o data ca niciodat. Acit. Acit. Acestindendentie
+    mindendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendendenden
+[CRNN][2018-01-07 14:00:29]  Iter 77500 Predicted text:
+   A fost o data ca niciodatul sa s sa s sa sa su axul sa s sa sa su axul sa s sa sa su axul sa s sa sa su axul sa s sa sa su axul sa s sa sa su axul sa s sa sa su axul sa s sa sa su axul sa s sa sa su axul sa s sa sa su axul sa
+[CRNN][2018-01-07 14:00:33]  Iter 78000 Predicted text:
+   A fost o data ca niciodata de da ca în varea da în rari co de în de în da de în de în da de în de în da de în de în da de în de în da de în de în da de în de în da de în de în da de în de în da de în de în da de în de în da d
+[CRNN][2018-01-07 14:00:37]  Iter 78500 Predicted text:
+   A fost o data ca niciodat vo Ma na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na n
+[CRNN][2018-01-07 14:00:41]  Iter 79000 Predicted text:
+   A fost o data ca niciodatre si si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa ea si sa
+[CRNN][2018-01-07 14:00:45]  Iter 79500 Predicted text:
+   A fost o data ca niciodatintiteriti nu nuriti nu putiveritititeriti nu nuriti nu putiveritititeriti nu nuriti nu putiveritititeriti nu nuriti nu putiveritititeriti nu nuriti nu putiveritititeriti nu nuriti nu putiveritititeri
+[CRNN][2018-01-07 14:00:45] Epoch 5 Loss:1.567
+[CRNN][2018-01-07 14:00:46]  Epoch 5 Predicted text:
+A fost o data ca niciodata a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a da a d
+[CRNN][2018-01-07 14:00:46] Running epoch 6 with 13255 steps
+[CRNN][2018-01-07 14:00:50]  Iter 80000 Predicted text:
+   A fost o data ca niciodati pli S o pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pri pr
+[CRNN][2018-01-07 14:00:54]  Iter 80500 Predicted text:
+   A fost o data ca niciodata de potita de pote de potita fipla mapla mapoti pla ma po pe pote de potita fipla mapla mapoti pla ma po pe pote de potita fipla mapla mapoti pla ma po pe pote de potita fipla mapla mapoti pla ma po 
+[CRNN][2018-01-07 14:00:58]  Iter 81000 Predicted text:
+   A fost o data ca niciodatultamulumulutultamulumulutultamulumulutultamulumulutultamulumulutultamulumulutultamulumulutultamulumulutultamulumulutultamulumulutultamulumulutultamulumulutultamulumulutultamulumulutultamulumulutultam
+[CRNN][2018-01-07 14:01:02]  Iter 81500 Predicted text:
+   A fost o data ca niciodate fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa face fa fac
+[CRNN][2018-01-07 14:01:06]  Iter 82000 Predicted text:
+   A fost o data ca niciodatezitrut si fitezatututututeziizi înti întiuzimozitezisi farutate. Ri si faru si fitezatutututute. Ri fitezisi fate. Ri si fate. Ri si fate. Ri si fate. Ri si fate. Ri si fate. Ri si fate. Ri si fate. 
+[CRNN][2018-01-07 14:01:10]  Iter 82500 Predicted text:
+   A fost o data ca niciodata sa se si si si si si si se si si si si se si si si si se si si si si se si si si si se si si si si se si si si si se si si si si se si si si si se si si si si se si si si si se si si si si se si si 
+[CRNN][2018-01-07 14:01:14]  Iter 83000 Predicted text:
+   A fost o data ca niciodatati de Fandi a dii, am ati a dii, am ati a dii, am ati a dii, am ati a dii, am ati a dii, am ati a dii, am ati a dii, am ati a dii, am ati a dii, am ati a dii, am ati a dii, am ati a dii, am ati a dii
+[CRNN][2018-01-07 14:01:18]  Iter 83500 Predicted text:
+   A fost o data ca niciodate a sa este a sa ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea ea 
+[CRNN][2018-01-07 14:01:22]  Iter 84000 Predicted text:
+   A fost o data ca niciodat s- nu mu dur cur nu mu nu mu dur cur nu mu nu mu dur cur nu mu nu mu dur cur nu mu nu mu dur cur nu mu nu mu dur cur nu mu nu mu dur cur nu mu nu mu dur cur nu mu nu mu dur cur nu mu nu mu dur cur nu
+[CRNN][2018-01-07 14:01:26]  Iter 84500 Predicted text:
+   A fost o data ca niciodat e de de de de de me de mebbe de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de
+[CRNN][2018-01-07 14:01:30]  Iter 85000 Predicted text:
+   A fost o data ca niciodati sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa 
+[CRNN][2018-01-07 14:01:34]  Iter 85500 Predicted text:
+   A fost o data ca niciodatratral arindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrindrind
+[CRNN][2018-01-07 14:01:38]  Iter 86000 Predicted text:
+   A fost o data ca niciodate fafere fifie fifiterere fifie fifiterere fifie fifiterere fifie fifiterere fifie fifiterere fifie fifiterere fifie fifiterere fifie fifiterere fifie fifiterere fifie fifiterere fifie fifiterere fifi
+[CRNN][2018-01-07 14:01:42]  Iter 86500 Predicted text:
+   A fost o data ca niciodata sa a dea asa a as asa a a asa a as area a a a sa sa sa a asa a as area asa a as asa a a asa a as area a a a sa sa sa a asa a as area asa a as asa a a asa a as area a a a sa sa sa a asa a as area asa
+[CRNN][2018-01-07 14:01:46]  Iter 87000 Predicted text:
+   A fost o data ca niciodatereinta deziindest un rezeaia fendereril fendarei rezulii indenerei rezeleleriu unii unii unii unii unii unii unii unii unii unii unii unii unii unii unii unii unii unii unii unii unii unii unii unii 
+[CRNN][2018-01-07 14:01:50]  Iter 87500 Predicted text:
+   A fost o data ca niciodatut fat frutu peti fifi fut frutut frut frutut frutut fat tut frutu peru ce fiti cu pe ce pe peritu cufnitu fifi fut frunt frutut frutut frutut frutut fat frun Cut frutut um pe cu munce futut fufarut f
+[CRNN][2018-01-07 14:01:54]  Iter 88000 Predicted text:
+   A fost o data ca niciodati cula cu ar Si curai sa si durasa si dersi si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si 
+[CRNN][2018-01-07 14:01:58]  Iter 88500 Predicted text:
+   A fost o data ca niciodatele el se mine misi emele el se mese mesi, desi em se me si pese mele emetitil se mele emeti prese mele emetii se se si pesi mele emesi mele emesi, emele emesi mele emesi mele emesi, emele emesi mele 
+[CRNN][2018-01-07 14:02:02]  Iter 89000 Predicted text:
+   A fost o data ca niciodatiu lega cunul culgrau gerala cu generega cu genega cunul cula cu genega cunul cula cu genega cunul cula cu genega cunul cula cu genega cunul cula cu genega cunul cula cu genega cunul cula cu genega cu
+[CRNN][2018-01-07 14:02:06]  Iter 89500 Predicted text:
+   A fost o data ca niciodatunt înd su în fre se înd îndas întru su în însu întungre în Tone înd su în fre se înd su în îns Nu în îns Nu în însu însu însu însu însu însu însu însu însu însu însu însu însu însu însu însu însu îns
+[CRNN][2018-01-07 14:02:10]  Iter 90000 Predicted text:
+   A fost o data ca niciodat scust m-au su su su su su-a min si su su su su su su-a min si su su su su su su-a min si su su su su su su-a min si su su su su su su-a min si su su su su su su-a min si su su su su su su-a min si su
+[CRNN][2018-01-07 14:02:14]  Iter 90500 Predicted text:
+   A fost o data ca niciodate arele are acest acele area ca ca ta ta ta ta ta ta ta Vatute acele area ca Va are acela arile ale ca ca ta ta ta ta ta ta ucest fa alea Va ari ca acest acele ca ta ta ta ta ta ta ta Vatute acele are
+[CRNN][2018-01-07 14:02:18]  Iter 91000 Predicted text:
+   A fost o data ca niciodatie ga înfangrega înfrega înfingrega înfrega însa însta însa înfa grega înfingrega înfrega însa însta însa înfa grega înfingrega înfrega însa însta însa înfa grega înfingrega înfrega însa însta însa în
+[CRNN][2018-01-07 14:02:22]  Iter 91500 Predicted text:
+   A fost o data ca niciodatrhîn fo înfat ta în forat.)  înfat în )m în forat în forat.)  în înfa fi într ta în înfat ta în forat.) mar ni în forat.)  în în înfat ta în forat.) mar ni în forat.)  în în înfat ta în forat.) mar ni
+[CRNN][2018-01-07 14:02:26]  Iter 92000 Predicted text:
+   A fost o data ca niciodati Gaxixiexi mixi mun Gai Ga Gaxixiexi Gaxie moi puntini Gaxie moi pul Ga Gaxixiexi Gaxie moi puntini Gaxie moi pul Ga Gaxixiexi Gaxie moi puntini Gaxie moi pul Ga Gaxixiexi Gaxie moi puntini Gaxie moi
+[CRNN][2018-01-07 14:02:30]  Iter 92500 Predicted text:
+   A fost o data ca niciodati pre si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a si a
+[CRNN][2018-01-07 14:02:32] Epoch 6 Loss:1.664
+[CRNN][2018-01-07 14:02:33]  Epoch 6 Predicted text:
+A fost o data ca niciodata a para a a far fa în far pre fara a para a a far fa în far pre fara a para a a far fa în far pre fara a para a a far fa în far pre fara a para a a far fa în far pre fara a para a a far fa în far pre
+[CRNN][2018-01-07 14:02:33] Running epoch 7 with 13255 steps
+[CRNN][2018-01-07 14:02:35]  Iter 93000 Predicted text:
+   A fost o data ca niciodatinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinustinust
+[CRNN][2018-01-07 14:02:39]  Iter 93500 Predicted text:
+   A fost o data ca niciodatia cu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu pu
+[CRNN][2018-01-07 14:02:43]  Iter 94000 Predicted text:
+   A fost o data ca niciodata pipia cari pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pera pe
+[CRNN][2018-01-07 14:02:47]  Iter 94500 Predicted text:
+   A fost o data ca niciodat sa mr si mi me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me m
+[CRNN][2018-01-07 14:02:51]  Iter 95000 Predicted text:
+   A fost o data ca niciodate scast s-aste.P sa scest santest sa scelast s-astu sastunt s-aste. Acesce scestinte sascast s-astul sastundest s-aste.P sa scest santest sa scelast s-astu sastunt s-aste. Acesce scestinte sascast s-a
+[CRNN][2018-01-07 14:02:55]  Iter 95500 Predicted text:
+   A fost o data ca niciodaterea se semere. Lumeamererere se se semere se semere. Lumeamererere se se semere se semere. Lumeamererere se se semere se semere. Lumeamererere se se semere se semere. Lumeamererere se se semere se se
+[CRNN][2018-01-07 14:02:59]  Iter 96000 Predicted text:
+   A fost o data ca niciodat a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a put a
+[CRNN][2018-01-07 14:03:03]  Iter 96500 Predicted text:
+   A fost o data ca niciodat cozei cucoz carea care ca foatera care car ca cocita car carea care car cate carea care care ca coatera care car ca focate oarea care car ca foa care car cate carea cucate oarela cardea coatea cocran
